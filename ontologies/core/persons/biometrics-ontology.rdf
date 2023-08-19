@@ -1,0 +1,15 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:tg="http://schema.thinkgraph.org/"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+    <!-- PersonBiometric Class -->
+    <rdfs:Class rdf:about="tg:PersonBiometric"/>
+    <rdf:Property rdf:about="tg:biometricType" rdfs:domain="tg:PersonBiometric" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="tg:biometricData" rdfs:domain="tg:PersonBiometric" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="tg:biometricDataEncrypted" rdfs:domain="tg:PersonBiometric" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="tg:biometricScore" rdfs:domain="tg:PersonBiometric" rdfs:range="xsd:double"/>
+    <rdf:Property rdf:about="tg:deviceType" rdfs:domain="tg:PersonBiometric" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="tg:deviceId" rdfs:domain="tg:PersonBiometric" rdfs:range="xsd:string"/>
+
+</rdf:RDF>

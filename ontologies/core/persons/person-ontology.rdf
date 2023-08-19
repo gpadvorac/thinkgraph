@@ -1,0 +1,16 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:tg="http://schema.thinkgraph.org/"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+    <!-- Person Class -->
+    <rdfs:Class rdf:about="tg:Person"/>
+    <rdf:Property rdf:about="tg:DID" rdfs:domain="tg:Person" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="tg:givenName" rdfs:domain="tg:Person" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="tg:middleName" rdfs:domain="tg:Person" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="tg:familyName" rdfs:domain="tg:Person" rdfs:range="xsd:string"/>
+
+    <!-- Properties For Any Class -->
+    <rdf:Property rdf:about="tg:timeStamp" rdfs:domain="rdfs:Resource" rdfs:range="xsd:dateTime"/>
+
+</rdf:RDF>
