@@ -1,0 +1,28 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:tg="http://schema.thinkgraph.org/"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+    <!-- Person Class -->
+    <rdfs:Class rdf:about="tg:Person"/>
+    <rdf:Property rdf:about="tg:proofOfPersonHood" rdfs:domain="tg:Person" rdfs:range="tg:ProofOfPersonHood"/>
+
+    <!-- ProofOfPersonHood Class -->
+    <rdfs:Class rdf:about="tg:ProofOfPersonHood"/>
+    <rdf:Property rdf:about="tg:personValidations" rdfs:domain="tg:ProofOfPersonHood" rdfs:range="tg:PersonValidation"/>
+    <rdf:Property rdf:about="tg:personIdentifications" rdfs:domain="tg:ProofOfPersonHood" rdfs:range="tg:PersonIdentification"/>
+
+    <!-- PersonValidation Class -->
+    <rdfs:Class rdf:about="tg:PersonValidation"/>
+    <rdf:Property rdf:about="tg:validatedById" rdfs:domain="tg:PersonValidation" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="tg:validatedTimeStamp" rdfs:domain="tg:PersonValidation" rdfs:range="xsd:dateTime"/>
+
+    <!-- PersonIdentification Class -->
+    <rdfs:Class rdf:about="tg:PersonIdentification"/>
+    <rdf:Property rdf:about="tg:idType" rdfs:domain="tg:PersonIdentification" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="tg:uniqueIdentifier" rdfs:domain="tg:PersonIdentification" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="tg:relatedFields" rdfs:domain="tg:PersonIdentification" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="tg:expirationDate" rdfs:domain="tg:PersonIdentification" rdfs:range="xsd:dateTime"/>
+    <rdf:Property rdf:about="tg:photos" rdfs:domain="tg:PersonIdentification" rdfs:range="xsd:string"/>
+
+</rdf:RDF>
