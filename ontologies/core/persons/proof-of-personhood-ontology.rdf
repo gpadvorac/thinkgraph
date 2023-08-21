@@ -18,6 +18,7 @@
     <rdf:Property rdf:about="common:timeStamp" rdfs:domain="rdfs:Resource" rdfs:range="xsd:dateTime"/>
 
     <!-- PersonIdentification Class -->
+    <!--   Note:  Need to add SHACL constraints to these when we get a better understanding of them.  -->
     <rdfs:Class rdf:about="proof:PersonIdentification"/>
     <!-- Drivers License, Passport, etc. -->
     <rdf:Property rdf:about="proof:idType" rdfs:domain="proof:PersonIdentification" rdfs:range="xsd:string"/>
