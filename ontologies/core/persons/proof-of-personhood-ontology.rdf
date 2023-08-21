@@ -1,28 +1,58 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-         xmlns:tg="http://schema.thinkgraph.org/"
+         xmlns:proof="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/core/persons/proof-of-personhood-ontology.rdf"
+         xmlns:common="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/core/common/common-properties-ontology.rdf"         
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
 
-    <!-- Person Class -->
-    <rdfs:Class rdf:about="tg:Person"/>
-    <rdf:Property rdf:about="tg:proofOfPersonHood" rdfs:domain="tg:Person" rdfs:range="tg:ProofOfPersonHood"/>
-
     <!-- ProofOfPersonHood Class -->
-    <rdfs:Class rdf:about="tg:ProofOfPersonHood"/>
-    <rdf:Property rdf:about="tg:personValidations" rdfs:domain="tg:ProofOfPersonHood" rdfs:range="tg:PersonValidation"/>
-    <rdf:Property rdf:about="tg:personIdentifications" rdfs:domain="tg:ProofOfPersonHood" rdfs:range="tg:PersonIdentification"/>
+    <rdfs:Class rdf:about="proof:ProofOfPersonHood"/>
+    <rdf:Property rdf:about="proof:personValidations" rdfs:domain="proof:ProofOfPersonHood" rdfs:range="proof:PersonValidation"/>
+    <rdf:Property rdf:about="proof:personIdentifications" rdfs:domain="proof:ProofOfPersonHood" rdfs:range="proof:PersonIdentification"/>
 
     <!-- PersonValidation Class -->
-    <rdfs:Class rdf:about="tg:PersonValidation"/>
-    <rdf:Property rdf:about="tg:validatedById" rdfs:domain="tg:PersonValidation" rdfs:range="xsd:string"/>
-    <rdf:Property rdf:about="tg:validatedTimeStamp" rdfs:domain="tg:PersonValidation" rdfs:range="xsd:dateTime"/>
+    <rdfs:Class rdf:about="proof:PersonValidation"/>
+    <rdf:Property rdf:about="proof:validatedById" rdfs:domain="proof:PersonValidation" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="proof:validationMethod" rdfs:domain="proof:PersonValidation" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="proof:validationStatus" rdfs:domain="proof:PersonValidation" rdfs:range="xsd:boolean"/>
+    <rdf:Property rdf:about="proof:validationNotes" rdfs:domain="proof:PersonValidation" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="common:timeStamp" rdfs:domain="rdfs:Resource" rdfs:range="xsd:dateTime"/>
 
     <!-- PersonIdentification Class -->
-    <rdfs:Class rdf:about="tg:PersonIdentification"/>
-    <rdf:Property rdf:about="tg:idType" rdfs:domain="tg:PersonIdentification" rdfs:range="xsd:string"/>
-    <rdf:Property rdf:about="tg:uniqueIdentifier" rdfs:domain="tg:PersonIdentification" rdfs:range="xsd:string"/>
-    <rdf:Property rdf:about="tg:relatedFields" rdfs:domain="tg:PersonIdentification" rdfs:range="xsd:string"/>
-    <rdf:Property rdf:about="tg:expirationDate" rdfs:domain="tg:PersonIdentification" rdfs:range="xsd:dateTime"/>
-    <rdf:Property rdf:about="tg:photos" rdfs:domain="tg:PersonIdentification" rdfs:range="xsd:string"/>
+    <!--   Note:  Need to add SHACL constraints to these when we get a better understanding of them.  -->
+    <rdfs:Class rdf:about="proof:PersonIdentification"/>
+    <!-- Drivers License, Passport, etc. -->
+    <rdf:Property rdf:about="proof:idType" rdfs:domain="proof:PersonIdentification" rdfs:range="xsd:string"/>
+    <!-- Drivers License Number, Passport ID, etc. -->
+    <rdf:Property rdf:about="proof:uniqueIdentifier" rdfs:domain="proof:PersonIdentification" rdfs:range="xsd:string"/>
+    <!-- Information about the authority or organization that issued the identification. -->
+    <rdf:Property rdf:about="proof:issuingAuthority" rdfs:domain="proof:PersonIdentification" rdfs:range="xsd:string"/>
+    <!-- The country where the identification was issued. -->
+    <rdf:Property rdf:about="proof:countryOfIssuance" rdfs:domain="proof:PersonIdentification" rdfs:range="xsd:string"/>
+    <!-- Information about the verification status of the identification (if applicable). -->
+    <rdf:Property rdf:about="proof:verificationStatus" rdfs:domain="proof:PersonIdentification" rdfs:range="xsd:boolean"/>
+    <!-- Including a digital signature could add an extra layer of authenticity.. -->
+    <rdf:Property rdf:about="proof:digitalSignature" rdfs:domain="proof:PersonIdentification" rdfs:range="xsd:string"/>
+    <!-- A collection of any other documents associated with the identification (e.g., utility bills for address verification).. -->
+    <rdf:Property rdf:about="proof:associatedDocuments" rdfs:domain="proof:PersonIdentification" rdfs:range="xsd:string"/>
+    <!-- Drivers License, Passport, etc. Expiration Date -->
+    <rdf:Property rdf:about="proof:expirationDate" rdfs:domain="proof:PersonIdentification" rdfs:range="xsd:dateTime"/>
+    <!-- This needs to be changed to a collection of photos.  Each photo will have a description like, front, back, or what ever makes sense. -->
+    <rdf:Property rdf:about="proof:photos" rdfs:domain="proof:PersonIdentification" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="common:timeStamp" rdfs:domain="rdfs:Resource" rdfs:range="xsd:dateTime"/>
+
+
+    <!-- PersonIdentificationPhoto Class -->
+    <rdfs:Class rdf:about="proof:PersonIdentificationPhoto"/>
+    <!-- Description of photo such as Front, Back, or what ever makes sense for the type of photo it is. -->
+    <rdf:Property rdf:about="proof:description" rdfs:domain="proof:Description" rdfs:range="xsd:string"/>
+    <!-- Serialization Type.  Photos -->
+    <rdf:Property rdf:about="proof:description" rdfs:domain="proof:Description" rdfs:range="xsd:string"/>
+    <!-- xxxx. -->
+    <rdf:Property rdf:about="proof:description" rdfs:domain="proof:Description" rdfs:range="xsd:string"/>
+
+
+
+
 
 </rdf:RDF>
+

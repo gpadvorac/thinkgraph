@@ -1,0 +1,18 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:common="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/core/common/common-properties-ontology.rdf"
+         xmlns:shacl="http://www.w3.org/ns/shacl#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+    <!-- timeStamp Property -->
+    <rdf:Property rdf:about="common:timeStamp" rdfs:domain="rdfs:Resource" rdfs:range="xsd:dateTime"/>
+
+    <!-- SHACL Shape for timeStamp -->
+    <shacl:NodeShape rdf:about="common:timeStampShape">
+        <shacl:targetProperty rdf:resource="common:timeStamp"/>
+        <shacl:datatype rdf:resource="xsd:dateTime"/>
+        <shacl:maxCount rdf:datatype="xsd:integer">1</shacl:maxCount>
+    </shacl:NodeShape>
+
+</rdf:RDF>
+
