@@ -1,0 +1,32 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:did="http://example.org/did#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+  <!-- Definition of DID Class -->
+  <rdf:Description rdf:about="http://example.org/did#DID">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+
+  <!-- Properties for DID -->
+  <rdf:Property rdf:about="http://example.org/did#didValue">
+    <rdfs:domain rdf:resource="http://example.org/did#DID"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://example.org/did#serviceEndpoint">
+    <rdfs:domain rdf:resource="http://example.org/did#DID"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://example.org/did#publicKey">
+    <rdfs:domain rdf:resource="http://example.org/did#DID"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Property>
+
+  <!-- Sample DID Instance -->
+  <did:DID rdf:about="http://example.org/did#sampleDID">
+    <did:didValue>did:example:123456789abcdefghi</did:didValue>
+    <did:serviceEndpoint>https://service.example.com</did:serviceEndpoint>
+    <did:publicKey>MIIBIjANBgkqhkiG9w0BA...</did:publicKey>
+  </did:DID>
+</rdf:RDF>
