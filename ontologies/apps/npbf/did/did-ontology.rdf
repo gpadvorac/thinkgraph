@@ -1,34 +1,52 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:did="http://example.org/did#"
-         xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:sh="http://www.w3.org/ns/shacl#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:did="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/apps/npbf/did/did-ontology.rdf#">
 
   <!-- Definition of DID Class -->
-  <rdf:Description rdf:about="http://example.org/did#DID">
-    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
-  </rdf:Description>
+  <rdfs:Class rdf:about="did:DID"/>
 
   <!-- Properties for DID -->
-  <rdf:Property rdf:about="http://example.org/did#didValue">
-    <rdfs:domain rdf:resource="http://example.org/did#DID"/>
-    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdf:Property rdf:about="did:didValue">
+    <rdfs:domain rdf:resource="did:DID"/>
+    <rdfs:range rdf:resource="xsd:string"/>
   </rdf:Property>
 
-  <rdf:Property rdf:about="http://example.org/did#serviceEndpoint">
-    <rdfs:domain rdf:resource="http://example.org/did#DID"/>
-    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+  <rdf:Property rdf:about="did:serviceEndpoint">
+    <rdfs:domain rdf:resource="did:DID"/>
+    <rdfs:range rdf:resource="xsd:anyURI"/>
   </rdf:Property>
 
-  <rdf:Property rdf:about="http://example.org/did#publicKey">
-    <rdfs:domain rdf:resource="http://example.org/did#DID"/>
-    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdf:Property rdf:about="did:publicKey">
+    <rdfs:domain rdf:resource="did:DID"/>
+    <rdfs:range rdf:resource="xsd:string"/>
   </rdf:Property>
 
-
-
-  <!-- Sample DID Instance   -->
-  <did:DID rdf:about="http://example.org/did#sampleDID">
-    <did:didValue>did:example:123456789abcdefghi</did:didValue>
-    <did:serviceEndpoint>https://service.example.com</did:serviceEndpoint>
-    <did:publicKey>MIIBIjANBgkqhkiG9w0BA...</did:publicKey>
-  </did:DID>
+  <!-- SHACL Shape for DID -->
+  <sh:Shape rdf:about="did:DIDShape">
+    <sh:targetClass rdf:resource="did:DID"/>
+    <sh:property>
+      <sh:PropertyShape>
+        <sh:path rdf:resource="did:didValue"/>
+        <sh:datatype rdf:resource="xsd:string"/>
+        <sh:minCount>1</sh:minCount>
+        <sh:maxCount>1</sh:maxCount>
+      </sh:PropertyShape>
+    </sh:property>
+    <sh:property>
+      <sh:PropertyShape>
+        <sh:path rdf:resource="did:serviceEndpoint"/>
+        <sh:datatype rdf:resource="xsd:anyURI"/>
+        <sh:minCount>1</sh:minCount>
+      </sh:PropertyShape>
+    </sh:property>
+    <sh:property>
+      <sh:PropertyShape>
+        <sh:path rdf:resource="did:publicKey"/>
+        <sh:datatype rdf:resource="xsd:string"/>
+        <sh:minCount>1</sh:minCount>
+      </sh:PropertyShape>
+    </sh:property>
+  </sh:Shape>
 </rdf:RDF>
