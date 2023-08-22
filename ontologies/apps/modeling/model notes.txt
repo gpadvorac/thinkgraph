@@ -1,0 +1,81 @@
+
+
+Models:
+Personal Information: Name, age, gender, contact details.
+Physical Attributes: Height, weight, eye color, hair color, etc.
+Portfolio: Photos, videos, previous work, etc.
+Skills and Experience: Languages spoken, acting experience, specialized skills (e.g., dance).
+Availability and Work Preferences: Locations willing to work, availability dates, preferred types of work (e.g., runway, commercial, print).
+Social Media Presence: Links to profiles, followers count.
+
+
+Clients:
+Company Information: Name, industry, contact details.
+Project Details: Campaigns, requirements (e.g., types of models needed), budget.
+History with the Agency: Past bookings, feedback, ratings.
+
+
+Contracts and Bookings:
+Contract Terms: Duration, payment terms, obligations, exclusivity clauses.
+Booking Details: Dates, locations, model(s) involved, client(s) involved.
+
+
+Agencies and Staff:
+Staff Profiles: Roles (e.g., agents, scouts, managers), contact information, experience.
+Agency Profile: Branch locations, specialization areas, history, reputation.
+
+
+Events and Casting Calls:
+Event Details: Date, location, type (e.g., audition, fashion show), participating models and clients.
+
+
+Financial Information:
+Income and Expenses: Fees, commissions, payments to models, operational costs.
+
+
+Compliance and Regulations:
+Legal Requirements: Work permits, licenses, adherence to labor laws, etc.
+
+
+Market Trends and Insights:
+Industry Trends: Popular styles, influential designers, market demands.
+Competitive Analysis: Information about competing agencies, their models, clients, strengths, and weaknesses.
+
+
+Relationships and Networks:
+Connections between different entities (e.g., relationships between models, clients, designers, photographers).
+
+
+Feedback and Ratings:
+Reviews and feedback from clients, models, and other stakeholders.
+
+
+Technology and Tools:
+Information about the software, platforms, and tools used by the agency, models, and clients.
+
+
+Other Stakeholders:
+Photographers, designers, makeup artists, and other professionals linked with the industry.
+
+
+External Factors:
+Economic conditions, political regulations, cultural influences that might affect the modeling industry.
+
+
+
+
+fasion-model-ontology
+Name, 
+age, 
+gender
+physicalAttributes ( collectin of physicalAttribute Classes with these properties: height, weight, eye color, hair color)
+skills (collection of skill classes with these properties: language, acting experience, specialized skills.  each one of these can be another collection such as multiple languages, multiple acting experiences, multiple specialized skills)
+availability (collection of availability classes with these properties: location willing to work, availability dates, preferred types of work)
+socialMediaPresence (collection of socialMediaPresence classes with these properties: links to profiles, followers count)
+experience (collection of experience classes with these properties: company, industry, contact details, campaigns, requirements, budget, past bookings, feedback, ratings)
+
+
+
+
+
+
