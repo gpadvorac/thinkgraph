@@ -64,7 +64,8 @@ Economic conditions, political regulations, cultural influences that might affec
 
 
 
-fasion-model-ontology
+
+fasion-model-ontology Class:
 Name, 
 age, 
 gender
