@@ -1,0 +1,75 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:person="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/core/persons/person-ontology.rdf"
+         xmlns:fashion="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/apps/modeling/fashion-model-ontology.rdf"
+         xmlns:shacl="http://www.w3.org/ns/shacl#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+    <!-- Inheriting from Person Class -->
+    <rdfs:Class rdf:about="fashion:FashionModel">
+        <rdfs:subClassOf rdf:resource="person:Person"/>
+    </rdfs:Class>
+
+    <!-- Additional Properties for Fashion Model -->
+    <rdf:Property rdf:about="fashion:gender" rdfs:domain="fashion:FashionModel" rdfs:range="xsd:string"/>    
+    <rdf:Property rdf:about="fashion:languagesSpoken" rdfs:domain="fashion:FashionModel" rdfs:range="fashion:Language"/>
+    <rdf:Property rdf:about="fashion:physicalAttributes" rdfs:domain="fashion:FashionModel" rdfs:range="fashion:PhysicalAttribute"/>
+    <rdf:Property rdf:about="fashion:skills" rdfs:domain="fashion:FashionModel" rdfs:range="fashion:Skill"/>
+    <rdf:Property rdf:about="fashion:availability" rdfs:domain="fashion:FashionModel" rdfs:range="fashion:Availability"/>
+    <rdf:Property rdf:about="fashion:socialMediaPresence" rdfs:domain="fashion:FashionModel" rdfs:range="fashion:SocialMediaPresence"/>
+    <rdf:Property rdf:about="fashion:experience" rdfs:domain="fashion:FashionModel" rdfs:range="fashion:Experience"/>
+
+    <!-- Language Class -->
+    <rdfs:Class rdf:about="fashion:Language"/>
+    <rdf:Property rdf:about="fashion:language" rdfs:domain="fashion:Language" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="fashion:level" rdfs:domain="fashion:Language">
+        <rdfs:range>
+            <rdfs:Datatype>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="fashion:basic"/>
+                    <rdf:Description rdf:about="fashion:conversational"/>
+                    <rdf:Description rdf:about="fashion:fluent"/>
+                    <rdf:Description rdf:about="fashion:native-bilingual"/>
+                </owl:oneOf>
+            </rdfs:Datatype>
+        </rdfs:range>
+    </rdf:Property>
+
+
+    <!-- Physical Attributes Class -->
+    <rdfs:Class rdf:about="fashion:PhysicalAttribute"/>
+    <rdf:Property rdf:about="fashion:height" rdfs:domain="fashion:PhysicalAttribute" rdfs:range="xsd:float"/>
+    <rdf:Property rdf:about="fashion:weight" rdfs:domain="fashion:PhysicalAttribute" rdfs:range="xsd:float"/>
+    <rdf:Property rdf:about="fashion:eyeColor" rdfs:domain="fashion:PhysicalAttribute" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="fashion:hairColor" rdfs:domain="fashion:PhysicalAttribute" rdfs:range="xsd:string"/>
+
+    <!-- Skill Class -->
+    <rdfs:Class rdf:about="fashion:Skill"/>
+    <rdf:Property rdf:about="fashion:language" rdfs:domain="fashion:Skill" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="fashion:actingExperience" rdfs:domain="fashion:Skill" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="fashion:specializedSkills" rdfs:domain="fashion:Skill" rdfs:range="xsd:string"/>
+
+    <!-- Availability Class -->
+    <rdfs:Class rdf:about="fashion:Availability"/>
+    <rdf:Property rdf:about="fashion:locationWillingToWork" rdfs:domain="fashion:Availability" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="fashion:availabilityDates" rdfs:domain="fashion:Availability" rdfs:range="xsd:date"/>
+    <rdf:Property rdf:about="fashion:preferredTypesOfWork" rdfs:domain="fashion:Availability" rdfs:range="xsd:string"/>
+
+    <!-- Social Media Presence Class -->
+    <rdfs:Class rdf:about="fashion:SocialMediaPresence"/>
+    <rdf:Property rdf:about="fashion:linksToProfiles" rdfs:domain="fashion:SocialMediaPresence" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="fashion:followersCount" rdfs:domain="fashion:SocialMediaPresence" rdfs:range="xsd:integer"/>
+
+    <!-- Experience Class -->
+    <rdfs:Class rdf:about="fashion:Experience"/>
+    <rdf:Property rdf:about="fashion:company" rdfs:domain="fashion:Experience" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="fashion:industry" rdfs:domain="fashion:Experience" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="fashion:contactDetails" rdfs:domain="fashion:Experience" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="fashion:campaigns" rdfs:domain="fashion:Experience" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="fashion:requirements" rdfs:domain="fashion:Experience" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="fashion:budget" rdfs:domain="fashion:Experience" rdfs:range="xsd:float"/>
+    <rdf:Property rdf:about="fashion:pastBookings" rdfs:domain="fashion:Experience" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="fashion:feedback" rdfs:domain="fashion:Experience" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="fashion:ratings" rdfs:domain="fashion:Experience" rdfs:range="xsd:float"/>
+
+</rdf:RDF>

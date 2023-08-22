@@ -1,0 +1,39 @@
+<fashion:FashionModel rdf:about="urn:uuid:123e4567-e89b-12d3-a456-426614174000">
+    <person:DID>did:example:123456789abcdefghi</person:DID>
+    <person:givenName>Isabella</person:givenName>
+    <person:familyName>Montenegro</person:familyName>
+    <person:timeStamp>2023-08-22T00:00:00Z</person:timeStamp>
+    <fashion:gender>Female</fashion:gender>
+    <fashion:languagesSpoken>
+        <fashion:Language>
+            <fashion:language>English</fashion:language>
+            <fashion:level rdf:resource="fashion:fluent"/>
+        </fashion:Language>
+        <fashion:Language>
+            <fashion:language>Spanish</fashion:language>
+            <fashion:level rdf:resource="fashion:native-bilingual"/>
+        </fashion:Language>
+    </fashion:languagesSpoken>
+    <fashion:physicalAttributes>
+        <fashion:height>1.75</fashion:height>
+        <fashion:weight>60</fashion:weight>
+        <fashion:eyeColor>Brown</fashion:eyeColor>
+        <fashion:hairColor>Black</fashion:hairColor>
+    </fashion:physicalAttributes>
+    <fashion:skills>
+        <fashion:language>Acting</fashion:language>
+        <fashion:actingExperience>3 years</fashion:actingExperience>
+        <fashion:specializedSkills>Dance</fashion:specializedSkills>
+    </fashion:skills>
+    <fashion:availability>
+        <fashion:locationWillingToWork>Europe</fashion:locationWillingToWork>
+        <fashion:availabilityDates>2023-09-01</fashion:availabilityDates>
+        <fashion:preferredTypesOfWork>Runway</fashion:preferredTypesOfWork>
+    </fashion:availability>
+    <fashion:socialMediaPresence>
+        <fashion:linksToProfiles>https://www.instagram.com/isabellamodel</fashion:linksToProfiles>
+        <fashion:followersCount>50000</fashion:followersCount>
+    </fashion:socialMediaPresence>
+</fashion:FashionModel>
+
+<!-- Repeat similar data for other models -->
