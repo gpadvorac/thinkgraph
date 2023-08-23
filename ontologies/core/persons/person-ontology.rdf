@@ -1,10 +1,10 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-         xmlns:person="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/core/persons/person-ontology.rdf"
-         xmlns:common="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/core/common/common-props-ontology.rdf"
+         xmlns:person="http://thinkgraph.org/ontologies/core/persons#"
+         xmlns:common="http://thinkgraph.org/ontologies/core/common#"
          xmlns:shacl="http://www.w3.org/ns/shacl#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-         xmlns:did="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/apps/npbf/did/did-ontology.rdf#">
+         xmlns:did="http://thinkgraph.org/ontologies/apps/npbf/did#">
 
     <!-- Person Class -->
     <rdfs:Class rdf:about="person:Person"/>
