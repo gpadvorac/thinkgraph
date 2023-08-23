@@ -1,9 +1,9 @@
 {
     "@context": {
       "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-      "person": "https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/core/persons/person-ontology.rdf",
-      "fashion": "https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/apps/modeling/fashion-model-ontology.rdf",
-      "did": "https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/apps/npbf/did/did-ontology.rdf",
+      "person": "http://thinkgraph.org/ontologies/core/persons#",
+      "fashion": "http://thinkgraph.org/ontologies/apps/fashion-modeling#",
+      "did": "http://thinkgraph.org/ontologies/apps/npbf/did#",
       "xsd": "http://www.w3.org/2001/XMLSchema#"
     },
     "@graph": [
