@@ -1,6 +1,6 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-         xmlns:common="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/core/common/common-props-ontology.rdf"
+         xmlns:common="http://thinkgraph.org/ontologies/core/common#"
          xmlns:shacl="http://www.w3.org/ns/shacl#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
 

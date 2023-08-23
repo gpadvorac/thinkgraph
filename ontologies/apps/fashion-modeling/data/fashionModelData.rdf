@@ -1,7 +1,7 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:person="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/core/persons/person-ontology.rdf"
-         xmlns:fashion="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/apps/modeling/fashion-model-ontology.rdf"
-         xmlns:did="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/apps/npbf/did/did-ontology.rdf"
+         xmlns:person="http://thinkgraph.org/ontologies/core/persons#"
+         xmlns:fashion="http://thinkgraph.org/ontologies/apps/fashion-modeling#"
+         xmlns:did="http://thinkgraph.org/ontologies/apps/npbf/did#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
 
     <fashion:FashionModel rdf:about="fashion:GUID-12345">

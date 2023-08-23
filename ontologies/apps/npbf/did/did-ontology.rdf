@@ -2,7 +2,7 @@
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
          xmlns:sh="http://www.w3.org/ns/shacl#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-         xmlns:did="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/apps/npbf/did/did-ontology.rdf#">
+         xmlns:did="http://thinkgraph.org/ontologies/apps/npbf/did#">
 
   <!-- Definition of DID Class -->
   <rdfs:Class rdf:about="did:DID"/>
