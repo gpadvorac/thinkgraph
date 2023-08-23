@@ -1,0 +1,545 @@
+{
+    "@context": {
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "person": "https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/core/persons/person-ontology.rdf",
+      "fashion": "https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/apps/modeling/fashion-model-ontology.rdf",
+      "did": "https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/apps/npbf/did/did-ontology.rdf",
+      "xsd": "http://www.w3.org/2001/XMLSchema#"
+    },
+    "@graph": [
+      {
+        "@id": "fashion:GUID-12345",
+        "@type": "fashion:FashionModel",
+        "person:DID": "did:did:123456789abcdefghi",
+        "person:givenName": "Alessandra",
+        "person:familyName": "Fiorentini",
+        "person:birthDate": {
+          "@value": "1992-03-28",
+          "@type": "xsd:date"
+        },
+        "fashion:gender": "Female",
+        "fashion:languagesSpoken": [
+          {
+            "fashion:language": "English",
+            "fashion:level": "fashion:fluent"
+          },
+          {
+            "fashion:language": "Italian",
+            "fashion:level": "fashion:native-bilingual"
+          }
+        ],
+        "fashion:physicalAttributes": {
+          "fashion:height": {
+            "@value": "1.75",
+            "@type": "xsd:float"
+          },
+          "fashion:weight": {
+            "@value": "60.0",
+            "@type": "xsd:float"
+          },
+          "fashion:eyeColor": "Green",
+          "fashion:hairColor": "Brown"
+        },
+        "fashion:skills": {
+          "fashion:language": "French",
+          "fashion:actingExperience": "Intermediate",
+          "fashion:specializedSkills": "Dancing, Posing"
+        },
+        "fashion:availability": {
+          "fashion:locationWillingToWork": "Europe, North America",
+          "fashion:availabilityDates": {
+            "@value": "2023-09-01",
+            "@type": "xsd:date"
+          },
+          "fashion:preferredTypesOfWork": "Runway, Commercial"
+        },
+        "fashion:socialMediaPresence": {
+          "fashion:linksToProfiles": "https://www.instagram.com/alessandra_fio",
+          "fashion:followersCount": {
+            "@value": "500000",
+            "@type": "xsd:integer"
+          }
+        }
+      },
+      {
+        "@id": "fashion:GUID-67890",
+        "@type": "fashion:FashionModel",
+        "person:DID": "did:did:987654321bcdefghi",
+        "person:givenName": "Lysandre",
+        "person:familyName": "Santos",
+        "person:birthDate": {
+          "@value": "1994-05-10",
+          "@type": "xsd:date"
+        },
+        "fashion:gender": "Male",
+        "fashion:languagesSpoken": [
+          {
+            "fashion:language": "English",
+            "fashion:level": "fashion:fluent"
+          },
+          {
+            "fashion:language": "Portuguese",
+            "fashion:level": "fashion:native-bilingual"
+          }
+        ],
+        "fashion:physicalAttributes": {
+          "fashion:height": {
+            "@value": "1.82",
+            "@type": "xsd:float"
+          },
+          "fashion:weight": {
+            "@value": "75.0",
+            "@type": "xsd:float"
+          },
+          "fashion:eyeColor": "Brown",
+          "fashion:hairColor": "Black"
+        },
+        "fashion:skills": {
+          "fashion:language": "Spanish",
+          "fashion:actingExperience": "Beginner",
+          "fashion:specializedSkills": "Photography, Acting"
+        },
+        "fashion:availability": {
+          "fashion:locationWillingToWork": "South America, North America",
+          "fashion:availabilityDates": {
+            "@value": "2023-08-15",
+            "@type": "xsd:date"
+          },
+          "fashion:preferredTypesOfWork": "Runway, Editorial"
+        },
+        "fashion:socialMediaPresence": {
+          "fashion:linksToProfiles": "https://www.instagram.com/lysandre_santos",
+          "fashion:followersCount": {
+            "@value": "300000",
+            "@type": "xsd:integer"
+          }
+        }
+      },
+      {
+        "@id": "fashion:GUID-23456",
+        "@type": "fashion:FashionModel",
+        "person:DID": "did:did:234567891abcdefghi",
+        "person:givenName": "Kiara",
+        "person:familyName": "Nakamura",
+        "person:birthDate": {
+          "@value": "1996-12-15",
+          "@type": "xsd:date"
+        },
+        "fashion:gender": "Female",
+        "fashion:languagesSpoken": [
+          {
+            "@type": "fashion:Language",
+            "fashion:language": "English",
+            "fashion:level": "fashion:fluent"
+          },
+          {
+            "@type": "fashion:Language",
+            "fashion:language": "Japanese",
+            "fashion:level": "fashion:native-bilingual"
+          }
+        ],
+        "fashion:physicalAttributes": {
+          "fashion:height": {
+            "@value": 1.68,
+            "@type": "xsd:float"
+          },
+          "fashion:weight": {
+            "@value": 52.0,
+            "@type": "xsd:float"
+          },
+          "fashion:eyeColor": "Blue",
+          "fashion:hairColor": "Blonde"
+        },
+        "fashion:skills": {
+          "fashion:language": "Mandarin",
+          "fashion:actingExperience": "Advanced",
+          "fashion:specializedSkills": "Singing, Yoga"
+        },
+        "fashion:availability": {
+          "fashion:locationWillingToWork": "Asia, Europe",
+          "fashion:availabilityDates": {
+            "@value": "2023-10-01",
+            "@type": "xsd:date"
+          },
+          "fashion:preferredTypesOfWork": "Print, Commercial"
+        },
+        "fashion:socialMediaPresence": {
+          "fashion:linksToProfiles": "https://www.instagram.com/kiara_nakamura",
+          "fashion:followersCount": {
+            "@value": 450000,
+            "@type": "xsd:integer"
+          }
+        }
+      },
+      {
+        "@id": "fashion:GUID-53751",
+        "@type": "fashion:FashionModel",
+        "person:DID": "did:did:543219876abcdef",
+        "person:givenName": "Amara",
+        "person:familyName": "Diop",
+        "person:birthDate": {
+          "@value": "1998-03-23",
+          "@type": "xsd:date"
+        },
+        "fashion:gender": "Female",
+        "fashion:languagesSpoken": [
+          {
+            "@type": "fashion:Language",
+            "fashion:language": "English",
+            "fashion:level": "fashion:fluent"
+          },
+          {
+            "@type": "fashion:Language",
+            "fashion:language": "French",
+            "fashion:level": "fashion:native-bilingual"
+          }
+        ],
+        "fashion:physicalAttributes": {
+          "fashion:height": {
+            "@value": 1.75,
+            "@type": "xsd:float"
+          },
+          "fashion:weight": {
+            "@value": 60.0,
+            "@type": "xsd:float"
+          },
+          "fashion:eyeColor": "Brown",
+          "fashion:hairColor": "Black"
+        },
+        "fashion:skills": {
+          "fashion:language": "Italian",
+          "fashion:actingExperience": "Intermediate",
+          "fashion:specializedSkills": "Dance, Public Speaking"
+        },
+        "fashion:availability": {
+          "fashion:locationWillingToWork": "Europe, Africa",
+          "fashion:availabilityDates": {
+            "@value": "2023-09-05",
+            "@type": "xsd:date"
+          },
+          "fashion:preferredTypesOfWork": "Runway, Editorial"
+        },
+        "fashion:socialMediaPresence": {
+          "fashion:linksToProfiles": "https://www.instagram.com/amara_diop",
+          "fashion:followersCount": {
+            "@value": 200000,
+            "@type": "xsd:integer"
+          }
+        }
+      },
+      {
+        "@context": {
+          "fashion": "http://example.com/fashion#",
+          "person": "http://example.com/person#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#"
+        },
+        "@id": "fashion:GUID-78901",
+        "person:DID": "did:did:109872345cdefghi",
+        "person:givenName": "Fabian",
+        "person:familyName": "Lopez",
+        "person:birthDate": {
+          "@type": "xsd:date",
+          "@value": "1992-07-08"
+        },
+        "fashion:gender": "Male",
+        "fashion:languagesSpoken": [
+          {
+            "fashion:language": "English",
+            "fashion:level": "fashion:fluent"
+          },
+          {
+            "fashion:language": "Spanish",
+            "fashion:level": "fashion:native-bilingual"
+          }
+        ],
+        "fashion:physicalAttributes": {
+          "fashion:height": {
+            "@type": "xsd:float",
+            "@value": "1.85"
+          },
+          "fashion:weight": {
+            "@type": "xsd:float",
+            "@value": "80.0"
+          },
+          "fashion:eyeColor": "Green",
+          "fashion:hairColor": "Brown"
+        },
+        "fashion:skills": {
+          "fashion:language": "French",
+          "fashion:actingExperience": "Advanced",
+          "fashion:specializedSkills": "Acting, Gymnastics"
+        },
+        "fashion:availability": {
+          "fashion:locationWillingToWork": "North America, South America",
+          "fashion:availabilityDates": {
+            "@type": "xsd:date",
+            "@value": "2023-11-15"
+          },
+          "fashion:preferredTypesOfWork": "Commercial, Print"
+        },
+        "fashion:socialMediaPresence": {
+          "fashion:linksToProfiles": "https://www.instagram.com/fabian_lopez",
+          "fashion:followersCount": {
+            "@type": "xsd:integer",
+            "@value": "350000"
+          }
+        }
+      },
+      {
+        "@context": {
+          "fashion": "http://example.com/fashion#",
+          "person": "http://example.com/person#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#"
+        },
+        "@id": "fashion:GUID-34567",
+        "person:DID": "did:did:345673456jklmn",
+        "person:givenName": "Larisa",
+        "person:familyName": "Ivanova",
+        "person:birthDate": {
+          "@type": "xsd:date",
+          "@value": "1998-02-25"
+        },
+        "fashion:gender": "Female",
+        "fashion:languagesSpoken": [
+          {
+            "fashion:language": "English",
+            "fashion:level": "fashion:fluent"
+          },
+          {
+            "fashion:language": "Russian",
+            "fashion:level": "fashion:native-bilingual"
+          }
+        ],
+        "fashion:physicalAttributes": {
+          "fashion:height": {
+            "@type": "xsd:float",
+            "@value": "1.73"
+          },
+          "fashion:weight": {
+            "@type": "xsd:float",
+            "@value": "56.0"
+          },
+          "fashion:eyeColor": "Blue",
+          "fashion:hairColor": "Blonde"
+        },
+        "fashion:skills": {
+          "fashion:actingExperience": "Beginner",
+          "fashion:specializedSkills": "Posing, Yoga"
+        },
+        "fashion:availability": {
+          "fashion:locationWillingToWork": "Europe, Russia",
+          "fashion:availabilityDates": {
+            "@type": "xsd:date",
+            "@value": "2023-10-12"
+          },
+          "fashion:preferredTypesOfWork": "Editorial, Runway"
+        },
+        "fashion:socialMediaPresence": {
+          "fashion:linksToProfiles": "https://www.instagram.com/larisa_ivanova",
+          "fashion:followersCount": {
+            "@type": "xsd:integer",
+            "@value": "300000"
+          }
+        }
+      },
+      {
+        "@context": {
+          "fashion": "http://example.com/fashion#",
+          "person": "http://example.com/person#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#"
+        },
+        "@type": "fashion:FashionModel",
+        "rdf:about": "fashion:GUID-89012",
+        "person:DID": "did:did:890128901tyuiop",
+        "person:givenName": "Xavier",
+        "person:familyName": "González",
+        "person:birthDate": {
+          "@value": "1986-09-13",
+          "@type": "xsd:date"
+        },
+        "fashion:gender": "Male",
+        "fashion:languagesSpoken": [
+          {
+            "fashion:language": "English",
+            "fashion:level": "fashion:fluent"
+          },
+          {
+            "fashion:language": "Spanish",
+            "fashion:level": "fashion:native-bilingual"
+          }
+        ],
+        "fashion:physicalAttributes": {
+          "fashion:height": {
+            "@value": 1.85,
+            "@type": "xsd:float"
+          },
+          "fashion:weight": {
+            "@value": 75.0,
+            "@type": "xsd:float"
+          },
+          "fashion:eyeColor": "Brown",
+          "fashion:hairColor": "Black"
+        },
+        "fashion:skills": {
+          "fashion:actingExperience": "Advanced",
+          "fashion:specializedSkills": ["Gymnastics", "Acting"]
+        },
+        "fashion:availability": {
+          "fashion:locationWillingToWork": ["South America", "North America"],
+          "fashion:availabilityDates": {
+            "@value": "2023-08-30",
+            "@type": "xsd:date"
+          },
+          "fashion:preferredTypesOfWork": ["Commercial", "Runway"]
+        },
+        "fashion:socialMediaPresence": {
+          "fashion:linksToProfiles": "https://www.instagram.com/xavier_gonzalez",
+          "fashion:followersCount": {
+            "@value": 420000,
+            "@type": "xsd:integer"
+          }
+        }
+      },
+      {
+        "@context": {
+          "fashion": "http://example.com/fashion#",
+          "person": "http://example.com/person#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#"
+        },
+        "@type": "fashion:FashionModel",
+        "rdf:about": "fashion:GUID-56789",
+        "person:DID": "did:did:567895678qwerty",
+        "person:givenName": "Chiara",
+        "person:familyName": "Ferragni",
+        "person:birthDate": {
+          "@value": "1993-05-07",
+          "@type": "xsd:date"
+        },
+        "fashion:gender": "Female",
+        "fashion:languagesSpoken": [
+          {
+            "fashion:language": "English",
+            "fashion:level": "fashion:fluent"
+          },
+          {
+            "fashion:language": "Italian",
+            "fashion:level": "fashion:native-bilingual"
+          }
+        ],
+        "fashion:physicalAttributes": {
+          "fashion:height": {
+            "@value": 1.70,
+            "@type": "xsd:float"
+          },
+          "fashion:weight": {
+            "@value": 53.0,
+            "@type": "xsd:float"
+          },
+          "fashion:eyeColor": "Green",
+          "fashion:hairColor": "Light Brown"
+        },
+        "fashion:skills": {
+          "fashion:actingExperience": "Intermediate",
+          "fashion:specializedSkills": ["Dancing", "Makeup"]
+        },
+        "fashion:availability": {
+          "fashion:locationWillingToWork": ["Italy", "Europe"],
+          "fashion:availabilityDates": {
+            "@value": "2023-11-15",
+            "@type": "xsd:date"
+          },
+          "fashion:preferredTypesOfWork": ["Editorial", "Commercial"]
+        },
+        "fashion:socialMediaPresence": {
+          "fashion:linksToProfiles": "https://www.instagram.com/chiara_ferragni",
+          "fashion:followersCount": {
+            "@value": 600000,
+            "@type": "xsd:integer"
+          }
+        }
+      },
+      {
+        "@id": "fashion:GUID-56789",
+        "@type": "fashion:FashionModel",
+        "person:DID": "did:did:567895678qazwsx",
+        "person:givenName": "Ayaka",
+        "person:familyName": "Yamamoto",
+        "person:birthDate": {
+          "@type": "xsd:date",
+          "@value": "1994-07-18"
+        },
+        "fashion:gender": "Female",
+        "fashion:languagesSpoken": [
+          {
+            "fashion:language": "English",
+            "fashion:level": "fashion:conversational"
+          },
+          {
+            "fashion:language": "Japanese",
+            "fashion:level": "fashion:native-bilingual"
+          }
+        ],
+        "fashion:physicalAttributes": {
+          "fashion:height": 1.68,
+          "fashion:weight": 52.0,
+          "fashion:eyeColor": "Brown",
+          "fashion:hairColor": "Black"
+        },
+        "fashion:skills": {
+          "fashion:actingExperience": "Intermediate",
+          "fashion:specializedSkills": ["Dance", "Calligraphy"]
+        },
+        "fashion:availability": {
+          "fashion:locationWillingToWork": ["Asia", "North America"],
+          "fashion:availabilityDates": "2023-09-15",
+          "fashion:preferredTypesOfWork": ["Editorial", "Commercial"]
+        },
+        "fashion:socialMediaPresence": {
+          "fashion:linksToProfiles": "https://www.instagram.com/ayaka_yamamoto",
+          "fashion:followersCount": 200000
+        }
+      },
+      {
+        "@id": "fashion:GUID-91011",
+        "@type": "fashion:FashionModel",
+        "person:DID": "did:did:9101191011edcrfv",
+        "person:givenName": "Lorenzo",
+        "person:familyName": "Ferrari",
+        "person:birthDate": {
+          "@type": "xsd:date",
+          "@value": "1990-03-21"
+        },
+        "fashion:gender": "Male",
+        "fashion:languagesSpoken": [
+          {
+            "fashion:language": "English",
+            "fashion:level": "fashion:conversational"
+          },
+          {
+            "fashion:language": "Italian",
+            "fashion:level": "fashion:native-bilingual"
+          }
+        ],
+        "fashion:physicalAttributes": {
+          "fashion:height": 1.88,
+          "fashion:weight": 80.0,
+          "fashion:eyeColor": "Blue",
+          "fashion:hairColor": "Blond"
+        },
+        "fashion:skills": {
+          "fashion:actingExperience": "Advanced",
+          "fashion:specializedSkills": ["Sculpture", "Painting"]
+        },
+        "fashion:availability": {
+          "fashion:locationWillingToWork": ["Europe", "North America"],
+          "fashion:availabilityDates": "2023-10-10",
+          "fashion:preferredTypesOfWork": ["Runway", "Commercial"]
+        },
+        "fashion:socialMediaPresence": {
+          "fashion:linksToProfiles": "https://www.instagram.com/lorenzo_ferrari",
+          "fashion:followersCount": 150000
+        }
+      }
+    ]
+  }
+  
