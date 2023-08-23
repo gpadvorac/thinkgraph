@@ -1,9 +1,199 @@
-<fashion:FashionModel rdf:about="urn:uuid:123e4567-e89b-12d3-a456-426614174000">
-    <person:DID>did:example:123456789abcdefghi</person:DID>
-    <person:givenName>Isabella</person:givenName>
-    <person:familyName>Montenegro</person:familyName>
-    <person:timeStamp>2023-08-22T00:00:00Z</person:timeStamp>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:person="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/core/persons/person-ontology.rdf"
+         xmlns:fashion="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/apps/modeling/fashion-model-ontology.rdf"
+         xmlns:did="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/apps/npbf/did/did-ontology.rdf"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+    <fashion:FashionModel rdf:about="fashion:GUID-12345">
+        <person:DID>did:did:123456789abcdefghi</person:DID>
+        <person:givenName>Alessandra</person:givenName>
+        <person:familyName>Fiorentini</person:familyName>
+        <person:birthDate rdf:datatype="xsd:date">1992-03-28</person:birthDate>
+        <fashion:gender>Female</fashion:gender>
+        <fashion:languagesSpoken>
+            <fashion:Language>
+                <fashion:language>English</fashion:language>
+                <fashion:level rdf:resource="fashion:fluent"/>
+            </fashion:Language>
+            <fashion:Language>
+                <fashion:language>Italian</fashion:language>
+                <fashion:level rdf:resource="fashion:native-bilingual"/>
+            </fashion:Language>
+        </fashion:languagesSpoken>
+        <fashion:physicalAttributes>
+            <fashion:PhysicalAttribute>
+                <fashion:height rdf:datatype="xsd:float">1.75</fashion:height>
+                <fashion:weight rdf:datatype="xsd:float">60.0</fashion:weight>
+                <fashion:eyeColor>Green</fashion:eyeColor>
+                <fashion:hairColor>Brown</fashion:hairColor>
+            </fashion:PhysicalAttribute>
+        </fashion:physicalAttributes>
+        <fashion:skills>
+            <fashion:Skill>
+                <fashion:language>French</fashion:language>
+                <fashion:actingExperience>Intermediate</fashion:actingExperience>
+                <fashion:specializedSkills>Dancing, Posing</fashion:specializedSkills>
+            </fashion:Skill>
+        </fashion:skills>
+        <fashion:availability>
+            <fashion:Availability>
+                <fashion:locationWillingToWork>Europe, North America</fashion:locationWillingToWork>
+                <fashion:availabilityDates rdf:datatype="xsd:date">2023-09-01</fashion:availabilityDates>
+                <fashion:preferredTypesOfWork>Runway, Commercial</fashion:preferredTypesOfWork>
+            </fashion:Availability>
+        </fashion:availability>
+        <fashion:socialMediaPresence>
+            <fashion:SocialMediaPresence>
+                <fashion:linksToProfiles>https://www.instagram.com/alessandra_fio</fashion:linksToProfiles>
+                <fashion:followersCount rdf:datatype="xsd:integer">500000</fashion:followersCount>
+            </fashion:SocialMediaPresence>
+        </fashion:socialMediaPresence>
+    </fashion:FashionModel>,
+<!-- Fashion Model 2 -->
+<fashion:FashionModel rdf:about="fashion:GUID-67890">
+    <person:DID>did:did:987654321bcdefghi</person:DID>
+    <person:givenName>Lysandre</person:givenName>
+    <person:familyName>Santos</person:familyName>
+    <person:birthDate rdf:datatype="xsd:date">1994-05-10</person:birthDate>
+    <fashion:gender>Male</fashion:gender>
+    <fashion:languagesSpoken>
+        <fashion:Language>
+            <fashion:language>English</fashion:language>
+            <fashion:level rdf:resource="fashion:fluent"/>
+        </fashion:Language>
+        <fashion:Language>
+            <fashion:language>Portuguese</fashion:language>
+            <fashion:level rdf:resource="fashion:native-bilingual"/>
+        </fashion:Language>
+    </fashion:languagesSpoken>
+    <fashion:physicalAttributes>
+        <fashion:PhysicalAttribute>
+            <fashion:height rdf:datatype="xsd:float">1.82</fashion:height>
+            <fashion:weight rdf:datatype="xsd:float">75.0</fashion:weight>
+            <fashion:eyeColor>Brown</fashion:eyeColor>
+            <fashion:hairColor>Black</fashion:hairColor>
+        </fashion:PhysicalAttribute>
+    </fashion:physicalAttributes>
+    <fashion:skills>
+        <fashion:Skill>
+            <fashion:language>Spanish</fashion:language>
+            <fashion:actingExperience>Beginner</fashion:actingExperience>
+            <fashion:specializedSkills>Photography, Acting</fashion:specializedSkills>
+        </fashion:Skill>
+    </fashion:skills>
+    <fashion:availability>
+        <fashion:Availability>
+            <fashion:locationWillingToWork>South America, North America</fashion:locationWillingToWork>
+            <fashion:availabilityDates rdf:datatype="xsd:date">2023-08-15</fashion:availabilityDates>
+            <fashion:preferredTypesOfWork>Runway, Editorial</fashion:preferredTypesOfWork>
+        </fashion:Availability>
+    </fashion:availability>
+    <fashion:socialMediaPresence>
+        <fashion:SocialMediaPresence>
+            <fashion:linksToProfiles>https://www.instagram.com/lysandre_santos</fashion:linksToProfiles>
+            <fashion:followersCount rdf:datatype="xsd:integer">300000</fashion:followersCount>
+        </fashion:SocialMediaPresence>
+    </fashion:socialMediaPresence>
+</fashion:FashionModel>
+<!-- Fashion Model 3 -->
+<fashion:FashionModel rdf:about="fashion:GUID-23456">
+    <person:DID>did:did:234567891abcdefghi</person:DID>
+    <person:givenName>Kiara</person:givenName>
+    <person:familyName>Nakamura</person:familyName>
+    <person:birthDate rdf:datatype="xsd:date">1996-12-15</person:birthDate>
     <fashion:gender>Female</fashion:gender>
+    <fashion:languagesSpoken>
+        <fashion:Language>
+            <fashion:language>English</fashion:language>
+            <fashion:level rdf:resource="fashion:fluent"/>
+        </fashion:Language>
+        <fashion:Language>
+            <fashion:language>Japanese</fashion:language>
+            <fashion:level rdf:resource="fashion:native-bilingual"/>
+        </fashion:Language>
+    </fashion:languagesSpoken>
+    <fashion:physicalAttributes>
+        <fashion:PhysicalAttribute>
+            <fashion:height rdf:datatype="xsd:float">1.68</fashion:height>
+            <fashion:weight rdf:datatype="xsd:float">52.0</fashion:weight>
+            <fashion:eyeColor>Blue</fashion:eyeColor>
+            <fashion:hairColor>Blonde</fashion:hairColor>
+        </fashion:PhysicalAttribute>
+    </fashion:physicalAttributes>
+    <fashion:skills>
+        <fashion:Skill>
+            <fashion:language>Mandarin</fashion:language>
+            <fashion:actingExperience>Advanced</fashion:actingExperience>
+            <fashion:specializedSkills>Singing, Yoga</fashion:specializedSkills>
+        </fashion:Skill>
+    </fashion:skills>
+    <fashion:availability>
+        <fashion:Availability>
+            <fashion:locationWillingToWork>Asia, Europe</fashion:locationWillingToWork>
+            <fashion:availabilityDates rdf:datatype="xsd:date">2023-10-01</fashion:availabilityDates>
+            <fashion:preferredTypesOfWork>Print, Commercial</fashion:preferredTypesOfWork>
+        </fashion:Availability>
+    </fashion:availability>
+    <fashion:socialMediaPresence>
+        <fashion:SocialMediaPresence>
+            <fashion:linksToProfiles>https://www.instagram.com/kiara_nakamura</fashion:linksToProfiles>
+            <fashion:followersCount rdf:datatype="xsd:integer">450000</fashion:followersCount>
+        </fashion:SocialMediaPresence>
+    </fashion:socialMediaPresence>
+</fashion:FashionModel>,
+<!-- Fashion Model 4 -->
+<fashion:FashionModel rdf:about="fashion:GUID-53751">
+    <person:DID>did:did:543219876abcdef</person:DID>
+    <person:givenName>Amara</person:givenName>
+    <person:familyName>Diop</person:familyName>
+    <person:birthDate rdf:datatype="xsd:date">1998-03-23</person:birthDate>
+    <fashion:gender>Female</fashion:gender>
+    <fashion:languagesSpoken>
+        <fashion:Language>
+            <fashion:language>English</fashion:language>
+            <fashion:level rdf:resource="fashion:fluent"/>
+        </fashion:Language>
+        <fashion:Language>
+            <fashion:language>French</fashion:language>
+            <fashion:level rdf:resource="fashion:native-bilingual"/>
+        </fashion:Language>
+    </fashion:languagesSpoken>
+    <fashion:physicalAttributes>
+        <fashion:PhysicalAttribute>
+            <fashion:height rdf:datatype="xsd:float">1.75</fashion:height>
+            <fashion:weight rdf:datatype="xsd:float">60.0</fashion:weight>
+            <fashion:eyeColor>Brown</fashion:eyeColor>
+            <fashion:hairColor>Black</fashion:hairColor>
+        </fashion:PhysicalAttribute>
+    </fashion:physicalAttributes>
+    <fashion:skills>
+        <fashion:Skill>
+            <fashion:language>Italian</fashion:language>
+            <fashion:actingExperience>Intermediate</fashion:actingExperience>
+            <fashion:specializedSkills>Dance, Public Speaking</fashion:specializedSkills>
+        </fashion:Skill>
+    </fashion:skills>
+    <fashion:availability>
+        <fashion:Availability>
+            <fashion:locationWillingToWork>Europe, Africa</fashion:locationWillingToWork>
+            <fashion:availabilityDates rdf:datatype="xsd:date">2023-09-05</fashion:availabilityDates>
+            <fashion:preferredTypesOfWork>Runway, Editorial</fashion:preferredTypesOfWork>
+        </fashion:Availability>
+    </fashion:availability>
+    <fashion:socialMediaPresence>
+        <fashion:SocialMediaPresence>
+            <fashion:linksToProfiles>https://www.instagram.com/amara_diop</fashion:linksToProfiles>
+            <fashion:followersCount rdf:datatype="xsd:integer">200000</fashion:followersCount>
+        </fashion:SocialMediaPresence>
+    </fashion:socialMediaPresence>
+</fashion:FashionModel>
+<!-- Fashion Model 5 -->
+<fashion:FashionModel rdf:about="fashion:GUID-78901">
+    <person:DID>did:did:109872345cdefghi</person:DID>
+    <person:givenName>Fabian</person:givenName>
+    <person:familyName>Lopez</person:familyName>
+    <person:birthDate rdf:datatype="xsd:date">1992-07-08</person:birthDate>
+    <fashion:gender>Male</fashion:gender>
     <fashion:languagesSpoken>
         <fashion:Language>
             <fashion:language>English</fashion:language>
@@ -15,25 +205,257 @@
         </fashion:Language>
     </fashion:languagesSpoken>
     <fashion:physicalAttributes>
-        <fashion:height>1.75</fashion:height>
-        <fashion:weight>60</fashion:weight>
-        <fashion:eyeColor>Brown</fashion:eyeColor>
-        <fashion:hairColor>Black</fashion:hairColor>
+        <fashion:PhysicalAttribute>
+            <fashion:height rdf:datatype="xsd:float">1.85</fashion:height>
+            <fashion:weight rdf:datatype="xsd:float">80.0</fashion:weight>
+            <fashion:eyeColor>Green</fashion:eyeColor>
+            <fashion:hairColor>Brown</fashion:hairColor>
+        </fashion:PhysicalAttribute>
     </fashion:physicalAttributes>
     <fashion:skills>
-        <fashion:language>Acting</fashion:language>
-        <fashion:actingExperience>3 years</fashion:actingExperience>
-        <fashion:specializedSkills>Dance</fashion:specializedSkills>
+        <fashion:Skill>
+            <fashion:language>French</fashion:language>
+            <fashion:actingExperience>Advanced</fashion:actingExperience>
+            <fashion:specializedSkills>Acting, Gymnastics</fashion:specializedSkills>
+        </fashion:Skill>
     </fashion:skills>
     <fashion:availability>
-        <fashion:locationWillingToWork>Europe</fashion:locationWillingToWork>
-        <fashion:availabilityDates>2023-09-01</fashion:availabilityDates>
-        <fashion:preferredTypesOfWork>Runway</fashion:preferredTypesOfWork>
+        <fashion:Availability>
+            <fashion:locationWillingToWork>North America, South America</fashion:locationWillingToWork>
+            <fashion:availabilityDates rdf:datatype="xsd:date">2023-11-15</fashion:availabilityDates>
+            <fashion:preferredTypesOfWork>Commercial, Print</fashion:preferredTypesOfWork>
+        </fashion:Availability>
     </fashion:availability>
     <fashion:socialMediaPresence>
-        <fashion:linksToProfiles>https://www.instagram.com/isabellamodel</fashion:linksToProfiles>
-        <fashion:followersCount>50000</fashion:followersCount>
+        <fashion:SocialMediaPresence>
+            <fashion:linksToProfiles>https://www.instagram.com/fabian_lopez</fashion:linksToProfiles>
+            <fashion:followersCount rdf:datatype="xsd:integer">350000</fashion:followersCount>
+        </fashion:SocialMediaPresence>
+    </fashion:socialMediaPresence>
+</fashion:FashionModel>,
+<!-- Fashion Model 6 -->
+<fashion:FashionModel rdf:about="fashion:GUID-34567">
+    <person:DID>did:did:345673456jklmn</person:DID>
+    <person:givenName>Larisa</person:givenName>
+    <person:familyName>Ivanova</person:familyName>
+    <person:birthDate rdf:datatype="xsd:date">1998-02-25</person:birthDate>
+    <fashion:gender>Female</fashion:gender>
+    <fashion:languagesSpoken>
+        <fashion:Language>
+            <fashion:language>English</fashion:language>
+            <fashion:level rdf:resource="fashion:fluent"/>
+        </fashion:Language>
+        <fashion:Language>
+            <fashion:language>Russian</fashion:language>
+            <fashion:level rdf:resource="fashion:native-bilingual"/>
+        </fashion:Language>
+    </fashion:languagesSpoken>
+    <fashion:physicalAttributes>
+        <fashion:PhysicalAttribute>
+            <fashion:height rdf:datatype="xsd:float">1.73</fashion:height>
+            <fashion:weight rdf:datatype="xsd:float">56.0</fashion:weight>
+            <fashion:eyeColor>Blue</fashion:eyeColor>
+            <fashion:hairColor>Blonde</fashion:hairColor>
+        </fashion:PhysicalAttribute>
+    </fashion:physicalAttributes>
+    <fashion:skills>
+        <fashion:Skill>
+            <fashion:actingExperience>Beginner</fashion:actingExperience>
+            <fashion:specializedSkills>Posing, Yoga</fashion:specializedSkills>
+        </fashion:Skill>
+    </fashion:skills>
+    <fashion:availability>
+        <fashion:Availability>
+            <fashion:locationWillingToWork>Europe, Russia</fashion:locationWillingToWork>
+            <fashion:availabilityDates rdf:datatype="xsd:date">2023-10-12</fashion:availabilityDates>
+            <fashion:preferredTypesOfWork>Editorial, Runway</fashion:preferredTypesOfWork>
+        </fashion:Availability>
+    </fashion:availability>
+    <fashion:socialMediaPresence>
+        <fashion:SocialMediaPresence>
+            <fashion:linksToProfiles>https://www.instagram.com/larisa_ivanova</fashion:linksToProfiles>
+            <fashion:followersCount rdf:datatype="xsd:integer">300000</fashion:followersCount>
+        </fashion:SocialMediaPresence>
     </fashion:socialMediaPresence>
 </fashion:FashionModel>
-
-<!-- Repeat similar data for other models -->
+<!-- Fashion Model 7 -->
+<fashion:FashionModel rdf:about="fashion:GUID-89012">
+    <person:DID>did:did:890128901tyuiop</person:DID>
+    <person:givenName>Xavier</person:givenName>
+    <person:familyName>González</person:familyName>
+    <person:birthDate rdf:datatype="xsd:date">1986-09-13</person:birthDate>
+    <fashion:gender>Male</fashion:gender>
+    <fashion:languagesSpoken>
+        <fashion:Language>
+            <fashion:language>English</fashion:language>
+            <fashion:level rdf:resource="fashion:fluent"/>
+        </fashion:Language>
+        <fashion:Language>
+            <fashion:language>Spanish</fashion:language>
+            <fashion:level rdf:resource="fashion:native-bilingual"/>
+        </fashion:Language>
+    </fashion:languagesSpoken>
+    <fashion:physicalAttributes>
+        <fashion:PhysicalAttribute>
+            <fashion:height rdf:datatype="xsd:float">1.85</fashion:height>
+            <fashion:weight rdf:datatype="xsd:float">75.0</fashion:weight>
+            <fashion:eyeColor>Brown</fashion:eyeColor>
+            <fashion:hairColor>Black</fashion:hairColor>
+        </fashion:PhysicalAttribute>
+    </fashion:physicalAttributes>
+    <fashion:skills>
+        <fashion:Skill>
+            <fashion:actingExperience>Advanced</fashion:actingExperience>
+            <fashion:specializedSkills>Gymnastics, Acting</fashion:specializedSkills>
+        </fashion:Skill>
+    </fashion:skills>
+    <fashion:availability>
+        <fashion:Availability>
+            <fashion:locationWillingToWork>South America, North America</fashion:locationWillingToWork>
+            <fashion:availabilityDates rdf:datatype="xsd:date">2023-08-30</fashion:availabilityDates>
+            <fashion:preferredTypesOfWork>Commercial, Runway</fashion:preferredTypesOfWork>
+        </fashion:Availability>
+    </fashion:availability>
+    <fashion:socialMediaPresence>
+        <fashion:SocialMediaPresence>
+            <fashion:linksToProfiles>https://www.instagram.com/xavier_gonzalez</fashion:linksToProfiles>
+            <fashion:followersCount rdf:datatype="xsd:integer">420000</fashion:followersCount>
+        </fashion:SocialMediaPresence>
+    </fashion:socialMediaPresence>
+</fashion:FashionModel>,
+<!-- Fashion Model 8 -->
+<fashion:FashionModel rdf:about="fashion:GUID-56789">
+    <person:DID>did:did:567895678qwerty</person:DID>
+    <person:givenName>Chiara</person:givenName>
+    <person:familyName>Ferragni</person:familyName>
+    <person:birthDate rdf:datatype="xsd:date">1993-05-07</person:birthDate>
+    <fashion:gender>Female</fashion:gender>
+    <fashion:languagesSpoken>
+        <fashion:Language>
+            <fashion:language>English</fashion:language>
+            <fashion:level rdf:resource="fashion:fluent"/>
+        </fashion:Language>
+        <fashion:Language>
+            <fashion:language>Italian</fashion:language>
+            <fashion:level rdf:resource="fashion:native-bilingual"/>
+        </fashion:Language>
+    </fashion:languagesSpoken>
+    <fashion:physicalAttributes>
+        <fashion:PhysicalAttribute>
+            <fashion:height rdf:datatype="xsd:float">1.70</fashion:height>
+            <fashion:weight rdf:datatype="xsd:float">53.0</fashion:weight>
+            <fashion:eyeColor>Green</fashion:eyeColor>
+            <fashion:hairColor>Light Brown</fashion:hairColor>
+        </fashion:PhysicalAttribute>
+    </fashion:physicalAttributes>
+    <fashion:skills>
+        <fashion:Skill>
+            <fashion:actingExperience>Intermediate</fashion:actingExperience>
+            <fashion:specializedSkills>Dancing, Makeup</fashion:specializedSkills>
+        </fashion:Skill>
+    </fashion:skills>
+    <fashion:availability>
+        <fashion:Availability>
+            <fashion:locationWillingToWork>Italy, Europe</fashion:locationWillingToWork>
+            <fashion:availabilityDates rdf:datatype="xsd:date">2023-11-15</fashion:availabilityDates>
+            <fashion:preferredTypesOfWork>Editorial, Commercial</fashion:preferredTypesOfWork>
+        </fashion:Availability>
+    </fashion:availability>
+    <fashion:socialMediaPresence>
+        <fashion:SocialMediaPresence>
+            <fashion:linksToProfiles>https://www.instagram.com/chiara_ferragni</fashion:linksToProfiles>
+            <fashion:followersCount rdf:datatype="xsd:integer">600000</fashion:followersCount>
+        </fashion:SocialMediaPresence>
+    </fashion:socialMediaPresence>
+</fashion:FashionModel>,
+<!-- Fashion Model 9 -->
+<fashion:FashionModel rdf:about="fashion:GUID-56789">
+    <person:DID>did:did:567895678qazwsx</person:DID>
+    <person:givenName>Ayaka</person:givenName>
+    <person:familyName>Yamamoto</person:familyName>
+    <person:birthDate rdf:datatype="xsd:date">1994-07-18</person:birthDate>
+    <fashion:gender>Female</fashion:gender>
+    <fashion:languagesSpoken>
+        <fashion:Language>
+            <fashion:language>English</fashion:language>
+            <fashion:level rdf:resource="fashion:conversational"/>
+        </fashion:Language>
+        <fashion:Language>
+            <fashion:language>Japanese</fashion:language>
+            <fashion:level rdf:resource="fashion:native-bilingual"/>
+        </fashion:Language>
+    </fashion:languagesSpoken>
+    <fashion:physicalAttributes>
+        <fashion:PhysicalAttribute>
+            <fashion:height rdf:datatype="xsd:float">1.68</fashion:height>
+            <fashion:weight rdf:datatype="xsd:float">52.0</fashion:weight>
+            <fashion:eyeColor>Brown</fashion:eyeColor>
+            <fashion:hairColor>Black</fashion:hairColor>
+        </fashion:PhysicalAttribute>
+    </fashion:physicalAttributes>
+    <fashion:skills>
+        <fashion:Skill>
+            <fashion:actingExperience>Intermediate</fashion:actingExperience>
+            <fashion:specializedSkills>Dance, Calligraphy</fashion:specializedSkills>
+        </fashion:Skill>
+    </fashion:skills>
+    <fashion:availability>
+        <fashion:Availability>
+            <fashion:locationWillingToWork>Asia, North America</fashion:locationWillingToWork>
+            <fashion:availabilityDates rdf:datatype="xsd:date">2023-09-15</fashion:availabilityDates>
+            <fashion:preferredTypesOfWork>Editorial, Commercial</fashion:preferredTypesOfWork>
+        </fashion:Availability>
+    </fashion:availability>
+    <fashion:socialMediaPresence>
+        <fashion:SocialMediaPresence>
+            <fashion:linksToProfiles>https://www.instagram.com/ayaka_yamamoto</fashion:linksToProfiles>
+            <fashion:followersCount rdf:datatype="xsd:integer">200000</fashion:followersCount>
+        </fashion:SocialMediaPresence>
+    </fashion:socialMediaPresence>
+</fashion:FashionModel>,
+<!-- Fashion Model 10 -->
+<fashion:FashionModel rdf:about="fashion:GUID-91011">
+    <person:DID>did:did:9101191011edcrfv</person:DID>
+    <person:givenName>Lorenzo</person:givenName>
+    <person:familyName>Ferrari</person:familyName>
+    <person:birthDate rdf:datatype="xsd:date">1990-03-21</person:birthDate>
+    <fashion:gender>Male</fashion:gender>
+    <fashion:languagesSpoken>
+        <fashion:Language>
+            <fashion:language>English</fashion:language>
+            <fashion:level rdf:resource="fashion:conversational"/>
+        </fashion:Language>
+        <fashion:Language>
+            <fashion:language>Italian</fashion:language>
+            <fashion:level rdf:resource="fashion:native-bilingual"/>
+        </fashion:Language>
+    </fashion:languagesSpoken>
+    <fashion:physicalAttributes>
+        <fashion:PhysicalAttribute>
+            <fashion:height rdf:datatype="xsd:float">1.88</fashion:height>
+            <fashion:weight rdf:datatype="xsd:float">80.0</fashion:weight>
+            <fashion:eyeColor>Blue</fashion:eyeColor>
+            <fashion:hairColor>Blond</fashion:hairColor>
+        </fashion:PhysicalAttribute>
+    </fashion:physicalAttributes>
+    <fashion:skills>
+        <fashion:Skill>
+            <fashion:actingExperience>Advanced</fashion:actingExperience>
+            <fashion:specializedSkills>Sculpture, Painting</fashion:specializedSkills>
+        </fashion:Skill>
+    </fashion:skills>
+    <fashion:availability>
+        <fashion:Availability>
+            <fashion:locationWillingToWork>Europe, North America</fashion:locationWillingToWork>
+            <fashion:availabilityDates rdf:datatype="xsd:date">2023-10-10</fashion:availabilityDates>
+            <fashion:preferredTypesOfWork>Runway, Commercial</fashion:preferredTypesOfWork>
+        </fashion:Availability>
+    </fashion:availability>
+    <fashion:socialMediaPresence>
+        <fashion:SocialMediaPresence>
+            <fashion:linksToProfiles>https://www.instagram.com/lorenzo_ferrari</fashion:linksToProfiles>
+            <fashion:followersCount rdf:datatype="xsd:integer">150000</fashion:followersCount>
+        </fashion:SocialMediaPresence>
+    </fashion:socialMediaPresence>
+</fashion:FashionModel>
+</rdf:RDF>
