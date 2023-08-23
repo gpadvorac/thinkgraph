@@ -3,16 +3,18 @@
          xmlns:person="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/core/persons/person-ontology.rdf"
          xmlns:common="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/core/common/common-props-ontology.rdf"
          xmlns:shacl="http://www.w3.org/ns/shacl#"
-         xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:did="https://github.com/gpadvorac/thinkgraph/blob/main/ontologies/apps/npbf/did/did-ontology.rdf#">
 
     <!-- Person Class -->
     <rdfs:Class rdf:about="person:Person"/>
-    <rdf:Property rdf:about="person:DID" rdfs:domain="person:Person" rdfs:range="xsd:string"/>
+    <rdf:Property rdf:about="person:DID" rdfs:domain="person:Person" rdfs:range="did:DID"/>
     <rdf:Property rdf:about="person:givenName" rdfs:domain="person:Person" rdfs:range="xsd:string"/>
     <rdf:Property rdf:about="person:middleName" rdfs:domain="person:Person" rdfs:range="xsd:string"/>
     <rdf:Property rdf:about="person:familyName" rdfs:domain="person:Person" rdfs:range="xsd:string"/>
     <rdf:Property rdf:about="person:birthDate" rdfs:domain="person:Person" rdfs:range="xsd:date"/>
     <rdf:Property rdf:about="common:timeStamp" rdfs:domain="rdfs:Resource" rdfs:range="xsd:dateTime"/>
+
 
     <!-- SHACL Shapes for Person -->
     <shacl:NodeShape rdf:about="person:PersonShape">
