@@ -1,0 +1,438 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:kp="http://thinkgraph.org/ontologies/apps/thoughtgraph/KnowledgePoint#"
+         xmlns:schema="http://schema.org#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+    <!-- KnowledgePoint Class -->
+    <rdfs:Class rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#KnowledgePoint"/>
+
+    <!-- Definition of the id property for the KnowledgePoint Class -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#id">
+        <rdfs:label>ID</rdfs:label>
+        <rdfs:comment>This property represents the unique identifier (GUID) of a Knowledge Point.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePoint"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </rdf:Property>
+
+    <!-- Definition of the name property (imported from Schema.org) -->
+    <rdf:Property rdf:about="http://schema.org#name">
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#KnowledgePoint"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </rdf:Property>
+
+    <!-- Definition of the description property (imported from Schema.org) -->
+    <rdf:Property rdf:about="http://schema.org#description">
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#KnowledgePoint"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </rdf:Property>
+
+    <!-- Definition of the sourceType property -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#sourceType">
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#KnowledgePoint"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </rdf:Property>
+
+    <!-- Definition of the sourceName property -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#sourceName">
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#KnowledgePoint"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </rdf:Property>
+
+    <!-- Definition of the publishedDate property -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#publishedDate">
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#KnowledgePoint"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
+    </rdf:Property>
+
+    <!-- Definition of the KnowledgePointURL property -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#KnowledgePointURL">
+        <rdfs:label>Knowledge Point URL</rdfs:label>
+        <rdfs:comment>The URL that can be browsed to access further information related to the Knowledge Point.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#KnowledgePoint"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+    </rdf:Property>
+
+    <!-- Definition of the rating property -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#rating">
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#KnowledgePoint"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </rdf:Property>
+
+    <!-- Definition of the recordedBy property -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#recordedBy">
+        <rdfs:label>Recorded By</rdfs:label>
+        <rdfs:comment>This property indicates the Person who recorded the KnowledgePoint.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#KnowledgePoint"/>
+        <rdfs:range rdf:resource="http://thinkgraph.org/ontologies/core/persons#Person"/>
+    </rdf:Property>
+
+    <!-- Definition of the timeStamp property (imported from Schema.org) -->
+    <rdf:Property rdf:about="http://schema.org#timeStamp">
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#KnowledgePoint"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </rdf:Property>
+
+    <!-- Definition of the hasTagCollection property -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#hasTagCollection">
+        <rdfs:label>Has Tag Collection</rdfs:label>
+        <rdfs:comment>A collection of tags associated with the KnowledgePoint for categorization or indexing.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#KnowledgePoint"/>
+        <rdfs:range rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph/tag#Tag"/>
+    </rdf:Property>
+
+    <!-- Definition of the hasImageCollection property -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#hasImageCollection">
+        <rdfs:label>Has Image Collection</rdfs:label>
+        <rdfs:comment>A collection of images associated with the KnowledgePoint.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#KnowledgePoint"/>
+        <rdfs:range rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph/knowledgepoint#KnowledgePointImage"/>
+    </rdf:Property>
+
+    <!-- Definition of the hasKnowledgePointRemarkCollection property for the KnowledgePoint Class -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#hasKnowledgePointRemarkCollection">
+        <rdfs:label>Has KnowledgePointRemark Collection</rdfs:label>
+        <rdfs:comment>This property represents a collection of remarks associated with a Knowledge Point.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePoint"/>
+        <rdfs:range rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointRemark"/>
+    </rdf:Property>
+
+    <!-- Definition of the linkedKnowledgePoints property for the KnowledgePoint Class -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#linkedKnowledgePoints">
+        <rdfs:label>Linked Knowledge Points</rdfs:label>
+        <rdfs:comment>This property represents the collection of Knowledge Points linked to this Knowledge Point.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePoint"/>
+        <rdfs:range rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePoint"/>
+    </rdf:Property>
+
+
+    <!-- SHACL NodeShape for KnowledgePoint -->
+    <sh:NodeShape rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointShape">
+        <sh:targetClass rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePoint"/>
+        
+        <!-- Property shape for ID -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#ID"/>
+                <sh:minCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:minCount>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for name -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#name"/>
+                <sh:minCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:minCount>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for description -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#description"/>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for sourceType -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#sourceType"/>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for sourceName -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#sourceName"/>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for publishedDate -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#publishedDate"/>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for KnowledgePointURL -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointURL"/>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <!-- Specify that the datatype must be a URI -->
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+                <!-- Regular expression to specify URL format -->
+                <sh:pattern rdf:datatype="http://www.w3.org/2001/XMLSchema#string">^(https?|http)://.+$</sh:pattern>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for rating -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#rating"/>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for recordedBy -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#recordedBy"/>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for timeStamp -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#timeStamp"/>
+                <sh:minCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:minCount>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for hasTagCollection -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#hasTagCollection"/>
+                <sh:minCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</sh:minCount>
+                <sh:node>
+                    <sh:class rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#Tag"/>
+                </sh:node>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for hasImageCollection -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#hasImageCollection"/>
+                <sh:minCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</sh:minCount>
+                <sh:node>
+                    <sh:class rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointImage"/>
+                </sh:node>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for hasKnowledgePointRemarkCollection -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#hasKnowledgePointRemarkCollection"/>
+                <sh:minCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</sh:minCount>
+                <sh:node>
+                    <sh:class rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointRemark"/>
+                </sh:node>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for linkedKnowledgePoints -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#hasKnowledgePointRemarkCollection"/>
+                <sh:minCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</sh:minCount>
+                <sh:node>
+                    <sh:class rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointRemark"/>
+                </sh:node>
+            </sh:PropertyShape>
+        </sh:property>
+    </sh:NodeShape>
+
+
+
+    <!-- ******************************************* -->
+    <!-- Definition of the KnowledgePointImage Class -->
+    <rdfs:Class rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointImage">
+        <rdfs:label>Knowledge Point Image</rdfs:label>
+        <rdfs:comment>This class represents an image associated with a Knowledge Point.</rdfs:comment>
+    </rdfs:Class>
+
+    <!-- Definition of the imageURL property -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#imageURL">
+        <rdfs:label>Image URL</rdfs:label>
+        <rdfs:comment>The URL where the image can be accessed.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointImage"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+    </rdf:Property>
+
+    <!-- Definition of the sortOrder property -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#sortOrder">
+        <rdfs:label>Sort Order</rdfs:label>
+        <rdfs:comment>The order in which the image should be displayed.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointImage"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </rdf:Property>
+
+    <!-- Definition of the remarks property -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#remarks">
+        <rdfs:label>Remarks</rdfs:label>
+        <rdfs:comment>Additional remarks or comments related to the image.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointImage"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </rdf:Property>
+
+    <!-- SHACL Shape for KnowledgePointImage Class -->
+    <sh:NodeShape rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointImageShape">
+        <sh:targetClass rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointImage"/>
+        
+        <!-- Property shape for imageURL -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#imageURL"/>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <!-- Specify that the datatype must be a URI -->
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+                <!-- Regular expression to specify URL format -->
+                <sh:pattern rdf:datatype="http://www.w3.org/2001/XMLSchema#string">^(https?|http)://.+$</sh:pattern>
+            </sh:PropertyShape>
+        </sh:property>        
+
+        <!-- Property shape for sortOrder -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#sortOrder"/>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+            </sh:PropertyShape>
+        </sh:property>
+        
+        <!-- Property shape for remarks -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#remarks"/>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </sh:PropertyShape>
+        </sh:property>        
+    </sh:NodeShape>
+
+
+    <!-- *************************** -->
+    <!-- Definition of the Tag Class -->
+    <rdfs:Class rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#Tag">
+        <rdfs:label>Tag</rdfs:label>
+        <rdfs:comment>A label used to index or categorize KnowledgePoints.</rdfs:comment>
+    </rdfs:Class>
+
+    <!-- Using name property from schema.org -->
+    <rdf:Property rdf:about="http://schema.org/name">
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#Tag"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </rdf:Property>
+
+    <!-- Using description property from schema.org -->
+    <rdf:Property rdf:about="http://schema.org/description">
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#Tag"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </rdf:Property>
+
+    <!-- SHACL shape for Tag class -->
+    <sh:NodeShape rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#TagShape">
+        <sh:targetClass rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#Tag"/>
+        <rdfs:label>SHACL Shape for Tag</rdfs:label>
+        <rdfs:comment>Shape constraints for Tag class instances.</rdfs:comment>
+
+        <!-- Property shape for name -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://schema.org/name"/>
+                <sh:minCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:minCount>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for description -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://schema.org/description"/>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </sh:PropertyShape>
+        </sh:property>
+    </sh:NodeShape>
+
+
+    <!-- ****************************** -->
+    <!-- Definition of the KnowledgePointRemark Class -->
+    <rdfs:Class rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointRemark">
+        <rdfs:label>KnowledgePointRemark</rdfs:label>
+        <rdfs:comment>This class represents a remark made by a person.</rdfs:comment>
+    </rdfs:Class>
+
+    <!-- Definition of the personId property -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#personId">
+        <rdfs:label>Person ID</rdfs:label>
+        <rdfs:comment>The ID of the person who made the remark, linking to an instance of the Person class.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointRemark"/>
+        <rdfs:range rdf:resource="http://thinkgraph.org/ontologies/core/persons#Person"/>
+    </rdf:Property>
+
+    <!-- Definition of the remark property -->
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointRemark">
+        <rdfs:label>Remark Text</rdfs:label>
+        <rdfs:comment>The textual content of the remark.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointRemark"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </rdf:Property>
+
+    <!-- Using timeStamp property from schema.org -->
+    <rdf:Property rdf:about="http://schema.org#timeStamp">
+        <rdfs:label>Time Stamp</rdfs:label>
+        <rdfs:comment>The date and time when the remark was made.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointRemark"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </rdf:Property>
+
+    <!-- SHACL shape for KnowledgePointRemark class -->
+    <sh:NodeShape rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointRemarkShape">
+        <sh:targetClass rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointRemark"/>
+        <rdfs:label>SHACL Shape for KnowledgePointRemark</rdfs:label>
+        <rdfs:comment>Shape constraints for KnowledgePointRemark class instances.</rdfs:comment>
+
+        <!-- Property shape for personId -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#personId"/>
+                <sh:minCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:minCount>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:nodeKind rdf:resource="http://www.w3.org/ns/shacl#IRI"/>
+                <sh:class rdf:resource="http://thinkgraph.org/ontologies/core/persons#Person"/>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for remark -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointRemark"/>
+                <sh:minCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:minCount>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </sh:PropertyShape>
+        </sh:property>
+
+        <!-- Property shape for timeStamp -->
+        <sh:property>
+            <sh:PropertyShape>
+                <sh:path rdf:resource="http://schema.org#timeStamp"/>
+                <sh:minCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:minCount>
+                <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+            </sh:PropertyShape>
+        </sh:property>
+    </sh:NodeShape>
+
+</rdf:RDF>

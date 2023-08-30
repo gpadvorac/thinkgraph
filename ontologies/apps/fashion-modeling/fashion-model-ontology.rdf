@@ -11,7 +11,6 @@
     </rdfs:Class>
 
     <!-- Additional Properties for Fashion Model -->
-    <rdf:Property rdf:about="fashion:gender" rdfs:domain="fashion:FashionModel" rdfs:range="xsd:string"/>    
     <rdf:Property rdf:about="fashion:languagesSpoken" rdfs:domain="fashion:FashionModel" rdfs:range="fashion:Language"/>
     <rdf:Property rdf:about="fashion:physicalAttributes" rdfs:domain="fashion:FashionModel" rdfs:range="fashion:PhysicalAttribute"/>
     <rdf:Property rdf:about="fashion:skills" rdfs:domain="fashion:FashionModel" rdfs:range="fashion:Skill"/>

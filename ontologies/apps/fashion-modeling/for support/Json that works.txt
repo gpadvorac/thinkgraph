@@ -1,0 +1,19 @@
+{
+  "ledger": "testdata3",
+  "txn": {
+    "@context": {
+      "person": "http://thinkgraph.org/ontologies/core/persons#",
+      "fashion": "http://thinkgraph.org/ontologies/apps/fashion-modeling#",
+      "xsd": "http://www.w3.org/2001/XMLSchema#"
+    },
+    "@id": "fashion:GUID-12345b",
+    "@type": "fashion:FashionModel",
+    "person:DID": "did:did:123456789abcdefghi",
+    "person:givenName": "Alessandra",
+    "person:familyName": "Fiorentini",
+    "person:birthDate": {
+      "@value": "1992-03-28",
+      "@type": "xsd:date"
+    }
+  }
+}

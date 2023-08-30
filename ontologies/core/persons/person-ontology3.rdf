@@ -21,48 +21,36 @@
     </rdf:Property>
 
   <!-- Definition of the givenName property -->
-    <rdf:Property rdf:about="http://schema.org/givenName">
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/core/persons#givenName">
         <rdfs:label>Given Name</rdfs:label>
-        <rdfs:comment>The given name or in the U.S. the first name of the person.</rdfs:comment>
         <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/core/persons#Person"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </rdf:Property>
 
   <!-- Definition of the middleName property -->
-    <rdf:Property rdf:about="http://schema.org/middleName">
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/core/persons#middleName">
         <rdfs:label>Middle Name</rdfs:label>
-        <rdfs:comment>The middle name or initial of the person.</rdfs:comment>
         <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/core/persons#Person"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </rdf:Property>
 
   <!-- Definition of the familyName property -->
-    <rdf:Property rdf:about="http://schema.org/familyName">
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/core/persons#familyName">
         <rdfs:label>Family Name</rdfs:label>
-        <rdfs:comment>The family name or in the U.S. the last name of the person.</rdfs:comment>
-        <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/core/persons#Person"/>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-    </rdf:Property>
-
-  <!-- Definition of the gender property -->
-    <rdf:Property rdf:about="http://schema.org/gender">
-        <rdfs:label>Gender</rdfs:label>
         <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/core/persons#Person"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </rdf:Property>
 
   <!-- Definition of the birthDate property -->
-    <rdf:Property rdf:about="http://schema.org/birthDate">
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/core/persons#birthDate">
         <rdfs:label>Birth Date</rdfs:label>
-        <rdfs:comment>The year and day of birth of the person.</rdfs:comment>
         <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/core/persons#Person"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
     </rdf:Property>
 
   <!-- Definition of the timeStamp property -->
-    <rdf:Property rdf:about="http://schema.org/timeStamp">
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/core/persons#timeStamp">
         <rdfs:label>Time Stamp</rdfs:label>
-        <rdfs:comment>The date and time this person data was created.</rdfs:comment>
         <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/core/persons#Person"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
     </rdf:Property>
