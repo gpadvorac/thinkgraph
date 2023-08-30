@@ -1,202 +1,202 @@
 [
-    {
-      "@id": "B62BA2C8-0543-4DAC-BFF2-62682E7C8FAB",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "8A29A796-E921-43E2-A1D4-7ED05A3530B6",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "Good to review",
-      "timeStamp": "2023-08-26T00:00:00"
-    },
-    {
-      "@id": "E4730454-308F-4AEB-A114-2EAC672D4D0C",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "F493F239-5670-459D-BEE8-0CE2152EE75E",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "These are my test notes",
-      "timeStamp": "2023-08-26T00:00:00"
-    },
-    {
-      "@id": "65F0094B-EC6D-45B8-B78C-7CFCF4F632EF",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "6A27062C-206C-410D-8D42-8C44106B6B4D",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "A ton of links",
-      "timeStamp": "2020-10-01T00:00:00"
-    },
-    {
-      "@id": "748D0B96-1FA5-4451-9D99-3467A48A32AE",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "F0E9F3F5-2EFF-4FB7-A10F-7E619C9FBFF9",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "NoSQL",
-      "timeStamp": "2020-09-23T00:00:00"
-    },
-    {
-      "@id": "3365BAF0-7F6B-49F8-8335-86C8890CC58A",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "6DB6D76B-6EA1-4A7D-B78A-F1740EAEC7F4",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "decentralized exchange",
-      "timeStamp": "2020-09-23T00:00:00"
-    },
-    {
-      "@id": "D4B35400-CE55-480B-997D-0AE68219475C",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "B167BA4E-1F90-40F6-9F66-784B67A6509D",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "Native Windows app compilation, some early plugins, and a desktop-ready Flutter Gallery app",
-      "timeStamp": "2020-09-23T00:00:00"
-    },
-    {
-      "@id": "BD5DAB7F-408F-4420-AE7A-5131DD7B2E00",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "73FBF30C-806D-469C-BA1B-0DB2797D79DB",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "litecoin",
-      "timeStamp": "2020-09-23T00:00:00"
-    },
-    {
-      "@id": "86000238-9BF4-41C8-A49C-C75A1A388ABE",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "673B0C3B-8331-4BD9-A275-3C43CE2AA7E7",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "Other features for the VMate include:\n\n-       POV mode: the gimbal automatically follows users’ movements to record first-person-view footage\n\n-       Smart tracking to keep subjects automatically cent-red in frame\n\n-       Slow-motion capture at 1080p 240fps (8x slomo)\n\n-       Time-lapse and motion-lapse modes\n\n-       Night mode for clear filming at night or in dark environments\n\n-       Panoramic mode for stitching together horizontal images\n\n-       210-minute battery life\n\n-       200Mbps bitrate and USB C 3.1 connectivity to download video files easily and quickly\n\n-       Dual microphones on board for surround sound or noise-cancelling recording, with Bluetooth support for external audio\n\nThe Benro Snoppa VMate retails for $259/£269.",
-      "timeStamp": "2020-09-23T00:00:00"
-    },
-    {
-      "@id": "49BA33E2-1F02-4C33-A3A1-53D93A597700",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "6755F9FC-6302-4321-9B4D-49BFDCEF8116",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "google, open source",
-      "timeStamp": "2020-09-23T00:00:00"
-    },
-    {
-      "@id": "7F5AA647-2A27-482C-9F33-5A532390E235",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "F3E1E455-3097-4E26-A46F-E2DE43610E41",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "MakerDAO: Trade, borrow and save\nMakerDAO is the oldest decentralized service on the market. It allows users to borrow, trade and earn savings using its native Dai stablecoin, which is pegged to the U.S. dollar at a one-to-one ratio. MakerDAO is reminiscent of a bank, as it issues loans secured by cryptocurrencies, but does not require documents, checks or good credit history. Users can pledge their savings in Ether (ETH), or in any of the 10 cryptocurrencies accepted by the platform, and receive a certain amount of Dai in return.\n\nOnce the loan has been taken out, the tokens can be spent on anything, although they are mostly used for investment. In order to return the loan, one needs to return the same amount of Dai that was earlier received, plus a little interest on top. If during this period, ETH price has increased, the user makes a profit, as the amount of the collateral in ETH increases in terms of its price in U.S. dollars.",
-      "timeStamp": "2020-09-15T00:00:00"
-    },
-    {
-      "@id": "5A45C82A-256B-4B2E-ACD8-FA46F6073330",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "FE615D5B-5275-4396-BE63-0DB62920C003",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "“I would say with the partnership with Chainlink is kind of our first integration with a DeFi protocol, it brings value to our customers in terms of providing transparency in the prices that we're giving them in our DeFi wallet and also making sure our ecosystem token CRO can be integrated into the external protocol by building a price feed for CRO specifically thanks to the Chainlink architecture.”",
-      "timeStamp": "2020-09-15T00:00:00"
-    },
-    {
-      "@id": "FB56C9A3-8E40-4FC7-914C-9E2BB074CC17",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "41B1750D-7F6D-4941-9D44-3F022CD11AC4",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "And then there’s the camera setup. The LG Wing comes with a triple rear camera comprising of a 64MP main shooter, a 13MP wide-angle camera, and a 12MP wide-angle camera with hexa motion sensors. This camera, combined with the Grip Lock in the Swivel Mode, opens up cases such as a Gimbal Motion Camera, allowing you to pan, tilt, and follow subjects easily using the one-handed joystick UI with a dedicated menu.",
-      "timeStamp": "2020-09-14T00:00:00"
-    },
-    {
-      "@id": "D3CBBA44-85ED-4B27-B7EB-F0FF9BFF22DD",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "EBBCD8D4-F876-4773-84B7-F0CF25091F14",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "Airtable is opening its API as it battles both startup and mega-cap rivals in the no-code space. In June, Amazon launched Honeycode, a spreadsheet program that lets you build apps and web pages on AWS. In July, Microsoft debuted its low-code offering dubbed Microsoft Lists. Rumor has it Google is creating one too. Then there are hot startups in the collaborative space like Asana, Smartsheet, and Monday.com. \"It's a huge trend with tough competitors,\" says Coatue's Thomas Laffont. \"It's a massive addressable market, and I think many companies will do well, but Airtable has the broadest, most ambitious vision of them all.\"  ",
-      "timeStamp": "2020-09-14T00:00:00"
-    },
-    {
-      "@id": "02E1476D-D665-4D07-A905-328694B1AFBC",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "D65C81D5-A4F4-4E5D-86BF-3449FBA7E82C",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "12,905 for top of the Line",
-      "timeStamp": "2020-09-12T00:00:00"
-    },
-    {
-      "@id": "F59496A0-395E-411D-9461-F11074891BED",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "C1F4628A-B27A-480B-A104-35DCBC728AC8",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "Public blockchains aim to incorporate a mix of transparency and privacy, though efforts to implement the latter are still a long way off.\n\nA lack of on-chain privacy measures threatens the informational moat of DeFi’s biggest whales.\n\nTracking whales and mimicking their intricate trading strategies can be a source of alpha for savvy traders.\n\nBut this advantage will not last forever, as privacy on Ethereum is imminent.\n\n",
-      "timeStamp": "2020-09-12T00:00:00"
-    },
-    {
-      "@id": "9D1FE11B-ABBE-4AD2-B1E3-7CDABE89A5DF",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "1DA60D43-5640-44D0-A673-28B01620DB2A",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "The tool, called Entropy, is meant to reduce the cognitive burden on personnel performing military information support operations, an official said during a virtual presentation on Sept. 10 during the Department of Defense AI Symposium.\n\n",
-      "timeStamp": "2020-09-12T00:00:00"
-    },
-    {
-      "@id": "9F4DC484-36A4-48BF-AD03-5C768A7AC799",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "CCA86A69-2AB0-4EF1-AC41-FF25BA22E9B3",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "In brief\n\nNatural gas flare-ups have a negative impact on the environment and represent a missed financial opportunity for gas and oil companies.\n\nA new partnership between an oil company and a mining firm shows how companies could repurpose natural gas for use in Bitcoin mining.\n\nDoing so on a larger level would bring new revenue to companies while lowering carbon emissions.\n\n",
-      "timeStamp": "2020-09-12T00:00:00"
-    },
-    {
-      "@id": "777C8538-FC48-44F0-B511-BFAEDDB500E2",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "CA97A242-46CA-4583-8FC9-037A49DF1807",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "Prajwal Renukanand at the International Institute of Information Technology in India, and his colleagues have developed an algorithm that can rapidly alter video footage of a person talking or singing.\n\nThe researchers believe the AI could be used to alter videos so that the footage appears to match the sound of different languages, such as in dubbed movies.\n\n",
-      "timeStamp": "2020-09-12T00:00:00"
-    },
-    {
-      "@id": "D64F1C56-EA54-4B83-9B0B-AC449D87F511",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "4C205687-224B-45A6-9EAE-3931737FC186",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "FaaS - Farming as a Service",
-      "timeStamp": "2020-09-12T00:00:00"
-    },
-    {
-      "@id": "2B53A594-CD2A-4A35-A553-944108EED3F2",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "6F930D7B-043C-4BE0-88AF-155C217626DD",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "The computer also comes with a small 16 x 2 pixel serial LCD display, and the computer itself features:\n\n    1.5 GHz RK3328 ARM Cortex-A53 quad-core processor\n    Mali-450MP2 graphics\n    1GB LPDDR3 memory\n    Gigabit Ethernet\n    HDMI\n    3.5mm A/V jack\n    1 x USB 3.0 port\n    2 x USB 2.0 ports\n    Raspberry Pi-compatible 40-pin GPIO header\n\nThe system comes with a 16GB microSD card, but it supports cards up to 256GB. There’s a 5V/3A power adapter that plugs into a dedicated power jack (rather than a USB port), and measuring 85mm x 56mm (about 3.4″ x 2.2″), the Iconikal single-board computer is about the same size as a Raspberry Pi Model B device.",
-      "timeStamp": "2020-09-11T00:00:00"
-    },
-    {
-      "@id": "FB0E6ABF-8627-42D3-8A53-FEB7C9B221AE",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "8A275BC7-5564-40D9-B60E-FC81A0F1E717",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "used in airtable shroom.dev",
-      "timeStamp": "2020-09-10T00:00:00"
-    },
-    {
-      "@id": "2B314372-C5C4-435D-AE47-FD4C3D414524",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "8C73A6C9-2632-4600-8CE4-77338698AA64",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "MIT Tech Review",
-      "timeStamp": "2020-09-10T00:00:00"
-    },
-    {
-      "@id": "CB05B3D7-EDA4-43E4-8D70-592EEEF4496C",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "2F4965FC-AC01-4F2E-B2D7-ECD276E5ECD6",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "DeFi Protocol Reviews",
-      "timeStamp": "2020-09-10T00:00:00"
-    },
-    {
-      "@id": "664C64C5-2B99-41DB-BE84-B2F3B3864550",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "31E71EF2-8C55-4D21-A5F6-E55875409395",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "Stacker lets you create the digital tools you need to engage your customers, partners and team, all powered by the data in your Airtable or Google Sheets.\n",
-      "timeStamp": "2020-09-10T00:00:00"
-    },
-    {
-      "@id": "032F24D0-DE93-41A4-8E2F-2FFAD7C8192C",
-      "@type": "KnowledgePointRemark",
-      "knowledgePointId": "FA60C1C8-D3BC-4C78-8927-7E51ACFB5A1D",
-      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
-      "knowledgePointRemark": "Get the best of both worlds with Airtable’s intuitive, powerful database and Bubble’s custom logic and flexible UI builder. ",
-      "timeStamp": "2020-09-10T00:00:00"
-    }
-  ]
+  {
+    "@id": "F10F221E-5950-418B-9320-72CED1D6AC38",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "8A29A796-E921-43E2-A1D4-7ED05A3530B6",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "Good to review",
+    "timeStamp": "2023-08-26T00:00:00"
+  },
+  {
+    "@id": "BA9E4F7E-B409-456D-9E9E-A32FC212A763",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "F493F239-5670-459D-BEE8-0CE2152EE75E",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "These are my test notes",
+    "timeStamp": "2023-08-26T00:00:00"
+  },
+  {
+    "@id": "66860059-926D-4D11-901C-34985761BD44",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "6A27062C-206C-410D-8D42-8C44106B6B4D",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "A ton of links",
+    "timeStamp": "2020-10-01T00:00:00"
+  },
+  {
+    "@id": "49B91AA7-779A-4929-BFFC-CC20720254C3",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "F0E9F3F5-2EFF-4FB7-A10F-7E619C9FBFF9",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "NoSQL",
+    "timeStamp": "2020-09-23T00:00:00"
+  },
+  {
+    "@id": "537A0A81-0B95-4214-BCCD-1E5B7EFEBAF7",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "6DB6D76B-6EA1-4A7D-B78A-F1740EAEC7F4",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "decentralized exchange",
+    "timeStamp": "2020-09-23T00:00:00"
+  },
+  {
+    "@id": "725DC981-A039-474B-A3BF-31CE3DD82352",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "B167BA4E-1F90-40F6-9F66-784B67A6509D",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "Native Windows app compilation, some early plugins, and a desktop-ready Flutter Gallery app",
+    "timeStamp": "2020-09-23T00:00:00"
+  },
+  {
+    "@id": "15C170CB-5A60-46D3-89BE-854E5CF17439",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "73FBF30C-806D-469C-BA1B-0DB2797D79DB",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "litecoin",
+    "timeStamp": "2020-09-23T00:00:00"
+  },
+  {
+    "@id": "FE4087B9-A12D-4F88-853C-0FA0AC609D99",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "673B0C3B-8331-4BD9-A275-3C43CE2AA7E7",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "Other features for the VMate include:\n\n-       POV mode: the gimbal automatically follows users’ movements to record first-person-view footage\n\n-       Smart tracking to keep subjects automatically cent-red in frame\n\n-       Slow-motion capture at 1080p 240fps (8x slomo)\n\n-       Time-lapse and motion-lapse modes\n\n-       Night mode for clear filming at night or in dark environments\n\n-       Panoramic mode for stitching together horizontal images\n\n-       210-minute battery life\n\n-       200Mbps bitrate and USB C 3.1 connectivity to download video files easily and quickly\n\n-       Dual microphones on board for surround sound or noise-cancelling recording, with Bluetooth support for external audio\n\nThe Benro Snoppa VMate retails for $259/£269.",
+    "timeStamp": "2020-09-23T00:00:00"
+  },
+  {
+    "@id": "74D76449-D955-455B-885F-A10F7E6A7F12",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "6755F9FC-6302-4321-9B4D-49BFDCEF8116",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "google, open source",
+    "timeStamp": "2020-09-23T00:00:00"
+  },
+  {
+    "@id": "78E34177-0E88-4F6E-943A-746CBF126A16",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "F3E1E455-3097-4E26-A46F-E2DE43610E41",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "MakerDAO: Trade, borrow and save\nMakerDAO is the oldest decentralized service on the market. It allows users to borrow, trade and earn savings using its native Dai stablecoin, which is pegged to the U.S. dollar at a one-to-one ratio. MakerDAO is reminiscent of a bank, as it issues loans secured by cryptocurrencies, but does not require documents, checks or good credit history. Users can pledge their savings in Ether (ETH), or in any of the 10 cryptocurrencies accepted by the platform, and receive a certain amount of Dai in return.\n\nOnce the loan has been taken out, the tokens can be spent on anything, although they are mostly used for investment. In order to return the loan, one needs to return the same amount of Dai that was earlier received, plus a little interest on top. If during this period, ETH price has increased, the user makes a profit, as the amount of the collateral in ETH increases in terms of its price in U.S. dollars.",
+    "timeStamp": "2020-09-15T00:00:00"
+  },
+  {
+    "@id": "BBD9366A-C336-4435-A6C3-3DCEFA47E79E",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "FE615D5B-5275-4396-BE63-0DB62920C003",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "“I would say with the partnership with Chainlink is kind of our first integration with a DeFi protocol, it brings value to our customers in terms of providing transparency in the prices that we're giving them in our DeFi wallet and also making sure our ecosystem token CRO can be integrated into the external protocol by building a price feed for CRO specifically thanks to the Chainlink architecture.”",
+    "timeStamp": "2020-09-15T00:00:00"
+  },
+  {
+    "@id": "9B674042-AAEE-4AAD-BE73-AB2D56D6EB9C",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "41B1750D-7F6D-4941-9D44-3F022CD11AC4",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "And then there’s the camera setup. The LG Wing comes with a triple rear camera comprising of a 64MP main shooter, a 13MP wide-angle camera, and a 12MP wide-angle camera with hexa motion sensors. This camera, combined with the Grip Lock in the Swivel Mode, opens up cases such as a Gimbal Motion Camera, allowing you to pan, tilt, and follow subjects easily using the one-handed joystick UI with a dedicated menu.",
+    "timeStamp": "2020-09-14T00:00:00"
+  },
+  {
+    "@id": "7FD13AD1-BB14-4BE0-BC92-81BEBBFAF1A3",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "EBBCD8D4-F876-4773-84B7-F0CF25091F14",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "Airtable is opening its API as it battles both startup and mega-cap rivals in the no-code space. In June, Amazon launched Honeycode, a spreadsheet program that lets you build apps and web pages on AWS. In July, Microsoft debuted its low-code offering dubbed Microsoft Lists. Rumor has it Google is creating one too. Then there are hot startups in the collaborative space like Asana, Smartsheet, and Monday.com. \"It's a huge trend with tough competitors,\" says Coatue's Thomas Laffont. \"It's a massive addressable market, and I think many companies will do well, but Airtable has the broadest, most ambitious vision of them all.\"  ",
+    "timeStamp": "2020-09-14T00:00:00"
+  },
+  {
+    "@id": "2F30A2D8-A9FB-4E51-B0E6-FF34A2DFB5E0",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "D65C81D5-A4F4-4E5D-86BF-3449FBA7E82C",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "12,905 for top of the Line",
+    "timeStamp": "2020-09-12T00:00:00"
+  },
+  {
+    "@id": "801DCC1A-C895-45B4-90C3-FCB1E00F2084",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "C1F4628A-B27A-480B-A104-35DCBC728AC8",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "Public blockchains aim to incorporate a mix of transparency and privacy, though efforts to implement the latter are still a long way off.\n\nA lack of on-chain privacy measures threatens the informational moat of DeFi’s biggest whales.\n\nTracking whales and mimicking their intricate trading strategies can be a source of alpha for savvy traders.\n\nBut this advantage will not last forever, as privacy on Ethereum is imminent.\n\n",
+    "timeStamp": "2020-09-12T00:00:00"
+  },
+  {
+    "@id": "EE5F6779-4086-4F4C-884A-27423F69FED4",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "1DA60D43-5640-44D0-A673-28B01620DB2A",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "The tool, called Entropy, is meant to reduce the cognitive burden on personnel performing military information support operations, an official said during a virtual presentation on Sept. 10 during the Department of Defense AI Symposium.\n\n",
+    "timeStamp": "2020-09-12T00:00:00"
+  },
+  {
+    "@id": "59B6FE98-88E9-40BA-B3E8-4D4E28FCCC8E",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "CCA86A69-2AB0-4EF1-AC41-FF25BA22E9B3",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "In brief\n\nNatural gas flare-ups have a negative impact on the environment and represent a missed financial opportunity for gas and oil companies.\n\nA new partnership between an oil company and a mining firm shows how companies could repurpose natural gas for use in Bitcoin mining.\n\nDoing so on a larger level would bring new revenue to companies while lowering carbon emissions.\n\n",
+    "timeStamp": "2020-09-12T00:00:00"
+  },
+  {
+    "@id": "08936DDE-ACE5-4C66-8664-AE1872A3EBAE",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "CA97A242-46CA-4583-8FC9-037A49DF1807",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "Prajwal Renukanand at the International Institute of Information Technology in India, and his colleagues have developed an algorithm that can rapidly alter video footage of a person talking or singing.\n\nThe researchers believe the AI could be used to alter videos so that the footage appears to match the sound of different languages, such as in dubbed movies.\n\n",
+    "timeStamp": "2020-09-12T00:00:00"
+  },
+  {
+    "@id": "4CB81FE1-6C4E-4DA7-BC54-61C764BC895B",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "4C205687-224B-45A6-9EAE-3931737FC186",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "FaaS - Farming as a Service",
+    "timeStamp": "2020-09-12T00:00:00"
+  },
+  {
+    "@id": "6D3D3995-3DED-41D8-98AD-8384E9F59400",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "6F930D7B-043C-4BE0-88AF-155C217626DD",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "The computer also comes with a small 16 x 2 pixel serial LCD display, and the computer itself features:\n\n    1.5 GHz RK3328 ARM Cortex-A53 quad-core processor\n    Mali-450MP2 graphics\n    1GB LPDDR3 memory\n    Gigabit Ethernet\n    HDMI\n    3.5mm A/V jack\n    1 x USB 3.0 port\n    2 x USB 2.0 ports\n    Raspberry Pi-compatible 40-pin GPIO header\n\nThe system comes with a 16GB microSD card, but it supports cards up to 256GB. There’s a 5V/3A power adapter that plugs into a dedicated power jack (rather than a USB port), and measuring 85mm x 56mm (about 3.4″ x 2.2″), the Iconikal single-board computer is about the same size as a Raspberry Pi Model B device.",
+    "timeStamp": "2020-09-11T00:00:00"
+  },
+  {
+    "@id": "66A71070-9429-485B-A6F7-515E572CA641",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "8A275BC7-5564-40D9-B60E-FC81A0F1E717",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "used in airtable shroom.dev",
+    "timeStamp": "2020-09-10T00:00:00"
+  },
+  {
+    "@id": "530AC5C5-65C4-4928-A89D-9FC394BB9816",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "8C73A6C9-2632-4600-8CE4-77338698AA64",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "MIT Tech Review",
+    "timeStamp": "2020-09-10T00:00:00"
+  },
+  {
+    "@id": "B5CBDCC1-AA63-4313-9651-9C14286F026B",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "2F4965FC-AC01-4F2E-B2D7-ECD276E5ECD6",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "DeFi Protocol Reviews",
+    "timeStamp": "2020-09-10T00:00:00"
+  },
+  {
+    "@id": "F3CCACE9-03F4-4496-93F0-FE18A897B7F6",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "31E71EF2-8C55-4D21-A5F6-E55875409395",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "Stacker lets you create the digital tools you need to engage your customers, partners and team, all powered by the data in your Airtable or Google Sheets.\n",
+    "timeStamp": "2020-09-10T00:00:00"
+  },
+  {
+    "@id": "541CEF46-3ABC-4B9B-9AFA-344B3F6CF62B",
+    "@type": "KnowledgePointRemark",
+    "knowledgePointId": "FA60C1C8-D3BC-4C78-8927-7E51ACFB5A1D",
+    "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "knowledgePointRemark": "Get the best of both worlds with Airtable’s intuitive, powerful database and Bubble’s custom logic and flexible UI builder. ",
+    "timeStamp": "2020-09-10T00:00:00"
+  }
+]
