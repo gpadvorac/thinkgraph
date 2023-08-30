@@ -1,0 +1,62 @@
+{
+  "ledger": "testdata3",
+  "txn": {
+    "@context": {
+      "person": "http://thinkgraph.org/ontologies/core/persons#",
+      "fashion": "http://thinkgraph.org/ontologies/apps/fashion-modeling#",
+      "xsd": "http://www.w3.org/2001/XMLSchema#"
+    },
+    "@id": "fashion:GUID-67890.1",
+    "@type": "fashion:FashionModel",
+    "person:DID": "did:did:987654321bcdefghi",
+    "person:givenName": "Lysandre",
+    "person:familyName": "Santos",
+    "person:birthDate": {
+      "@value": "1994-05-10",
+      "@type": "xsd:date"
+    },
+    "fashion:gender": "Male",
+    "fashion:languagesSpoken": [
+      {
+        "fashion:language": "English",
+        "fashion:level": "fashion:fluent"
+      },
+      {
+        "fashion:language": "Portuguese",
+        "fashion:level": "fashion:native-bilingual"
+      }
+    ],
+    "fashion:physicalAttributes": {
+      "fashion:height": {
+        "@value": "1.82",
+        "@type": "xsd:float"
+      },
+      "fashion:weight": {
+        "@value": "75.0",
+        "@type": "xsd:float"
+      },
+      "fashion:eyeColor": "Brown",
+      "fashion:hairColor": "Black"
+    },
+    "fashion:skills": {
+      "fashion:language": "Spanish",
+      "fashion:actingExperience": "Beginner",
+      "fashion:specializedSkills": "Photography, Acting"
+    },
+    "fashion:availability": {
+      "fashion:locationWillingToWork": "South America, North America",
+      "fashion:availabilityDates": {
+        "@value": "2023-08-15",
+        "@type": "xsd:date"
+      },
+      "fashion:preferredTypesOfWork": "Runway, Editorial"
+    },
+    "fashion:socialMediaPresence": {
+      "fashion:linksToProfiles": "https://www.instagram.com/lysandre_santos",
+      "fashion:followersCount": {
+        "@value": "300000",
+        "@type": "xsd:integer"
+      }
+    }
+  }
+}

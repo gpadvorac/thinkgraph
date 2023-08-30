@@ -1,0 +1,79 @@
+
+
+
+{
+    "ledger": "testdata2",
+    "txn": 
+    {
+        "@context": {
+        "person": "http://thinkgraph.org/ontologies/core/persons#"
+        },
+        "@id": "fashion:GUID-12345.1",
+        "friendsWith": {
+            "@id": "fashion:GUID-12345"
+        },    
+        "person:familyName": "Worrel",
+        "person:givenName": "Ernest"
+    }
+}
+  
+
+{
+    "ledger": "testdata2",
+    "txn": {
+        
+    "name": "Kelly2",
+    "species": "yeti",
+    "sightings": [
+      {
+        "day": "2022-12-20",
+        "location": "ski basin"
+      },
+      {
+        "day": "2022-12-21",
+        "location": "Target"
+      }
+    ]
+    }
+  }
+
+
+  {
+    "ledger": "testdata2",
+    "query": {
+      "select": {
+        "?s": ["*"]
+      },
+      "where": [["?s", "http://thinkgraph.org/ontologies/core/persons#givenName", "Alessandra"]]
+    }
+  }
+  
+  {
+    "ledger": "testdata2",
+    "query": {
+      "select": {
+        "?s": ["*"]
+      },
+      "where": [["?s", "http://thinkgraph.org/ontologies/core/persons#givenName", "Alessandra"]]
+    }
+  }
+
+
+
+
+  {
+    "ledger": "testdata2",
+    "query": {
+      "select": {
+        "?s": [
+          "@id",
+          {
+            "bestFriend": ["*"]
+          }
+        ]
+      },
+      "where": [["?s", "bestFriend"]]
+    }
+  }
+  
+

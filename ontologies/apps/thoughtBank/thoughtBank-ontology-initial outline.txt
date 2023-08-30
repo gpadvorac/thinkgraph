@@ -1,0 +1,29 @@
+same schema that we used in neo4j:
+
+
+Resource
+  name
+  description
+  sourceType
+  sourceName
+  resourceDate  (when was this published, made, etc.?)
+  url
+  rating (1-5)
+  createdBy  (who added this resource to the db?)
+  defaultImageUrl
+  defaultImageData
+  [{Image Collection}]  (a collection of our image class: id, resource_id, url, sort, remarks)
+  [{Remarks Collection}]   (this could be a thread of comments)
+  [{Tag Collection}]   (this is how we create links or edges between nodes)
+  [{RelatedResource Collection}]   (linked to other resources)
+  createdTimeStamp
+Tag
+ name
+
+
+
+
+
+
+
+
