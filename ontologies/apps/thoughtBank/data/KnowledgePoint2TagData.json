@@ -1,0 +1,3089 @@
+[
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8A29A796-E921-43E2-A1D4-7ED05A3530B6",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "346AAF62-C882-49C7-81FC-01936BB71313",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8A29A796-E921-43E2-A1D4-7ED05A3530B6",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "campaign"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F493F239-5670-459D-BEE8-0CE2152EE75E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "78E79B17-B4D0-4D52-BD64-91A03F311B0D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F493F239-5670-459D-BEE8-0CE2152EE75E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "app_store"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6A27062C-206C-410D-8D42-8C44106B6B4D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "DB7DE068-09FA-422F-86C4-95C668F46E67",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6A27062C-206C-410D-8D42-8C44106B6B4D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "blockchain"
+    },
+    {
+      "@id": "899D9607-4243-469A-B019-D40D97F6EA27",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6A27062C-206C-410D-8D42-8C44106B6B4D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "3d printing"
+    },
+    {
+      "@id": "CEA659FB-7718-4E72-A248-11F07AACDB53",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "FDE9DEC7-F088-4DD0-B6E6-04DF9E0145D7",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "finance"
+    },
+    {
+      "@id": "21FEBD43-0DEC-4C66-9DB2-A298776F2AAE",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "FDE9DEC7-F088-4DD0-B6E6-04DF9E0145D7",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "energy_industry"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0B6E06A5-AA7D-4C1C-894B-1599B01769D7",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "53CDD3F9-80C0-41C8-98F5-D92B45765CBB",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "D57DE8D9-FDBC-457C-B7EA-79E3E9AC334E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "fintech"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "D57DE8D9-FDBC-457C-B7EA-79E3E9AC334E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "CEA659FB-7718-4E72-A248-11F07AACDB53",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "D57DE8D9-FDBC-457C-B7EA-79E3E9AC334E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "finance"
+    },
+    {
+      "@id": "8C34A36B-FA34-4327-AD48-A37787277D68",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "D57DE8D9-FDBC-457C-B7EA-79E3E9AC334E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "tokens"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "D57DE8D9-FDBC-457C-B7EA-79E3E9AC334E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F0D2BCC6-EE89-4A8D-ABB1-228BB1C5C694",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "AA6F3CA3-BEB0-4704-9429-38065FE1BFD4",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F0D2BCC6-EE89-4A8D-ABB1-228BB1C5C694",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "uni_swap"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F0D2BCC6-EE89-4A8D-ABB1-228BB1C5C694",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "83ABB6B8-9FE0-4591-A082-9654D830FC14",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "EA8F4066-48A3-453C-B076-9EF6E91423B1",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "graph_db"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "EA8F4066-48A3-453C-B076-9EF6E91423B1",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "987BB1ED-504D-434F-8D2B-E262CC4AC4B0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "EA8F4066-48A3-453C-B076-9EF6E91423B1",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "database"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A1DF9E1D-B71F-4003-BF07-BBC00B210D47",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A1DF9E1D-B71F-4003-BF07-BBC00B210D47",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "8C34A36B-FA34-4327-AD48-A37787277D68",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A1DF9E1D-B71F-4003-BF07-BBC00B210D47",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "tokens"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "3339B6CB-2B3B-4652-9DD9-07C13A2C63B8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "3339B6CB-2B3B-4652-9DD9-07C13A2C63B8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "8C34A36B-FA34-4327-AD48-A37787277D68",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "3339B6CB-2B3B-4652-9DD9-07C13A2C63B8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "tokens"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "82955534-38F7-4646-A95E-43960D25E5A8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "82955534-38F7-4646-A95E-43960D25E5A8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "E4E4AEC6-FAAF-42F5-AE3C-7FF59114E6D5",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "82955534-38F7-4646-A95E-43960D25E5A8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "etherium"
+    },
+    {
+      "@id": "CD9D611C-8DA5-4DAA-B582-E0645ABFEA36",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "82955534-38F7-4646-A95E-43960D25E5A8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "dapps"
+    },
+    {
+      "@id": "987BB1ED-504D-434F-8D2B-E262CC4AC4B0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F0E9F3F5-2EFF-4FB7-A10F-7E619C9FBFF9",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "database"
+    },
+    {
+      "@id": "DBD25B87-F4A7-42A7-B112-3243A75235AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "4C940D8F-19E8-486C-840F-CFA0D2B19F6D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "cameras"
+    },
+    {
+      "@id": "A767E434-B10C-4A68-BC8C-58621A8B3516",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "4C940D8F-19E8-486C-840F-CFA0D2B19F6D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "media_production"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6CC1BA8C-7B87-476B-BBA6-3CF083FFBB70",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "8C168A98-C9A3-4CF6-9E31-C791B82F7417",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6CC1BA8C-7B87-476B-BBA6-3CF083FFBB70",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "encryption"
+    },
+    {
+      "@id": "18040963-7A68-4D01-9CE6-83C2257ED520",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6CC1BA8C-7B87-476B-BBA6-3CF083FFBB70",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "privacy"
+    },
+    {
+      "@id": "E4E4AEC6-FAAF-42F5-AE3C-7FF59114E6D5",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6CC1BA8C-7B87-476B-BBA6-3CF083FFBB70",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "etherium"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6DB6D76B-6EA1-4A7D-B78A-F1740EAEC7F4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6DB6D76B-6EA1-4A7D-B78A-F1740EAEC7F4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "E4E4AEC6-FAAF-42F5-AE3C-7FF59114E6D5",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6DB6D76B-6EA1-4A7D-B78A-F1740EAEC7F4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "etherium"
+    },
+    {
+      "@id": "22A3CC53-BBBF-4756-8A2B-70053B04B28E",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A71480F5-46EF-45A2-BA34-818B61B4CB7E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "servers"
+    },
+    {
+      "@id": "3EFA9464-997F-48F3-A9B3-6AD0E2D510B0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A71480F5-46EF-45A2-BA34-818B61B4CB7E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "deep_learning"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A71480F5-46EF-45A2-BA34-818B61B4CB7E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9C6581FB-77A8-4DBA-81CE-472A98F48F45",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "CEA659FB-7718-4E72-A248-11F07AACDB53",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9C6581FB-77A8-4DBA-81CE-472A98F48F45",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "finance"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8E001F99-48D1-4863-924B-9285A0E57CE0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8E001F99-48D1-4863-924B-9285A0E57CE0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "E4E4AEC6-FAAF-42F5-AE3C-7FF59114E6D5",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8E001F99-48D1-4863-924B-9285A0E57CE0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "etherium"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9D8A36E1-F8C9-41B1-A183-7172F3D3AF01",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0006127A-4C19-4B61-AE5E-595FAAE06B5A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "115B11CA-DCB2-4D74-85F8-B3BDB9003FAF",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0006127A-4C19-4B61-AE5E-595FAAE06B5A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "bitcoin"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "B167BA4E-1F90-40F6-9F66-784B67A6509D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "00A5E830-BC79-446F-A380-D8582B2D76D4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "4404F432-8A25-4D58-96A6-BEBA6EF31A38",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "00A5E830-BC79-446F-A380-D8582B2D76D4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "exchange"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "00A5E830-BC79-446F-A380-D8582B2D76D4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "E4E4AEC6-FAAF-42F5-AE3C-7FF59114E6D5",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "00A5E830-BC79-446F-A380-D8582B2D76D4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "etherium"
+    },
+    {
+      "@id": "A767E434-B10C-4A68-BC8C-58621A8B3516",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "673B0C3B-8331-4BD9-A275-3C43CE2AA7E7",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "media_production"
+    },
+    {
+      "@id": "DBD25B87-F4A7-42A7-B112-3243A75235AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "673B0C3B-8331-4BD9-A275-3C43CE2AA7E7",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "cameras"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C3D400C8-1DC4-4BDC-9F0E-78EA58BB33EC",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "B51C3705-E440-4E58-9ECD-6E32DAFDE9E1",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C3D400C8-1DC4-4BDC-9F0E-78EA58BB33EC",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "banking"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "CCC096B3-8BF5-4A58-B53F-1B0C6B9EF842",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DA152426-448D-4EF3-971F-CD06ECE042B5",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "CCC096B3-8BF5-4A58-B53F-1B0C6B9EF842",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "smart_contracts"
+    },
+    {
+      "@id": "9B14B7B1-BDC8-467C-A9FE-480983A968E9",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C40AAFF3-7CC8-4555-ABE4-368ADE4B6B26",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "vc"
+    },
+    {
+      "@id": "63ED6979-0883-4E4A-B009-65A89329FBBC",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "73FBF30C-806D-469C-BA1B-0DB2797D79DB",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "gaming"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "73FBF30C-806D-469C-BA1B-0DB2797D79DB",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DC6260CB-8E39-4892-8A40-B956537D45BA",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C407DE3E-65C5-4126-8FFF-D69A3AFF4535",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "no_low_code"
+    },
+    {
+      "@id": "A942593F-B440-4670-B9E8-4B4BA754B678",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C407DE3E-65C5-4126-8FFF-D69A3AFF4535",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "dev_ops"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C407DE3E-65C5-4126-8FFF-D69A3AFF4535",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "74BF4B30-FF65-478D-A338-36685FCDC05B",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6755F9FC-6302-4321-9B4D-49BFDCEF8116",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "google"
+    },
+    {
+      "@id": "E0C5A5FF-F67C-4D48-B925-ED5E5B6006BF",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6755F9FC-6302-4321-9B4D-49BFDCEF8116",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "open_source"
+    },
+    {
+      "@id": "844C100D-7A86-4CDB-AB7A-BC68D072CC91",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6755F9FC-6302-4321-9B4D-49BFDCEF8116",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "kubernetes"
+    },
+    {
+      "@id": "63ED6979-0883-4E4A-B009-65A89329FBBC",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "78892E66-AD84-4607-82AD-3A07AC35AA86",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "gaming"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "78892E66-AD84-4607-82AD-3A07AC35AA86",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "63ED6979-0883-4E4A-B009-65A89329FBBC",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "DDF66E7B-52F4-4039-B25C-646559CBB118",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "gaming"
+    },
+    {
+      "@id": "E4E4AEC6-FAAF-42F5-AE3C-7FF59114E6D5",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "DDF66E7B-52F4-4039-B25C-646559CBB118",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "etherium"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "DDF66E7B-52F4-4039-B25C-646559CBB118",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "72051980-5D19-4590-A001-314645A49294",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "2F572535-E3D0-47DE-AAE5-B7C12B2902BA",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "coding"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "2F572535-E3D0-47DE-AAE5-B7C12B2902BA",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C6BA9439-19DC-4D5E-86BF-1F1742AE156D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "22A3CC53-BBBF-4756-8A2B-70053B04B28E",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "5059A13F-B0DD-41C1-99B5-609AB62920E5",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "servers"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C7119D05-0646-43AD-82D1-7CC7ADFA3DD4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "B51C3705-E440-4E58-9ECD-6E32DAFDE9E1",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C7119D05-0646-43AD-82D1-7CC7ADFA3DD4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "banking"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C7119D05-0646-43AD-82D1-7CC7ADFA3DD4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "244A5BCA-4F64-43FA-83DD-86EB1C2E0C91",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A87952B7-BEBF-4382-AC35-9FA17478154C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "payments"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "BCD8092E-4913-449C-BF5E-5EC92B47B6ED",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "3EFA9464-997F-48F3-A9B3-6AD0E2D510B0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "BCD8092E-4913-449C-BF5E-5EC92B47B6ED",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "deep_learning"
+    },
+    {
+      "@id": "94DF0B2E-02A7-43C8-9AA6-A83D51EF1D3C",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "BCD8092E-4913-449C-BF5E-5EC92B47B6ED",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "aim"
+    },
+    {
+      "@id": "12E90D71-0F39-4C04-B6A2-5D67715A8D30",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F936649C-2107-44C4-8A53-D03E30E3F871",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "shroom_dev"
+    },
+    {
+      "@id": "39BFC7A0-6F76-4B64-B0A9-0035E2D41A68",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F936649C-2107-44C4-8A53-D03E30E3F871",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "white_truck"
+    },
+    {
+      "@id": "D0C7B720-6B6C-4CC9-8D25-17AE1998EAD1",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F936649C-2107-44C4-8A53-D03E30E3F871",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "surveys"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "2336DAEA-86A6-4BEC-AB01-7B8A3600C6B6",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "2336DAEA-86A6-4BEC-AB01-7B8A3600C6B6",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "115B11CA-DCB2-4D74-85F8-B3BDB9003FAF",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A47FD770-DDC9-41BB-B660-DA81F3757570",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "bitcoin"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A47FD770-DDC9-41BB-B660-DA81F3757570",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "07D01153-1308-4721-977C-68DA135D0594",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "23D6B42E-B419-48E3-9204-3B09EC9AD413",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "home_server"
+    },
+    {
+      "@id": "22A3CC53-BBBF-4756-8A2B-70053B04B28E",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "23D6B42E-B419-48E3-9204-3B09EC9AD413",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "servers"
+    },
+    {
+      "@id": "74BF4B30-FF65-478D-A338-36685FCDC05B",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "689BC7F1-79B4-41ED-9325-9239D3974DC8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "google"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "689BC7F1-79B4-41ED-9325-9239D3974DC8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F792B488-6755-46E1-9CE3-13568DE7545A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "D5853090-A02B-4DD4-9DBD-8CEAD9C7E69D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F792B488-6755-46E1-9CE3-13568DE7545A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "web_apps"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "51F110E1-D97E-4EC4-930E-21EFB4B4BD31",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "2A899215-763F-4573-967C-5A911BFD873B",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "51F110E1-D97E-4EC4-930E-21EFB4B4BD31",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "memory_tech"
+    },
+    {
+      "@id": "6E89906E-524D-4B7C-91BC-DEA209F41D4F",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "51F110E1-D97E-4EC4-930E-21EFB4B4BD31",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "augmentation"
+    },
+    {
+      "@id": "DB7DE068-09FA-422F-86C4-95C668F46E67",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "51F110E1-D97E-4EC4-930E-21EFB4B4BD31",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "blockchain"
+    },
+    {
+      "@id": "68645B53-6B79-4419-9955-C70A69A481C1",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "5344410C-6599-4736-9169-4E0145825C21",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "data_science"
+    },
+    {
+      "@id": "FB9C0197-B73A-4554-AEBF-C12E8C27209D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "5344410C-6599-4736-9169-4E0145825C21",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "analytics"
+    },
+    {
+      "@id": "42D6E723-B517-4C7B-94DC-5A66B5B73C0F",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "5344410C-6599-4736-9169-4E0145825C21",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "graphs"
+    },
+    {
+      "@id": "34078A95-5CAF-42FE-83C9-C13094807112",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "5344410C-6599-4736-9169-4E0145825C21",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ui_ux"
+    },
+    {
+      "@id": "18040963-7A68-4D01-9CE6-83C2257ED520",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9AB4594F-6360-4795-A1E3-3B4044C8C0E4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "privacy"
+    },
+    {
+      "@id": "8C168A98-C9A3-4CF6-9E31-C791B82F7417",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9AB4594F-6360-4795-A1E3-3B4044C8C0E4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "encryption"
+    },
+    {
+      "@id": "C040F26C-52FA-4709-8983-2981E534AC47",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9AB4594F-6360-4795-A1E3-3B4044C8C0E4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "mixnet"
+    },
+    {
+      "@id": "E1E26757-2BB7-4F83-A4C8-3E55559EB0C7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9AB4594F-6360-4795-A1E3-3B4044C8C0E4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "authentication"
+    },
+    {
+      "@id": "18040963-7A68-4D01-9CE6-83C2257ED520",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "70B41F0C-AEBA-45D7-BC7D-7D1BD0F57788",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "privacy"
+    },
+    {
+      "@id": "C040F26C-52FA-4709-8983-2981E534AC47",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "70B41F0C-AEBA-45D7-BC7D-7D1BD0F57788",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "mixnet"
+    },
+    {
+      "@id": "8C168A98-C9A3-4CF6-9E31-C791B82F7417",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "70B41F0C-AEBA-45D7-BC7D-7D1BD0F57788",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "encryption"
+    },
+    {
+      "@id": "E1E26757-2BB7-4F83-A4C8-3E55559EB0C7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "70B41F0C-AEBA-45D7-BC7D-7D1BD0F57788",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "authentication"
+    },
+    {
+      "@id": "18040963-7A68-4D01-9CE6-83C2257ED520",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "CAA0125B-9909-4553-8B54-C08A6E73100F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "privacy"
+    },
+    {
+      "@id": "C040F26C-52FA-4709-8983-2981E534AC47",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "CAA0125B-9909-4553-8B54-C08A6E73100F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "mixnet"
+    },
+    {
+      "@id": "9D41B9B4-9F09-42F6-880D-DA51ACD0CCF9",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "CAA0125B-9909-4553-8B54-C08A6E73100F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "wasm"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "AF9341F0-83E3-438E-AD45-CF663D17A0FB",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8A488051-EE6F-43FF-A275-43755019021F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "68645B53-6B79-4419-9955-C70A69A481C1",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9FD4D1CF-68CC-4697-9272-596FCEA7C92F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "data_science"
+    },
+    {
+      "@id": "FB9C0197-B73A-4554-AEBF-C12E8C27209D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9FD4D1CF-68CC-4697-9272-596FCEA7C92F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "analytics"
+    },
+    {
+      "@id": "1F2F444F-3DC3-4C23-AA0F-271CAB5B16CA",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9FD4D1CF-68CC-4697-9272-596FCEA7C92F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "visualizations"
+    },
+    {
+      "@id": "42D6E723-B517-4C7B-94DC-5A66B5B73C0F",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9FD4D1CF-68CC-4697-9272-596FCEA7C92F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "graphs"
+    },
+    {
+      "@id": "7F1AE404-2584-4394-8AF6-26A915A50F77",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "411CAC08-6C84-4E9B-9918-BDC596FCF4C4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "brain"
+    },
+    {
+      "@id": "E2D7EF8E-CF14-4870-9293-E61E9B79A51E",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "411CAC08-6C84-4E9B-9918-BDC596FCF4C4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "neural_tech"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "411CAC08-6C84-4E9B-9918-BDC596FCF4C4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "6E89906E-524D-4B7C-91BC-DEA209F41D4F",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "411CAC08-6C84-4E9B-9918-BDC596FCF4C4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "augmentation"
+    },
+    {
+      "@id": "94DF0B2E-02A7-43C8-9AA6-A83D51EF1D3C",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "595B4719-3666-4363-B1D6-D811FDF4AF1F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "aim"
+    },
+    {
+      "@id": "BC6BB3D8-E8BD-4EAD-9668-05D0F3A32E9A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "595B4719-3666-4363-B1D6-D811FDF4AF1F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "algorithms"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "595B4719-3666-4363-B1D6-D811FDF4AF1F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "07B5EB8B-7675-49F7-9E67-AD1D8C3330F7",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "07B5EB8B-7675-49F7-9E67-AD1D8C3330F7",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "8C168A98-C9A3-4CF6-9E31-C791B82F7417",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "07B5EB8B-7675-49F7-9E67-AD1D8C3330F7",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "encryption"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "07B5EB8B-7675-49F7-9E67-AD1D8C3330F7",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "BD69BE77-B6E2-49F3-B49B-291D18BEDB26",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "2A899215-763F-4573-967C-5A911BFD873B",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "BD69BE77-B6E2-49F3-B49B-291D18BEDB26",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "memory_tech"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9355400E-42F9-43CB-8083-DA89A6BD22AB",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "2A899215-763F-4573-967C-5A911BFD873B",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9355400E-42F9-43CB-8083-DA89A6BD22AB",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "memory_tech"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "296CCA7F-85D2-4138-AAE2-E81B3F5E9769",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "2A899215-763F-4573-967C-5A911BFD873B",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "296CCA7F-85D2-4138-AAE2-E81B3F5E9769",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "memory_tech"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "1D6C98DA-C20B-416C-A7E3-085B78E33733",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "1D6C98DA-C20B-416C-A7E3-085B78E33733",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "E4E4AEC6-FAAF-42F5-AE3C-7FF59114E6D5",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "1D6C98DA-C20B-416C-A7E3-085B78E33733",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "etherium"
+    },
+    {
+      "@id": "B51C3705-E440-4E58-9ECD-6E32DAFDE9E1",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "1D6C98DA-C20B-416C-A7E3-085B78E33733",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "banking"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "B6EFC400-7236-4F5F-BEBC-33A8A09E2F18",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "B6EFC400-7236-4F5F-BEBC-33A8A09E2F18",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "E4E4AEC6-FAAF-42F5-AE3C-7FF59114E6D5",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "B6EFC400-7236-4F5F-BEBC-33A8A09E2F18",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "etherium"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "3647C281-92C7-4294-AE16-CC0E9A2EA465",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "EF5A7E7E-C843-4EE7-AFEF-984CAAE65C60",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "63ED6979-0883-4E4A-B009-65A89329FBBC",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "BBCB1171-2159-47A3-9ACC-E7F5A431ED3D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "gaming"
+    },
+    {
+      "@id": "61E5A918-6693-40C4-A11F-809EFB3788D9",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "BBCB1171-2159-47A3-9ACC-E7F5A431ED3D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "gaming_engine"
+    },
+    {
+      "@id": "39BFC7A0-6F76-4B64-B0A9-0035E2D41A68",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "BBCB1171-2159-47A3-9ACC-E7F5A431ED3D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "white_truck"
+    },
+    {
+      "@id": "BC331296-EC36-4FFD-8380-AD4073B5A8FF",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "BBCB1171-2159-47A3-9ACC-E7F5A431ED3D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "apps"
+    },
+    {
+      "@id": "A942593F-B440-4670-B9E8-4B4BA754B678",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "BBCB1171-2159-47A3-9ACC-E7F5A431ED3D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "dev_ops"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C4D6BAE5-E67E-4A54-9FBF-7DC58349D9F0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "D0C7B720-6B6C-4CC9-8D25-17AE1998EAD1",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C4D6BAE5-E67E-4A54-9FBF-7DC58349D9F0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "surveys"
+    },
+    {
+      "@id": "39BFC7A0-6F76-4B64-B0A9-0035E2D41A68",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C4D6BAE5-E67E-4A54-9FBF-7DC58349D9F0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "white_truck"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C035B4B8-0F1F-47AC-8481-82459D66C1D8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C035B4B8-0F1F-47AC-8481-82459D66C1D8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "E1E26757-2BB7-4F83-A4C8-3E55559EB0C7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C035B4B8-0F1F-47AC-8481-82459D66C1D8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "authentication"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C035B4B8-0F1F-47AC-8481-82459D66C1D8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "56A7F5B6-81D6-481D-AD2C-7559AB9D21EF",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "56A7F5B6-81D6-481D-AD2C-7559AB9D21EF",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "56A7F5B6-81D6-481D-AD2C-7559AB9D21EF",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "E1E26757-2BB7-4F83-A4C8-3E55559EB0C7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "56A7F5B6-81D6-481D-AD2C-7559AB9D21EF",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "authentication"
+    },
+    {
+      "@id": "DA152426-448D-4EF3-971F-CD06ECE042B5",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "56A7F5B6-81D6-481D-AD2C-7559AB9D21EF",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "smart_contracts"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C6886679-A3F2-4CA6-8398-64322629A2BC",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0622F24C-82B0-4300-83F2-D2DDC6151096",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0622F24C-82B0-4300-83F2-D2DDC6151096",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0622F24C-82B0-4300-83F2-D2DDC6151096",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "98FBAF5E-2F69-449C-A8A7-BECADE199D4D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "98FBAF5E-2F69-449C-A8A7-BECADE199D4D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "115B11CA-DCB2-4D74-85F8-B3BDB9003FAF",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "98FBAF5E-2F69-449C-A8A7-BECADE199D4D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "bitcoin"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "486126A8-2546-48C5-81C8-52F4FE894398",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "486126A8-2546-48C5-81C8-52F4FE894398",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "E4E4AEC6-FAAF-42F5-AE3C-7FF59114E6D5",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "486126A8-2546-48C5-81C8-52F4FE894398",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "etherium"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "BB62345A-0EAA-4BB5-BC9E-E84A3D723BAD",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "DC6260CB-8E39-4892-8A40-B956537D45BA",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "BB62345A-0EAA-4BB5-BC9E-E84A3D723BAD",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "no_low_code"
+    },
+    {
+      "@id": "6C7BD6CD-A211-4474-B79D-AE5CFD419A11",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "359EBF05-7050-4878-8121-8CC095EDA2D4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "notebooks"
+    },
+    {
+      "@id": "6C7BD6CD-A211-4474-B79D-AE5CFD419A11",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C208C816-220F-481E-AD5D-4157F33946E0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "notebooks"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "7950E226-04B2-4B23-80A2-AC6CC1A98B66",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "7950E226-04B2-4B23-80A2-AC6CC1A98B66",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "8135AFB8-89ED-480A-BB65-6E881448B587",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "7950E226-04B2-4B23-80A2-AC6CC1A98B66",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "switzerland"
+    },
+    {
+      "@id": "99178516-2B05-4FC5-99C5-A1E9F1435CA9",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "46A51B64-B278-4483-B8B0-03DA5D7DE3FE",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "it_industry"
+    },
+    {
+      "@id": "DC6260CB-8E39-4892-8A40-B956537D45BA",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "46A51B64-B278-4483-B8B0-03DA5D7DE3FE",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "no_low_code"
+    },
+    {
+      "@id": "72051980-5D19-4590-A001-314645A49294",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "46A51B64-B278-4483-B8B0-03DA5D7DE3FE",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "coding"
+    },
+    {
+      "@id": "BFB69657-A228-4AA6-A3CE-779F71D567A0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "46A51B64-B278-4483-B8B0-03DA5D7DE3FE",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "language"
+    },
+    {
+      "@id": "E234F80D-099E-46BA-8B41-48FB7582D023",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "11A1D2AA-DA54-4FC7-A417-801C433C13A1",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "sbc"
+    },
+    {
+      "@id": "22A3CC53-BBBF-4756-8A2B-70053B04B28E",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "11A1D2AA-DA54-4FC7-A417-801C433C13A1",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "servers"
+    },
+    {
+      "@id": "65D3C2C7-7069-41A0-8F30-60B789D99BF7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "11A1D2AA-DA54-4FC7-A417-801C433C13A1",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "iot"
+    },
+    {
+      "@id": "07D01153-1308-4721-977C-68DA135D0594",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "11A1D2AA-DA54-4FC7-A417-801C433C13A1",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "home_server"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F3E1E455-3097-4E26-A46F-E2DE43610E41",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F3E1E455-3097-4E26-A46F-E2DE43610E41",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "FE615D5B-5275-4396-BE63-0DB62920C003",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "FE615D5B-5275-4396-BE63-0DB62920C003",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "D0C7B720-6B6C-4CC9-8D25-17AE1998EAD1",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "1F611D20-1258-4CB8-8D7F-629B850B5CED",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "surveys"
+    },
+    {
+      "@id": "39BFC7A0-6F76-4B64-B0A9-0035E2D41A68",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "1F611D20-1258-4CB8-8D7F-629B850B5CED",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "white_truck"
+    },
+    {
+      "@id": "A1E4B7F9-4209-4A70-884D-92BCF380E999",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "714F8C0C-6BBD-4A0D-93C6-51C1A37F022C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "risc_v"
+    },
+    {
+      "@id": "CCFE169F-99B0-4FCC-8094-CF3EB9BCFBE8",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "714F8C0C-6BBD-4A0D-93C6-51C1A37F022C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "cpu_gpu"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "196F5711-3CD4-4D88-93E3-D95943E3EF7D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "196F5711-3CD4-4D88-93E3-D95943E3EF7D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A40E8C7A-9C14-491A-A13D-71D1A8481D0D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "E4E4AEC6-FAAF-42F5-AE3C-7FF59114E6D5",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A40E8C7A-9C14-491A-A13D-71D1A8481D0D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "etherium"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "966BBAFF-7878-4FBB-A66B-E6459A3A7031",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "9B14B7B1-BDC8-467C-A9FE-480983A968E9",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "966BBAFF-7878-4FBB-A66B-E6459A3A7031",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "vc"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9620CE7B-8EA6-498E-B4B9-09BE4E91DFA2",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "DC6260CB-8E39-4892-8A40-B956537D45BA",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9620CE7B-8EA6-498E-B4B9-09BE4E91DFA2",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "no_low_code"
+    },
+    {
+      "@id": "65D3C2C7-7069-41A0-8F30-60B789D99BF7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "19EB09CE-9B96-4391-AC4B-AC0D406ADAE0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "iot"
+    },
+    {
+      "@id": "07D01153-1308-4721-977C-68DA135D0594",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "19EB09CE-9B96-4391-AC4B-AC0D406ADAE0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "home_server"
+    },
+    {
+      "@id": "3DF305C7-F09E-4D0E-B464-EFFF646A408E",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "19EB09CE-9B96-4391-AC4B-AC0D406ADAE0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "linux"
+    },
+    {
+      "@id": "62043128-DA12-4FBD-B081-8E9694801FA3",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "19EB09CE-9B96-4391-AC4B-AC0D406ADAE0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "mini_pc"
+    },
+    {
+      "@id": "E234F80D-099E-46BA-8B41-48FB7582D023",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "19EB09CE-9B96-4391-AC4B-AC0D406ADAE0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "sbc"
+    },
+    {
+      "@id": "7146F093-2439-4C55-B008-C24D9A766411",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "41B1750D-7F6D-4941-9D44-3F022CD11AC4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "mobile_tech"
+    },
+    {
+      "@id": "DBD25B87-F4A7-42A7-B112-3243A75235AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "41B1750D-7F6D-4941-9D44-3F022CD11AC4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "cameras"
+    },
+    {
+      "@id": "6296735A-5068-4413-9A55-E774F249BE0D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "41B1750D-7F6D-4941-9D44-3F022CD11AC4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "dual_screen"
+    },
+    {
+      "@id": "4B97DE31-2213-4513-929D-F1D23E7ACB44",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "3199C38B-75B3-4DD8-9CF2-4C71FC5C57CD",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "security"
+    },
+    {
+      "@id": "18040963-7A68-4D01-9CE6-83C2257ED520",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "3199C38B-75B3-4DD8-9CF2-4C71FC5C57CD",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "privacy"
+    },
+    {
+      "@id": "B535CE2E-E065-4298-9F9B-E1900F89439B",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "3199C38B-75B3-4DD8-9CF2-4C71FC5C57CD",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "surveilance"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "7C70A021-A36F-48A7-B567-248197D07B0C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "A822282F-ACD2-4804-A3FD-7EC3CDE5EF22",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "7C70A021-A36F-48A7-B567-248197D07B0C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "DSaaS"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "5C74D55E-B495-493D-8282-19A6E57FD114",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "CE8120C7-105B-4F31-8A22-C29FD2571ED0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "99178516-2B05-4FC5-99C5-A1E9F1435CA9",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "CE8120C7-105B-4F31-8A22-C29FD2571ED0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "it_industry"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "EBBCD8D4-F876-4773-84B7-F0CF25091F14",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "5D2AC704-5F71-4CF7-8B35-567657982A95",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "ECB50FE8-0762-4220-8C7A-701EE9147EA9",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "proxy"
+    },
+    {
+      "@id": "1DF0083F-1703-41C4-879C-74B278D74A28",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "ECB50FE8-0762-4220-8C7A-701EE9147EA9",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crawler"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "07E77825-70FA-4720-A653-36948A14BF9F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "E1A2278E-27BF-486F-9394-CB0C75C5E49C",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "07E77825-70FA-4720-A653-36948A14BF9F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "trends"
+    },
+    {
+      "@id": "DC6260CB-8E39-4892-8A40-B956537D45BA",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "07E77825-70FA-4720-A653-36948A14BF9F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "no_low_code"
+    },
+    {
+      "@id": "3DF305C7-F09E-4D0E-B464-EFFF646A408E",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8FE31489-8804-491C-BD88-84D648607B1F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "linux"
+    },
+    {
+      "@id": "03143331-ECA8-4837-9470-3EA8FBFD9E2F",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "D65C81D5-A4F4-4E5D-86BF-3449FBA7E82C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "workstation"
+    },
+    {
+      "@id": "C4F5D9C0-E881-4BBB-A0C8-7CF295644DE2",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "D65C81D5-A4F4-4E5D-86BF-3449FBA7E82C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "workstation_pc"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C1F4628A-B27A-480B-A104-35DCBC728AC8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C1F4628A-B27A-480B-A104-35DCBC728AC8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "115B11CA-DCB2-4D74-85F8-B3BDB9003FAF",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C1F4628A-B27A-480B-A104-35DCBC728AC8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "bitcoin"
+    },
+    {
+      "@id": "E4E4AEC6-FAAF-42F5-AE3C-7FF59114E6D5",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C1F4628A-B27A-480B-A104-35DCBC728AC8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "etherium"
+    },
+    {
+      "@id": "AA6F3CA3-BEB0-4704-9429-38065FE1BFD4",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C1F4628A-B27A-480B-A104-35DCBC728AC8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "uni_swap"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C1F4628A-B27A-480B-A104-35DCBC728AC8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6E501237-A3CD-4179-8741-AD83EC87C563",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6E501237-A3CD-4179-8741-AD83EC87C563",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "115B11CA-DCB2-4D74-85F8-B3BDB9003FAF",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6E501237-A3CD-4179-8741-AD83EC87C563",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "bitcoin"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6E501237-A3CD-4179-8741-AD83EC87C563",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "AA6F3CA3-BEB0-4704-9429-38065FE1BFD4",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6E501237-A3CD-4179-8741-AD83EC87C563",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "uni_swap"
+    },
+    {
+      "@id": "1FC43E85-CFC5-493B-9803-8A90A7D5F4A0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "1DA60D43-5640-44D0-A673-28B01620DB2A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "dark_tech"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "1DA60D43-5640-44D0-A673-28B01620DB2A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "57100CB8-A37B-454C-B993-D124B416F7C7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "1DA60D43-5640-44D0-A673-28B01620DB2A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "info_warfare"
+    },
+    {
+      "@id": "9B14B7B1-BDC8-467C-A9FE-480983A968E9",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C1321136-D87E-497D-9ABF-65ED722A8C42",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "vc"
+    },
+    {
+      "@id": "CEA659FB-7718-4E72-A248-11F07AACDB53",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C1321136-D87E-497D-9ABF-65ED722A8C42",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "finance"
+    },
+    {
+      "@id": "53CDD3F9-80C0-41C8-98F5-D92B45765CBB",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C1321136-D87E-497D-9ABF-65ED722A8C42",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "fintech"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "CCA86A69-2AB0-4EF1-AC41-FF25BA22E9B3",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "115B11CA-DCB2-4D74-85F8-B3BDB9003FAF",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "CCA86A69-2AB0-4EF1-AC41-FF25BA22E9B3",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "bitcoin"
+    },
+    {
+      "@id": "21FEBD43-0DEC-4C66-9DB2-A298776F2AAE",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "CCA86A69-2AB0-4EF1-AC41-FF25BA22E9B3",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "energy_industry"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "CA97A242-46CA-4583-8FC9-037A49DF1807",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "A767E434-B10C-4A68-BC8C-58621A8B3516",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "CA97A242-46CA-4583-8FC9-037A49DF1807",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "media_production"
+    },
+    {
+      "@id": "4AAA523A-60BD-40D1-92B4-A1BCC72F15C1",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "CA97A242-46CA-4583-8FC9-037A49DF1807",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "media"
+    },
+    {
+      "@id": "94DF0B2E-02A7-43C8-9AA6-A83D51EF1D3C",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E635579B-17D0-4E2F-8DAD-5105721CD7F8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "aim"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E635579B-17D0-4E2F-8DAD-5105721CD7F8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "65D3C2C7-7069-41A0-8F30-60B789D99BF7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E635579B-17D0-4E2F-8DAD-5105721CD7F8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "iot"
+    },
+    {
+      "@id": "07D01153-1308-4721-977C-68DA135D0594",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E635579B-17D0-4E2F-8DAD-5105721CD7F8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "home_server"
+    },
+    {
+      "@id": "E234F80D-099E-46BA-8B41-48FB7582D023",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E635579B-17D0-4E2F-8DAD-5105721CD7F8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "sbc"
+    },
+    {
+      "@id": "22A3CC53-BBBF-4756-8A2B-70053B04B28E",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E635579B-17D0-4E2F-8DAD-5105721CD7F8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "servers"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E635579B-17D0-4E2F-8DAD-5105721CD7F8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6B175ABA-F65B-42D8-8F85-078072D56E53",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "FB9C0197-B73A-4554-AEBF-C12E8C27209D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6B175ABA-F65B-42D8-8F85-078072D56E53",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "analytics"
+    },
+    {
+      "@id": "E1B8B6D8-1424-4F3C-A3D8-44A0081D17EA",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "4C205687-224B-45A6-9EAE-3931737FC186",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "farming"
+    },
+    {
+      "@id": "6EDB569C-D913-4981-8A92-6C8EF7CB8FA0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "4C205687-224B-45A6-9EAE-3931737FC186",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "agriculture"
+    },
+    {
+      "@id": "0D835922-C0D5-4C81-A1A1-1898578FCB61",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "4C205687-224B-45A6-9EAE-3931737FC186",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "startups"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A7177964-4742-4554-9268-334D2CC4E382",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "8C168A98-C9A3-4CF6-9E31-C791B82F7417",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A7177964-4742-4554-9268-334D2CC4E382",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "encryption"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A7177964-4742-4554-9268-334D2CC4E382",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "1FC43E85-CFC5-493B-9803-8A90A7D5F4A0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A7177964-4742-4554-9268-334D2CC4E382",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "dark_tech"
+    },
+    {
+      "@id": "24F355B7-FB75-4821-8F23-3377F724D8B4",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A7177964-4742-4554-9268-334D2CC4E382",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "apple"
+    },
+    {
+      "@id": "CD9D611C-8DA5-4DAA-B582-E0645ABFEA36",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A7177964-4742-4554-9268-334D2CC4E382",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "dapps"
+    },
+    {
+      "@id": "78E79B17-B4D0-4D52-BD64-91A03F311B0D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A7177964-4742-4554-9268-334D2CC4E382",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "app_store"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9A5B1AD5-BF12-4D76-8F5C-DDAE426571A2",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "115B11CA-DCB2-4D74-85F8-B3BDB9003FAF",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9A5B1AD5-BF12-4D76-8F5C-DDAE426571A2",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "bitcoin"
+    },
+    {
+      "@id": "E4E4AEC6-FAAF-42F5-AE3C-7FF59114E6D5",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9A5B1AD5-BF12-4D76-8F5C-DDAE426571A2",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "etherium"
+    },
+    {
+      "@id": "6EDB569C-D913-4981-8A92-6C8EF7CB8FA0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "66839B89-6ED4-4A2C-9887-2749CC4AEE30",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "agriculture"
+    },
+    {
+      "@id": "F836881D-B83E-4BDC-BC3B-CFE135376639",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "66839B89-6ED4-4A2C-9887-2749CC4AEE30",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "cannabis"
+    },
+    {
+      "@id": "226EDA44-62B8-4C36-8F86-BF99C28B97EE",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "66839B89-6ED4-4A2C-9887-2749CC4AEE30",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "shrooms"
+    },
+    {
+      "@id": "75D32FDD-E31D-4674-9596-1DEC6EF11581",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8AE19423-A65B-4553-AFF6-A3F97785CE59",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "git_hub"
+    },
+    {
+      "@id": "34F68A96-FBFA-407B-8BD2-267C56F28E14",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8AE19423-A65B-4553-AFF6-A3F97785CE59",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "nym"
+    },
+    {
+      "@id": "8C168A98-C9A3-4CF6-9E31-C791B82F7417",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8AE19423-A65B-4553-AFF6-A3F97785CE59",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "encryption"
+    },
+    {
+      "@id": "E1E26757-2BB7-4F83-A4C8-3E55559EB0C7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8AE19423-A65B-4553-AFF6-A3F97785CE59",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "authentication"
+    },
+    {
+      "@id": "7DFA7028-D6E0-4FC0-B815-3EBD00348644",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6E3C4FEB-ECD9-4ADC-B8D5-0D132705A478",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "proto_pie"
+    },
+    {
+      "@id": "34078A95-5CAF-42FE-83C9-C13094807112",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6E3C4FEB-ECD9-4ADC-B8D5-0D132705A478",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ui_ux"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6E3C4FEB-ECD9-4ADC-B8D5-0D132705A478",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "7DFA7028-D6E0-4FC0-B815-3EBD00348644",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "7463868E-1C44-454E-9E1D-8EF3B7468602",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "proto_pie"
+    },
+    {
+      "@id": "34078A95-5CAF-42FE-83C9-C13094807112",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "7463868E-1C44-454E-9E1D-8EF3B7468602",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ui_ux"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "7463868E-1C44-454E-9E1D-8EF3B7468602",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "12E90D71-0F39-4C04-B6A2-5D67715A8D30",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "7463868E-1C44-454E-9E1D-8EF3B7468602",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "shroom_dev"
+    },
+    {
+      "@id": "E234F80D-099E-46BA-8B41-48FB7582D023",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6F930D7B-043C-4BE0-88AF-155C217626DD",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "sbc"
+    },
+    {
+      "@id": "22A3CC53-BBBF-4756-8A2B-70053B04B28E",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6F930D7B-043C-4BE0-88AF-155C217626DD",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "servers"
+    },
+    {
+      "@id": "65D3C2C7-7069-41A0-8F30-60B789D99BF7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6F930D7B-043C-4BE0-88AF-155C217626DD",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "iot"
+    },
+    {
+      "@id": "B350ED13-1019-4285-9E60-13D43F507820",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6F930D7B-043C-4BE0-88AF-155C217626DD",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "microservices"
+    },
+    {
+      "@id": "07D01153-1308-4721-977C-68DA135D0594",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6F930D7B-043C-4BE0-88AF-155C217626DD",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "home_server"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6F930D7B-043C-4BE0-88AF-155C217626DD",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9BF634D7-38E2-41FE-BF8F-699A182DBABF",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "781F7C75-48FC-4F89-A5FF-9B291C04AEBD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "9BF634D7-38E2-41FE-BF8F-699A182DBABF",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "adobe_xd"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E8F1DB88-85AD-425F-AEA2-DF5E0711004C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "8C168A98-C9A3-4CF6-9E31-C791B82F7417",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E8F1DB88-85AD-425F-AEA2-DF5E0711004C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "encryption"
+    },
+    {
+      "@id": "E1E26757-2BB7-4F83-A4C8-3E55559EB0C7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E8F1DB88-85AD-425F-AEA2-DF5E0711004C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "authentication"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E8F1DB88-85AD-425F-AEA2-DF5E0711004C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "BC6BB3D8-E8BD-4EAD-9668-05D0F3A32E9A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E8F1DB88-85AD-425F-AEA2-DF5E0711004C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "algorithms"
+    },
+    {
+      "@id": "34F68A96-FBFA-407B-8BD2-267C56F28E14",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E8F1DB88-85AD-425F-AEA2-DF5E0711004C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "nym"
+    },
+    {
+      "@id": "3EFA9464-997F-48F3-A9B3-6AD0E2D510B0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "28F624B9-A53C-43D3-A3BD-4421CEB1245B",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "deep_learning"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "28F624B9-A53C-43D3-A3BD-4421CEB1245B",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "94DF0B2E-02A7-43C8-9AA6-A83D51EF1D3C",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "28F624B9-A53C-43D3-A3BD-4421CEB1245B",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "aim"
+    },
+    {
+      "@id": "A822282F-ACD2-4804-A3FD-7EC3CDE5EF22",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "28F624B9-A53C-43D3-A3BD-4421CEB1245B",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "DSaaS"
+    },
+    {
+      "@id": "68645B53-6B79-4419-9955-C70A69A481C1",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "28F624B9-A53C-43D3-A3BD-4421CEB1245B",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "data_science"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "48F7361B-8540-468C-9573-87667EE9B7C9",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "F52B6675-9057-4D01-9E53-7D59ED8D7D63",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "48F7361B-8540-468C-9573-87667EE9B7C9",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "zug"
+    },
+    {
+      "@id": "8135AFB8-89ED-480A-BB65-6E881448B587",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "48F7361B-8540-468C-9573-87667EE9B7C9",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "switzerland"
+    },
+    {
+      "@id": "83C5D4C6-0EA0-4BF4-921B-1046A5398716",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "AD2E669A-283C-4A18-887A-02335646898D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "air_travel"
+    },
+    {
+      "@id": "B672ACE5-1BB8-40CC-857E-209B3BA3F683",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "AD2E669A-283C-4A18-887A-02335646898D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "disruption"
+    },
+    {
+      "@id": "48076797-F4CC-4B38-8AEB-4EB6708CCBFC",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F1F6FD23-DC90-4770-B2A5-C406E141E0B0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "venture_capital"
+    },
+    {
+      "@id": "CEA659FB-7718-4E72-A248-11F07AACDB53",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F1F6FD23-DC90-4770-B2A5-C406E141E0B0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "finance"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "67A59831-FDFA-4700-A0CE-82838F4CAE82",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "AD4FCAF3-BE00-4089-8239-71F3157BFA7D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8E1D6E28-E8E1-4EAE-8AE4-53A47FB90454",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "icons"
+    },
+    {
+      "@id": "73E51254-D14D-426D-A48E-080D6D2A329E",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "218B9D37-EE9C-4CCC-8083-21667972A47D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "charting"
+    },
+    {
+      "@id": "BFB69657-A228-4AA6-A3CE-779F71D567A0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "218B9D37-EE9C-4CCC-8083-21667972A47D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "language"
+    },
+    {
+      "@id": "19CFB939-44F3-4419-BC66-43FAD8C75EB3",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "218B9D37-EE9C-4CCC-8083-21667972A47D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "diagramming"
+    },
+    {
+      "@id": "0728F9D0-6CA7-4C0F-BA7F-A75B8DB5C239",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "36065796-4412-42D9-9193-5F1766B72DBA",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "seo_tech"
+    },
+    {
+      "@id": "83ABB6B8-9FE0-4591-A082-9654D830FC14",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "36065796-4412-42D9-9193-5F1766B72DBA",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "graph_db"
+    },
+    {
+      "@id": "8E6D36BB-FB90-4AB8-B3F3-5E1E74EE0890",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "36065796-4412-42D9-9193-5F1766B72DBA",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "knowledge_graph"
+    },
+    {
+      "@id": "563EB348-31ED-4D7C-8C53-1D43DDB84041",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "36065796-4412-42D9-9193-5F1766B72DBA",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "neo_4j"
+    },
+    {
+      "@id": "0728F9D0-6CA7-4C0F-BA7F-A75B8DB5C239",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "DC68A43E-1F82-44D9-AFD4-D225709E8CFC",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "seo_tech"
+    },
+    {
+      "@id": "D2074AC2-2D64-4AD3-AB13-455EC1C38E00",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "DC68A43E-1F82-44D9-AFD4-D225709E8CFC",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "marketing_tech"
+    },
+    {
+      "@id": "34078A95-5CAF-42FE-83C9-C13094807112",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "83DD7869-DE27-4F60-8A04-76C21F9299FA",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ui_ux"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "83DD7869-DE27-4F60-8A04-76C21F9299FA",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "34078A95-5CAF-42FE-83C9-C13094807112",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "D5F95F70-BC22-4C64-8233-EED84271ACF0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ui_ux"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "D5F95F70-BC22-4C64-8233-EED84271ACF0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "34078A95-5CAF-42FE-83C9-C13094807112",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A2AB723C-FBE3-460E-AF41-7AC747841C26",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ui_ux"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A2AB723C-FBE3-460E-AF41-7AC747841C26",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "34078A95-5CAF-42FE-83C9-C13094807112",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "D96F10F0-4154-40EA-A6F0-36EDDA2E7B10",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ui_ux"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "D96F10F0-4154-40EA-A6F0-36EDDA2E7B10",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "74FE0599-1469-42B8-8682-A6EA94519145",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "35B93EE5-C49D-4626-A7C1-699F870E3E83",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "02743239-4D8B-40C1-B2B6-87059E27DA8C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "cloud_storage"
+    },
+    {
+      "@id": "7AA0090B-3521-4190-AA16-3ABC05AB4577",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "02743239-4D8B-40C1-B2B6-87059E27DA8C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "asus"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8A275BC7-5564-40D9-B60E-FC81A0F1E717",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "84E0FDA0-9F76-481A-BC38-46C3A7148F03",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "DB613380-4C31-4CEC-976B-C751581F4316",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "29E5F962-7F72-4F83-9EFE-B363F2A532A1",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "FE044A22-6D21-41AF-9DAA-1FFF8CC3BF46",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "BC6BB3D8-E8BD-4EAD-9668-05D0F3A32E9A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "FE044A22-6D21-41AF-9DAA-1FFF8CC3BF46",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "algorithms"
+    },
+    {
+      "@id": "FB9C0197-B73A-4554-AEBF-C12E8C27209D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "FE044A22-6D21-41AF-9DAA-1FFF8CC3BF46",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "analytics"
+    },
+    {
+      "@id": "3EFA9464-997F-48F3-A9B3-6AD0E2D510B0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "FE044A22-6D21-41AF-9DAA-1FFF8CC3BF46",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "deep_learning"
+    },
+    {
+      "@id": "83ABB6B8-9FE0-4591-A082-9654D830FC14",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "FE044A22-6D21-41AF-9DAA-1FFF8CC3BF46",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "graph_db"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8C73A6C9-2632-4600-8CE4-77338698AA64",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "3EFA9464-997F-48F3-A9B3-6AD0E2D510B0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8C73A6C9-2632-4600-8CE4-77338698AA64",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "deep_learning"
+    },
+    {
+      "@id": "DCF772FB-49DF-4FD5-886D-58AC27BB2D27",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8C73A6C9-2632-4600-8CE4-77338698AA64",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "semantic_web"
+    },
+    {
+      "@id": "65D3C2C7-7069-41A0-8F30-60B789D99BF7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0BD4AF5E-23DB-4491-BD4E-4F69C850192E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "iot"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0BD4AF5E-23DB-4491-BD4E-4F69C850192E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "E234F80D-099E-46BA-8B41-48FB7582D023",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0BD4AF5E-23DB-4491-BD4E-4F69C850192E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "sbc"
+    },
+    {
+      "@id": "62043128-DA12-4FBD-B081-8E9694801FA3",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0BD4AF5E-23DB-4491-BD4E-4F69C850192E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "mini_pc"
+    },
+    {
+      "@id": "07D01153-1308-4721-977C-68DA135D0594",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0BD4AF5E-23DB-4491-BD4E-4F69C850192E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "home_server"
+    },
+    {
+      "@id": "0D622A8D-EE59-442E-AB08-7EBE9F4EA17F",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0BD4AF5E-23DB-4491-BD4E-4F69C850192E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "design_ideas"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "105030C9-1880-49AC-9030-2E8F05736B70",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "105030C9-1880-49AC-9030-2E8F05736B70",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "65D3C2C7-7069-41A0-8F30-60B789D99BF7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "105030C9-1880-49AC-9030-2E8F05736B70",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "iot"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "105030C9-1880-49AC-9030-2E8F05736B70",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "E234F80D-099E-46BA-8B41-48FB7582D023",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "105030C9-1880-49AC-9030-2E8F05736B70",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "sbc"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E44D4397-ADB8-4B56-A7E3-663A675E2EF9",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E44D4397-ADB8-4B56-A7E3-663A675E2EF9",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "65D3C2C7-7069-41A0-8F30-60B789D99BF7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E44D4397-ADB8-4B56-A7E3-663A675E2EF9",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "iot"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E44D4397-ADB8-4B56-A7E3-663A675E2EF9",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "E234F80D-099E-46BA-8B41-48FB7582D023",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E44D4397-ADB8-4B56-A7E3-663A675E2EF9",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "sbc"
+    },
+    {
+      "@id": "1F864871-4827-4306-A68A-BB3371FAE60F",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "E44D4397-ADB8-4B56-A7E3-663A675E2EF9",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "helium_network"
+    },
+    {
+      "@id": "244A5BCA-4F64-43FA-83DD-86EB1C2E0C91",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0647D089-7B53-451C-B8DF-BEE5BE8D8A65",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "payments"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "76554932-9BC1-4E83-9227-96DEAF344F5A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "17690937-9709-48CD-A8ED-30A9DFB8965A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "8C168A98-C9A3-4CF6-9E31-C791B82F7417",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "17690937-9709-48CD-A8ED-30A9DFB8965A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "encryption"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "17690937-9709-48CD-A8ED-30A9DFB8965A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "5D8A5FDF-D9FD-4824-A062-98B2F69555E9",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "18A50837-734A-4362-8F11-2F354AFDC467",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "5D8A5FDF-D9FD-4824-A062-98B2F69555E9",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "android"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "51765686-1B25-41D6-B932-7205D0CECA74",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "2EC2347E-EF8A-41F1-8A09-E75F4D2B3D0A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "2EC2347E-EF8A-41F1-8A09-E75F4D2B3D0A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "2EC2347E-EF8A-41F1-8A09-E75F4D2B3D0A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "987BB1ED-504D-434F-8D2B-E262CC4AC4B0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "2EC2347E-EF8A-41F1-8A09-E75F4D2B3D0A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "database"
+    },
+    {
+      "@id": "8C168A98-C9A3-4CF6-9E31-C791B82F7417",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "2EC2347E-EF8A-41F1-8A09-E75F4D2B3D0A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "encryption"
+    },
+    {
+      "@id": "BC6BB3D8-E8BD-4EAD-9668-05D0F3A32E9A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "2EC2347E-EF8A-41F1-8A09-E75F4D2B3D0A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "algorithms"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "61D7503F-4655-48A9-97AC-37696D7A09C0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "61D7503F-4655-48A9-97AC-37696D7A09C0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "1FC43E85-CFC5-493B-9803-8A90A7D5F4A0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "61D7503F-4655-48A9-97AC-37696D7A09C0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "dark_tech"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "61D7503F-4655-48A9-97AC-37696D7A09C0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "D2B02E65-FE4E-4321-8094-F072F975D31C",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "61D7503F-4655-48A9-97AC-37696D7A09C0",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "economics"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "7F4BF8E7-B82C-4DB5-862A-C52F00F58BE4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "7F4BF8E7-B82C-4DB5-862A-C52F00F58BE4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "8C168A98-C9A3-4CF6-9E31-C791B82F7417",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "7F4BF8E7-B82C-4DB5-862A-C52F00F58BE4",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "encryption"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "EF18CEE8-F1C8-4FAB-877B-83E3FAB9160F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "EF18CEE8-F1C8-4FAB-877B-83E3FAB9160F",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "898CA09B-F590-424E-8021-CD68EF899D3E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "898CA09B-F590-424E-8021-CD68EF899D3E",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "AF2766C4-1862-41D3-8BE4-70EE1C4D6B9F",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "21F4C1DC-7D56-4A69-AF8A-7FCDAA9738B8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "social_impact"
+    },
+    {
+      "@id": "C2021EDF-F653-454E-BAD4-1438AADF816C",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "21F4C1DC-7D56-4A69-AF8A-7FCDAA9738B8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "vegan"
+    },
+    {
+      "@id": "C0610DB1-3C07-4AB3-8CEA-A7B2DD3CBD73",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "21F4C1DC-7D56-4A69-AF8A-7FCDAA9738B8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "nutrition"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "2F4965FC-AC01-4F2E-B2D7-ECD276E5ECD6",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "2F4965FC-AC01-4F2E-B2D7-ECD276E5ECD6",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "defi"
+    },
+    {
+      "@id": "115B11CA-DCB2-4D74-85F8-B3BDB9003FAF",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "2F4965FC-AC01-4F2E-B2D7-ECD276E5ECD6",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "bitcoin"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "ABA56A3C-2E7B-456F-9B8A-B6D804EA0AA3",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "D5853090-A02B-4DD4-9DBD-8CEAD9C7E69D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "ABA56A3C-2E7B-456F-9B8A-B6D804EA0AA3",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "web_apps"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0EA613FC-4B1B-4AEC-B8B1-466F0EEC97D8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "D5853090-A02B-4DD4-9DBD-8CEAD9C7E69D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "0EA613FC-4B1B-4AEC-B8B1-466F0EEC97D8",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "web_apps"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6CC99B73-6906-4863-A93A-95AE0B30BBCE",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "EDA259CF-BEA5-4DA9-8FE0-61B578E7E19A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "D5853090-A02B-4DD4-9DBD-8CEAD9C7E69D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "EDA259CF-BEA5-4DA9-8FE0-61B578E7E19A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "web_apps"
+    },
+    {
+      "@id": "DC6260CB-8E39-4892-8A40-B956537D45BA",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "EDA259CF-BEA5-4DA9-8FE0-61B578E7E19A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "no_low_code"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "31E71EF2-8C55-4D21-A5F6-E55875409395",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "D5853090-A02B-4DD4-9DBD-8CEAD9C7E69D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "31E71EF2-8C55-4D21-A5F6-E55875409395",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "web_apps"
+    },
+    {
+      "@id": "DC6260CB-8E39-4892-8A40-B956537D45BA",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "31E71EF2-8C55-4D21-A5F6-E55875409395",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "no_low_code"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "FA60C1C8-D3BC-4C78-8927-7E51ACFB5A1D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "D5853090-A02B-4DD4-9DBD-8CEAD9C7E69D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "FA60C1C8-D3BC-4C78-8927-7E51ACFB5A1D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "web_apps"
+    },
+    {
+      "@id": "DC6260CB-8E39-4892-8A40-B956537D45BA",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "FA60C1C8-D3BC-4C78-8927-7E51ACFB5A1D",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "no_low_code"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A8E80E3C-0A3B-4CBB-8181-4E8E05BEA887",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "3EFA9464-997F-48F3-A9B3-6AD0E2D510B0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A8E80E3C-0A3B-4CBB-8181-4E8E05BEA887",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "deep_learning"
+    },
+    {
+      "@id": "94DF0B2E-02A7-43C8-9AA6-A83D51EF1D3C",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A8E80E3C-0A3B-4CBB-8181-4E8E05BEA887",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "aim"
+    },
+    {
+      "@id": "8E6D36BB-FB90-4AB8-B3F3-5E1E74EE0890",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "A8E80E3C-0A3B-4CBB-8181-4E8E05BEA887",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "knowledge_graph"
+    },
+    {
+      "@id": "E234F80D-099E-46BA-8B41-48FB7582D023",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "1EDBA09A-2630-4E05-AE68-D831C2D3AC14",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "sbc"
+    },
+    {
+      "@id": "65D3C2C7-7069-41A0-8F30-60B789D99BF7",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "1EDBA09A-2630-4E05-AE68-D831C2D3AC14",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "iot"
+    },
+    {
+      "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "1EDBA09A-2630-4E05-AE68-D831C2D3AC14",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "decentralize"
+    },
+    {
+      "@id": "07D01153-1308-4721-977C-68DA135D0594",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "1EDBA09A-2630-4E05-AE68-D831C2D3AC14",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "home_server"
+    },
+    {
+      "@id": "899D9607-4243-469A-B019-D40D97F6EA27",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "1EDBA09A-2630-4E05-AE68-D831C2D3AC14",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "3d printing"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "123D5E40-7F36-422C-8101-B7DF2F66CF66",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "CA9FE436-D080-4595-A851-718EF1626CA0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "F33E591A-B7E8-4F03-9B15-52362530AC54",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "video_confer"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "FDA4D052-D2A6-439E-8E06-464031E4A7E7",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "34078A95-5CAF-42FE-83C9-C13094807112",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "FDA4D052-D2A6-439E-8E06-464031E4A7E7",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ui_ux"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6E8053B1-E18B-45C0-A162-50E30E8152C3",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "34078A95-5CAF-42FE-83C9-C13094807112",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6E8053B1-E18B-45C0-A162-50E30E8152C3",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ui_ux"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8780E4C5-7CA5-46F8-A633-F52171E9C209",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "34078A95-5CAF-42FE-83C9-C13094807112",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "8780E4C5-7CA5-46F8-A633-F52171E9C209",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "ui_ux"
+    },
+    {
+      "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6F55E5B8-E83E-40DB-AD39-D975C1DF2C4C",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "flutter"
+    },
+    {
+      "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "620017EC-66AE-4452-99FD-C794956FEB95",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "crypto"
+    },
+    {
+      "@id": "115B11CA-DCB2-4D74-85F8-B3BDB9003FAF",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "620017EC-66AE-4452-99FD-C794956FEB95",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "bitcoin"
+    },
+    {
+      "@id": "3EFA9464-997F-48F3-A9B3-6AD0E2D510B0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "71E378FE-0627-466B-8049-8C70D0A197CA",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "deep_learning"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6D2ADA0C-0367-446E-B051-A07F675D2F5A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "987BB1ED-504D-434F-8D2B-E262CC4AC4B0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "6D2ADA0C-0367-446E-B051-A07F675D2F5A",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "database"
+    },
+    {
+      "@id": "3EFA9464-997F-48F3-A9B3-6AD0E2D510B0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointId": "C380179D-87C8-41B0-85C0-5704EC039918",
+      "personId": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+      "knowledgePointTag": "deep_learning"
+    }
+  ]
