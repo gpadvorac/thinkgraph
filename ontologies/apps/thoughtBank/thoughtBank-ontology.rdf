@@ -162,7 +162,7 @@
             <sh:PropertyShape>
                 <sh:path rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#publishedDate"/>
                 <sh:maxCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</sh:maxCount>
-                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+                <sh:datatype rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
             </sh:PropertyShape>
         </sh:property>
 
@@ -382,7 +382,7 @@
     </rdf:Property>
 
     <!-- Definition of the remark property -->
-    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointRemark">
+    <rdf:Property rdf:about="http://thinkgraph.org/ontologies/apps/thoughtgraph#knowledgePointRemark">
         <rdfs:label>Remark Text</rdfs:label>
         <rdfs:comment>The textual content of the remark.</rdfs:comment>
         <rdfs:domain rdf:resource="http://thinkgraph.org/ontologies/apps/thoughtgraph#KnowledgePointRemark"/>
