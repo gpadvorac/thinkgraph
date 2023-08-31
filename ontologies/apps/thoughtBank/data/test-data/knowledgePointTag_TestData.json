@@ -1,0 +1,52 @@
+[
+    {
+      "@id": "899D9607-4243-469A-B019-D40D97F6EA27",
+      "@type": "KnowledgePointTag",
+      "knowledgePointTag": "3d printing"
+    },
+    {
+      "@id": "781F7C75-48FC-4F89-A5FF-9B291C04AEBD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointTag": "adobe_xd"
+    },
+    {
+      "@id": "6EDB569C-D913-4981-8A92-6C8EF7CB8FA0",
+      "@type": "KnowledgePointTag",
+      "knowledgePointTag": "agriculture"
+    },
+    {
+      "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointTag": "ai"
+    },
+    {
+      "@id": "94DF0B2E-02A7-43C8-9AA6-A83D51EF1D3C",
+      "@type": "KnowledgePointTag",
+      "knowledgePointTag": "aim"
+    },
+    {
+      "@id": "83C5D4C6-0EA0-4BF4-921B-1046A5398716",
+      "@type": "KnowledgePointTag",
+      "knowledgePointTag": "air_travel"
+    },
+    {
+      "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+      "@type": "KnowledgePointTag",
+      "knowledgePointTag": "airtable"
+    },
+    {
+      "@id": "BC6BB3D8-E8BD-4EAD-9668-05D0F3A32E9A",
+      "@type": "KnowledgePointTag",
+      "knowledgePointTag": "algorithms"
+    },
+    {
+      "@id": "FB9C0197-B73A-4554-AEBF-C12E8C27209D",
+      "@type": "KnowledgePointTag",
+      "knowledgePointTag": "analytics"
+    },
+    {
+      "@id": "18A50837-734A-4362-8F11-2F354AFDC467",
+      "@type": "KnowledgePointTag",
+      "knowledgePointTag": "android"
+    }
+  ]
