@@ -9,9 +9,9 @@
     "publishedDate": "2023-07-01",
     "rating": 3,
     "timeStamp": "2023-08-26T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
-        "@id": "346AAF62-C882-49C7-81FC-01936BB71313"
+        "@id": "_:346AAF62-C882-49C7-81FC-01936BB71313"
       },
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
@@ -33,7 +33,7 @@
     "publishedDate": "2023-04-02",
     "rating": 4,
     "timeStamp": "2023-08-26T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -56,7 +56,7 @@
     "sourceName": "n-o-d-e.net",
     "rating": 2,
     "timeStamp": "2020-10-01T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180"
       },
@@ -80,7 +80,7 @@
     "description": "VC and corporate investment into climate tech grew at a faster rate than overall VC investment as a whole between 2013-2019, according to a major new report — to the tune of $60 billion of early-stage capital.",
     "knowledgePointURL": "https://techcrunch.com/2020/09/23/new-report-finds-vc-investment-into-climatetech-growing-five-times-faster-than-overall-vc/amp/",
     "timeStamp": "2020-09-27T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CEA659FB-7718-4E72-A248-11F07AACDB53"
       },
@@ -96,7 +96,7 @@
     "description": "The first Libra white paper published in June 2019 had the temerity to threaten the monetary authority of central banks and governments. The empire struck back.",
     "knowledgePointURL": "https://www.coindesk.com/libra-is-ready-for-the-digital-money-space-race-dante-disparte",
     "timeStamp": "2020-09-27T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       }
@@ -109,7 +109,7 @@
     "description": "For several years now, one of the key promises of blockchain technology and smart contracts has been to bring radical innovation to finance, an industry famous for resisting (so far) the wave of digitalization and automation that has swept most other sectors.",
     "knowledgePointURL": "https://www.youtube.com/watch?v=QENPjMXiQjI",
     "timeStamp": "2020-09-27T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CEA659FB-7718-4E72-A248-11F07AACDB53"
       },
@@ -134,7 +134,7 @@
     "description": "Uniswap is a protocol on Ethereum for swapping ERC20 tokens without the need for buyers and sellers to create demand. It does this via an equation that automatically sets and balances the value depending on how much demand there is.",
     "knowledgePointURL": "https://decrypt.co/resources/what-is-uniswap",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -153,7 +153,7 @@
     "description": "Whether we realize it or not, the software systems that we use in our day to day are an amalgamation of varying services. They are distributed across many computers often in different geographical locations. Most of the distributed systems rely on a design that centralizes ownership and/or authority to an organization. Lately, there has been a rise in technology, such as cryptocurrencies and the blockchain, that implements distributed systems in a decentralized manner; participation is open to those who abide by the agreed upon and implemented protocols.",
     "knowledgePointURL": "https://www.developintelligence.com/blog/2017/07/intro-decentralized-databases-gun-js/",
     "timeStamp": "2020-09-25T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180"
       },
@@ -172,7 +172,7 @@
     "description": "Non-fungible tokens, or NFTs, contain identifying information recorded in their smart contracts. It’s this information that makes each different and as such, they cannot be directly replaced by another token.",
     "knowledgePointURL": "https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain",
     "timeStamp": "2020-09-25T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -191,7 +191,7 @@
     "description": "NFTs are unique tokens that are not interchangeable as a result of their distinctive characteristics. As \"one-offs,\" the idea of investing in NFTs is gaining ground.",
     "knowledgePointURL": "https://www.newsbtc.com/2020/09/22/non-fungible-tokens-nfts-are-the-next-big-thing-after-defi/",
     "timeStamp": "2020-09-25T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -210,7 +210,7 @@
     "description": "DeFi is short for \"decentralized finance,\" an umbrella term for a variety of financial applications in cryptocurrency or blockchain geared toward disrupting financial intermediaries.",
     "knowledgePointURL": "https://www.coindesk.com/what-is-defi",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -232,7 +232,7 @@
     "description": "When using NoSQL databases we have to remember about schema management and data validation issues. Without it the data can \"explode\". Interesting fact: Some companies replace MongoDB with PostgreSQL.",
     "knowledgePointURL": "https://itnext.io/5-pitfalls-of-nosql-databases-c35012431a80",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "987BB1ED-504D-434F-8D2B-E262CC4AC4B0"
       }
@@ -250,7 +250,7 @@
     "description": "Z Cam has two models, the E2-F6 6K and E2-F8 8K. The design is very similar but a little bigger than the Z Cam E2 micro four-thirds sensor camera. While it is bigger, it’s not large by any means.",
     "knowledgePointURL": "https://www.newsshooter.com/2020/09/22/z-cam-e2-f6-full-frame-6k-cinema-camera-review/",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "DBD25B87-F4A7-42A7-B112-3243A75235AD"
       },
@@ -266,7 +266,7 @@
     "description": "MetaMask is a browser extension designed to make accessing Ethereum's Dapp ecosystem easier. It also serves as a wallet for holding ERC-20 tokens allowing users to access services built on the network via the wallet.",
     "knowledgePointURL": "https://decrypt.co/resources/metamask",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -288,7 +288,7 @@
     "description": "dYdX is a decentralized borrowing and lending platform based on Ethereum. It offers borrowing, lending and betting tools for crypto users.",
     "knowledgePointURL": "https://decrypt.co/resources/dydx-ethereum-margin-trading-platform-explained-learn",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -312,7 +312,7 @@
     "description": "Last month, Musk revealed that Tesla’s Dojo supercomputer will be capable of an exaFLOP, one quintillion (1018) floating-point operations per second, or 1,000 petaFLOPS.  This would make Dojo a truly cutting-edge supercomputer considering there’s currently a race to break the exaFLOP barrier in supercomputing with companies like Intel and AMD, along with governments, in the running.",
     "knowledgePointURL": "https://electrek.co/2020/09/21/tesla-offer-machine-learning-training-as-web-service-dojo-supercomputer/amp/",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D"
       },
@@ -331,7 +331,7 @@
     "description": "Although the nascent crypto hedge fund industry still has lots of developing to do, it will undoubtedly be the future of finance.",
     "knowledgePointURL": "https://cointelegraph.com/news/the-emergence-of-cryptocurrency-hedge-funds",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CEA659FB-7718-4E72-A248-11F07AACDB53"
       },
@@ -347,7 +347,7 @@
     "description": "One such trader, who asked to go only by Joe, is a math student at a Canadian university. Just by playing with Ethereum software and his own calculations, he managed to make hundreds of thousands of dollars in 2020. This wasn’t his first rodeo, however; he’s been trading on decentralized exchanges (DEXs) for more than a year.",
     "knowledgePointURL": "https://www.coindesk.com/normies-crypto-rich-defi?amp=1",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -366,7 +366,7 @@
     "description": "Decentralized finance (DeFi) started out by imitating the regular financial world, but the way its pieces can be mixed and matched has become so easy that new entrants are starting to get strange. Yearn Finance (YFI), YAM, Spaghetti, Based, whatever today's variant is – the \\\\\"Weird DeFi\\\\\" cohort keeps growing.",
     "knowledgePointURL": "https://www.coindesk.com/yearn-yam-cryptos-weird-defi-moment",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       }
@@ -379,7 +379,7 @@
     "description": "Since its genesis in 2009, Bitcoin has produced around 436 altcoin offspring and counting—here’s what’s become of some of them. By Will Heasman",
     "knowledgePointURL": "https://decrypt.co/42736/more-than-430-altcoins-are-now-derived-from-bitcoin",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -395,7 +395,7 @@
     "description": "Native Windows app compilation, some early plugins, and a desktop-ready Flutter Gallery app",
     "knowledgePointURL": "https://medium.com/flutter/announcing-flutter-windows-alpha-33982cd0f433",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD"
       }
@@ -413,7 +413,7 @@
     "description": "In idle fantasy role-playing game LiteBringer, every players’ move is a transaction—and that benefits the whole blockchain.",
     "knowledgePointURL": "https://decrypt.co/42562/litecoin-transactions-skyrocket-as-litebringer-game-takes-off?amp=1",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -434,7 +434,7 @@
     "description": "Nash is safer, faster and easier to use than centralized cryptocurrency exchanges. - Buy Bitcoin and other assets - Trade crypto without giving up control of your funds - Hold and pay – our multi-chain wallet is as secure as hardware - Fully legally compliant",
     "knowledgePointURL": "https://www.producthunt.com/posts/nash",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -455,7 +455,7 @@
     "name": "Benro Snoppa VMate: gimbal smartphone add-on that takes on the DJI Osmo Pocket",
     "knowledgePointURL": "https://www.digitalcameraworld.com/amp/news/benro-snoppa-vmate-gimbal-smartphone-add-on-that-takes-on-the-dji-osmo-pocket",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "DBD25B87-F4A7-42A7-B112-3243A75235AD"
       },
@@ -476,7 +476,7 @@
     "description": "The year is 2030, and you need to buy some new sunglasses. You browse through your options online. You use augmented reality to try on a few pairs, you find one you like, and now it’s time to pay. ",
     "knowledgePointURL": "https://www.coindesk.com/currency-cold-war-four-scenarios?amp=1",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -492,7 +492,7 @@
     "description": "Majority of Yield Farmers Can't Read Risky Contracts",
     "knowledgePointURL": "https://cointelegraph.com/news/yield-farmers-make-500-returns-but-most-can-t-read-smart-contracts/amp",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -508,7 +508,7 @@
     "description": "Founder Count, Company Count, Capital Raised",
     "knowledgePointURL": "https://pitchbook.com/news/articles/pitchbook-universities-2020",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "9B14B7B1-BDC8-467C-A9FE-480983A968E9"
       }
@@ -521,7 +521,7 @@
     "description": "No-code platforms have evolved far beyond making websites without coding – this is a whole new way of building enterprise software that changes who can build software, how it’s built, what you can build, and overall speed in making your company more self-driving.",
     "knowledgePointURL": "https://onereach.ai/no-code-will-define-the-next-generation-of-software-techcrunch/",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -540,7 +540,7 @@
     "description": "While open sourcing a project comes with a lot of benefits, it also comes with certain cons where it will enable anyone to leverage it to enhance business profits, and thus can also be leveraged by the competitors. And, this is what happened with Google’s Kubernetes.",
     "knowledgePointURL": "https://analyticsindiamag.com/did-google-open-sourcing-kubernetes-backfired/",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "74BF4B30-FF65-478D-A338-36685FCDC05B"
       },
@@ -564,7 +564,7 @@
     "description": "VIDYA is the opening move in Team3D’s broader campaign to create a thriving new blockchain gaming ecosystem. The goal is to use VIDYA to accomplish several vital tasks to further that effort. First, it will serve as a cross-game currency and inventory system that will enable developers to build multiple linked games that feature item sharing and other cross-connected gameplay mechanics. It will also serve as a bolt-on escrow system that developers can use to create wager-based game lobbies for their player-versus-player and multiplayer games.",
     "knowledgePointURL": "https://news.bitcoin.com/vidyas-public-sale-marks-the-dawn-of-a-new-blockchain-gaming-era/",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -580,7 +580,7 @@
     "description": "While Checkout.com has kept a low profile for many years, the company raised $380 million within a year and reached an impressive valuation of $5.5 billion. It wants to build a one-stop shop for all things related to payments, such as accepting transactions, processing them and detecting fraud.",
     "knowledgePointURL": "https://techcrunch.com/2020/09/18/what-makes-checkout-com-different-from-stripe/amp/?guccounter=1",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "244A5BCA-4F64-43FA-83DD-86EB1C2E0C91"
       }
@@ -593,7 +593,7 @@
     "description": "Gaming Token Platform",
     "knowledgePointURL": "https://team3d.io/",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -612,7 +612,7 @@
     "description": "The best place to build, test, and discover front-end code. CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.",
     "knowledgePointURL": "https://codepen.io/",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "72051980-5D19-4590-A001-314645A49294"
       },
@@ -628,7 +628,7 @@
     "description": "Online editing support for Chocolate Factory's open-source dev framework",
     "knowledgePointURL": "https://www.theregister.com/2020/04/17/flutter_social_development_support/",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD"
       }
@@ -641,7 +641,7 @@
     "description": "The cloud-based enterprise data platform may mark the end of a decades-long run in the dominance of open source infrastructure",
     "knowledgePointURL": "https://www.infoworld.com/article/3575855/does-snowflake-mean-the-end-of-open-source.amp.html",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "22A3CC53-BBBF-4756-8A2B-70053B04B28E"
       }
@@ -654,7 +654,7 @@
     "description": "Kraken became the first crypto exchange to win a U.S. banking license this week. Here’s why that matters. ",
     "knowledgePointURL": "https://www.coindesk.com/kraken-first-us-crypto-bank?amp=1",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -673,7 +673,7 @@
     "description": "How should people make decisions when the outcomes of their choices are uncertain, and the uncertainty is described by probability theory?",
     "knowledgePointURL": "https://techxplore.com/news/2020-09-artificial-intelligence-expert-theory-decision-making.amp",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D"
       },
@@ -692,7 +692,7 @@
     "description": "Agile Market Research, Real Time Results",
     "knowledgePointURL": "https://upsiide.com/",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "39BFC7A0-6F76-4B64-B0A9-0035E2D41A68"
       },
@@ -711,7 +711,7 @@
     "description": "Dash is transitioning to a decentralized cloud cryptocurrency by releasing a platform that supports blockchain-verified user data storage and a decentralizeed API",
     "knowledgePointURL": "https://cointelegraph.com/news/dash-is-evolving-into-a-decentralized-cloud-cryptocurrency",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -726,7 +726,7 @@
     "name": "Christie’s to sell its first non-fungible-token as part of epic Bitcoin artwork",
     "knowledgePointURL": "https://cointelegraph.com/news/christies-to-sell-its-first-non-fungible-token-as-part-of-epic-bitcoin-artwork/amp",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -742,7 +742,7 @@
     "description": "The limitations of human memory significantly hinders the potential of human intelligence. At Luther, we build your own artificial intelligence to Retain, Reinforce, Recall – augmenting your human memory.",
     "knowledgePointURL": "https://www.luther.ai/",
     "timeStamp": "2020-09-16T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D"
       },
@@ -758,7 +758,7 @@
     "description": "5 Stars - This product resets the expectations of an affordable system",
     "knowledgePointURL": "https://www.techradar.com/reviews/tbao-mn25-amd-ryzen-mini-workstation-pc",
     "timeStamp": "2020-09-23T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "07D01153-1308-4721-977C-68DA135D0594"
       },
@@ -773,7 +773,7 @@
     "name": "Google launches a work-tracking tool and Airtable rival",
     "knowledgePointURL": "https://techcrunch.com/2020/09/22/google-launches-a-work-tracking-tool-and-airtable-rival-tables/amp/",
     "timeStamp": "2020-09-22T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "74BF4B30-FF65-478D-A338-36685FCDC05B"
       },
@@ -789,7 +789,7 @@
     "description": "Airtable Universe",
     "knowledgePointURL": "https://airtable.com/universe/expShuhNMi0Oc0xpb/polaris-ux-nuggets?explore=true",
     "timeStamp": "2020-09-20T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -805,7 +805,7 @@
     "description": "We choose Oasis Labs and the privacy-first Oasis Network— creating a future where every individual is the owner of his or her memories and is an equal participant of the world’s decentralized knowledge economy.",
     "knowledgePointURL": "https://medium.com/oasis-protocol-project/luther-ai-oasis-labs-decentralizing-private-human-memory-f54e839abaf4",
     "timeStamp": "2020-09-16T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D"
       },
@@ -827,7 +827,7 @@
     "description": "Google Open Source Visualizations",
     "knowledgePointURL": "https://datastudio.google.com/gallery",
     "timeStamp": "2020-09-19T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "42D6E723-B517-4C7B-94DC-5A66B5B73C0F"
       },
@@ -849,7 +849,7 @@
     "description": "Online users who would like to enhance their privacy on the network-level can choose among various techniques, including centralized VPNs, decentralized VPNs, Tor or I2P. In this blogpost, I will discuss what level of privacy those solutions give you in comparison to Nym.",
     "knowledgePointURL": "https://medium.com/nymtech/vpns-tor-i2p-how-does-nym-compare-8576824617b8",
     "timeStamp": "2020-09-19T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "C040F26C-52FA-4709-8983-2981E534AC47"
       },
@@ -871,7 +871,7 @@
     "description": "The future of advertising doesn’t have to suck. And that’s more than a little bit surprising.  In the future, you only see ads for things you care about. You’re paid for your attention, and that payment has real value. In the future, advertisers negotiate directly with publishers, not through five or six layers of separation, all taking a nickel or dime from each ad dollar. Negotiation is automated, or it can be if desired.  That future is now.",
     "knowledgePointURL": "https://www.forbes.com/sites/johnkoetsier/2020/07/25/ads--privacy--blockchain--crypto--the-future-is-now/#71de8f264935",
     "timeStamp": "2020-09-18T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       }
@@ -884,7 +884,7 @@
     "description": "Coins that encrypt their transactions using zero-knowledge proofs or similar private technology.",
     "knowledgePointURL": "https://cryptoslate.com/cryptos/privacy/",
     "timeStamp": "2020-09-18T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       }
@@ -897,7 +897,7 @@
     "description": "I work for Nym, an internet privacy company. One of our technologies, a mixnet, can defend users against even very strong adversaries, like governments or large companies. Here’s how it works, described in a non-technical way.",
     "knowledgePointURL": "https://medium.com/nymtech/a-simple-introduction-to-mixnets-6783a103d20e",
     "timeStamp": "2020-09-19T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "C040F26C-52FA-4709-8983-2981E534AC47"
       },
@@ -919,7 +919,7 @@
     "description": "Many privacy geeks have long regarded mixnets as one of the ultimate technologies for user privacy online. Up until now, they were the unicorns of the computer security world: you might have heard about them, but you’d never actually see one in action.",
     "knowledgePointURL": "https://medium.com/nymtech/sphinx-webassembly-for-coronavirus-tracking-app-privacy-cf08e4e65f53",
     "timeStamp": "2020-09-19T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "C040F26C-52FA-4709-8983-2981E534AC47"
       },
@@ -938,7 +938,7 @@
     "description": "Gallery",
     "knowledgePointURL": "https://rawgraphs.io/gallery/",
     "timeStamp": "2020-09-17T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "1F2F444F-3DC3-4C23-AA0F-271CAB5B16CA"
       },
@@ -960,7 +960,7 @@
     "description": "Breakthrough Technology for the Brain",
     "knowledgePointURL": "https://neuralink.com/",
     "timeStamp": "2020-09-16T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D"
       },
@@ -982,7 +982,7 @@
     "description": "The Game of Life is a grid-based automaton that is very popular in discussions about science, computation, and artificial intelligence. It is an interesting idea that shows how very simple rules can yield very complicated results.  Despite its simplicity, however, the Game of Life remains a challenge to artificial neural networks, AI researchers at Swarthmore College and the Los Alamos National Laboratory have shown in a recent paper. Titled, \"It’s Hard for Neural Networks To Learn the Game of Life,\" their research investigates how neural networks explore the Game of Life and why they often miss finding the right solution.  Their findings highlight some of the key issues with deep learning models and give some interesting hints at what could be the next direction of research for the AI community.",
     "knowledgePointURL": "https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/amp/",
     "timeStamp": "2020-09-16T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "BC6BB3D8-E8BD-4EAD-9668-05D0F3A32E9A"
       },
@@ -1001,7 +1001,7 @@
     "description": "Watching the trials and tribulations of bitcoin and the reception given to Libra, the Facebook-led consortium, it seems clear that cryptocurrencies are unlikely to be widely used unless they become much more than a mere substitute for money.",
     "knowledgePointURL": "https://techcrunch.com/2020/09/16/the-cryptocurrency-moment/amp/",
     "timeStamp": "2020-09-16T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1023,7 +1023,7 @@
     "description": "Oasis Protocol Foundation",
     "knowledgePointURL": "https://medium.com/oasis-protocol-project/luther-ai-oasis-labs-decentralizing-private-human-memory-f54e839abaf4",
     "timeStamp": "2020-09-16T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D"
       },
@@ -1039,7 +1039,7 @@
     "description": "Enter Luther.AI, which purports to be Google for your memory by capturing and transcribing audio recordings, while using AI to deliver the right information from your virtual memory bank in the moment of another online conversation or via search.",
     "knowledgePointURL": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/amp/",
     "timeStamp": "2020-09-16T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D"
       },
@@ -1055,7 +1055,7 @@
     "description": "On Wednesday, the Wyoming Banking Board voted to approve the San Francisco-based crypto exchange’s application for a special purpose depository institution (SPDI) charter. Kraken is now the first SPDI bank in Wyoming. According to the Wyoming Division of Banking’s general counsel, Chris Land, Kraken will also be the first newly chartered (de novo) bank in the state since 2006. ",
     "knowledgePointURL": "https://www.coindesk.com/kraken-crypto-exchange-secures-bank-charter-under-wyoming-law?amp=1",
     "timeStamp": "2020-09-16T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1077,7 +1077,7 @@
     "description": "DeFi is an abbreviation of the phrase decentralized finance which generally refers to the digital assets and financial smart contracts, protocols, and decentralized applications (DApps) built on Ethereum. In simpler terms, it’s financial software built on the blockchain that can be pieced together like Money Legos.",
     "knowledgePointURL": "https://defipulse.com/blog/what-is-defi/",
     "timeStamp": "2020-09-16T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1096,7 +1096,7 @@
     "description": "Use these powerful formulas to take control of your data and open up new possibilities in your workflows.",
     "knowledgePointURL": "https://blog.airtable.com/time-saving-substitution-formulas/",
     "timeStamp": "2020-09-16T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       }
@@ -1109,7 +1109,7 @@
     "description": "Community Roundup",
     "knowledgePointURL": "https://builtonair.com/",
     "timeStamp": "2020-09-16T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       }
@@ -1122,7 +1122,7 @@
     "description": "Gamification is, in fact, a great community tactic to increase brand loyalty, foster community participation and increase user engagement. As such, it’s important to know what gamification is and how to use it so that your community can have the best of what it has to offer—and it offers a lot! The goal of this ebook is twofold. First, we aim to provide you with a comprehensive understanding of what gamification is and how it works. This includes a discussion about gamification elements, the benefits that they have on community participation and the psychological factors that make it so successful",
     "knowledgePointURL": "https://cdn2.hubspot.net/hubfs/95135/Vanilla%20Forums%20-%20A%20Strategic%20Guide%20to%20Community%20Gamification.pdf?utm_campaign=Gamification_Ebook%20_Q3%202019&utm_medium=email&_hsenc=p2ANqtz-_bi96NHgH-6wy1G_NDHLCLxGY8RT5G62cYHkfxE0kjnHwj5dz8-tc83wGGB3TUmKWBL_yjvBqZFbyMY92vfKvOpyDJhw&_hsmi=75203640&utm_content=75203640&utm_source=hs_automation&hsCtaTracking=2b48523a-5859-4e69-a76c-93dabee4cd06%7Cec8cce77-0c04-4fc1-82ae-141599f0adc6",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "39BFC7A0-6F76-4B64-B0A9-0035E2D41A68"
       },
@@ -1147,7 +1147,7 @@
     "description": "Engage your audience with conversational forms & surveys — and get more data.",
     "knowledgePointURL": "https://www.typeform.com/product/",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "39BFC7A0-6F76-4B64-B0A9-0035E2D41A68"
       },
@@ -1166,7 +1166,7 @@
     "description": "There currently exists no functioning protocol that can provide strong guarantees against the leakage and harvesting of metadata – for instance, data regarding the timing of communication, and the graph of who is communicating. Nym is an open-source, decentralized, permissionless and incentivized system that provides full-stack privacy, allowing developers to build applications that provide users with strong guarantees against metadata surveillance, at both the level of network traffic, and the level of authentication and payments.",
     "knowledgePointURL": "https://nymtech.net/#protocol",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1188,7 +1188,7 @@
     "description": "On Sept. 8, BTCPay Server founder Nicolas Dorier and Suredbits founder Chris Stewart entered the bet on the 2020 U.S. presidential election outcome using a discrete log contract (DSL), a form of smart contract that became feasible on Bitcoin just this year, thanks to independent Bitcoin developer Lloyd Fournier’s technical advancements in the realm of so-called \"scriptless-scripts\" on Bitcoin’s blockchain.  As for who took which side of the bet, Dorier and Stewart didn’t say. Even after Election Day when the votes are tallied we still won’t know who won the bet. And that’s very much the point.",
     "knowledgePointURL": "https://www.coindesk.com/dlc-private-smart-contracts-bitcoin",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1213,7 +1213,7 @@
     "description": "The survey function in Airtable is a great way to gauge satisfaction, garner feedback, and collect important contact information from a variety of users—then share the data with others as needed.  Our team recently used Airtable to create a survey to better understand the friction in design-to-developer handoffs now that we’re working in a completely remote environment. It’s easy to set up, and the form allows you to drag and drop fields—customizing for single-line text, multiple choice, rating, and much more.  We’ve also been using the survey feature to gather feedback on our webinars. We can send the public-facing survey to attendees—who receive a simple form to fill out—and our team can view the submitted feedback form from all webinars in the entire series over time… in one, giant view.",
     "knowledgePointURL": "https://www.thinkcompany.com/blog/5-airtable-tips-for-ux-design-teams/",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       }
@@ -1226,7 +1226,7 @@
     "description": "Filecoin might be the most complex thing the blockchain industry has ever brought to market.  The Web 3.0 data-storage project, funded by a $257 million initial coin offering that closed in September 2017, has been building out its technology ever since.   While Filecoin has been quieter than most over that time, Filecoin is currently wrapping up a very active incentivized testnet called Space Race. There are 1.5 million FIL tokens allocated to testnet participants",
     "knowledgePointURL": "https://www.coindesk.com/filecoin-fil-crypto-data-storage-explained",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1245,7 +1245,7 @@
     "description": "Almost 100,000 Bitcoin are now tokenized on Ethereum, more than half of which have migrated over the past 30 days",
     "knowledgePointURL": "https://cointelegraph.com/news/more-than-1b-in-bitcoin-has-been-tokenized-for-defi",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1264,7 +1264,7 @@
     "description": "It appears that decentralized finance (DeFi) has not peaked despite a deluge of scammy projects and clear copy-cats of popular protocols.  Just recently, a new .finance project launched with the name of Pickle. Despite it being named after a food and having the logo of Pickle Rick from Rick and Morty, Pickle — or Pickle Finance — the coin has seen strong adoption within DeFi circles.",
     "knowledgePointURL": "https://cryptoslate.com/what-is-pickle-finance-new-ethereum-defi-craze-rallies-1000-in-one-day/",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1283,7 +1283,7 @@
     "description": "Undergirding much of the hype around apps that allow users to connect services, mix data sources and commit visual programming is the expectation that businesses will require more customized software than today’s developers will be able to supply. Low-code solutions could limit required developer inputs, while no-code services could obviate some need for developer time altogether. Both no- and low-code solutions could help alleviate the global developer shortage.  But underneath the view that there is a market mismatch between developer supply and demand is the anticipation that businesses will need more apps today than before, and even more in the future. This rising need for more business applications is key to today’s growing divergence between the availability and demand for software engineers.",
     "knowledgePointURL": "https://techcrunch.com/2020/09/14/as-low-code-startups-continue-to-attract-vc-interest-whats-driving-customer-demand/",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -1299,7 +1299,7 @@
     "description": "Chuwi recycled the chassis of the CoreBook Pro for the GemiBook, swapping out the Core i5 processor for the Celeron J4115 and upping the system memory by 50%.",
     "knowledgePointURL": "https://promotion.chuwi.com/chuwi-brand-fest-20/",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "6C7BD6CD-A211-4474-B79D-AE5CFD419A11"
       }
@@ -1312,7 +1312,7 @@
     "description": "Including a capacitive stylus pen and original keyboard docking station, the Hi10X comes in at under $250 (£200/AU$350), which is still far lower than the 64GB version of the Surface Go 2 (which, as a reminder, comes without additional accessories).",
     "knowledgePointURL": "https://www.techradar.com/news/this-little-known-windows-tablet-is-a-great-microsoft-surface-go-2-rival",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "6C7BD6CD-A211-4474-B79D-AE5CFD419A11"
       }
@@ -1325,7 +1325,7 @@
     "description": "Stablecoins, digital tokens pegged one-to-one to the Swiss franc (CHF) in this case, are a prime example. SEBA Bank and Sygnum Bank, the two B2B players that hold banking licenses from the Swiss Financial Market Supervisory Authority and that specialize in digital assets, are both involved in stablecoin explorations, as is the country’s respected crypto conglomerate, Bitcoin Suisse. ",
     "knowledgePointURL": "https://www.coindesk.com/crypto-firms-swiss-franc-stablecoin",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1344,7 +1344,7 @@
     "description": "I’ve shared the outcomes of three major grants: an NSF Computing Education for the 21st Century grant, which I used to explore the design of coding tutorials; my NSF CAREER grant, which I used to explore software help seeking and co-found a software startup; and an NSF Human-Centered Computing grant, which I used to investigate tools to support exploratory programming.",
     "knowledgePointURL": "https://medium.com/bits-and-behavior/studying-programming-language-learning-a-3-year-recap-bda469e5be04",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "72051980-5D19-4590-A001-314645A49294"
       },
@@ -1366,7 +1366,7 @@
     "description": "single-board computer by Iconikal promises to offer more performance than the Raspberry Pi 3 but a fraction of the cost. Iconikal also includes a few accessories, while the board should be compatible with software for the Pine ROCK64.",
     "knowledgePointURL": "https://www.notebookcheck.net/Iconikal-Rockchip-RK3328-A-US-10-single-board-computer-with-more-power-than-a-Raspberry-Pi-3.494023.0.html",
     "timeStamp": "2020-09-14T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "E234F80D-099E-46BA-8B41-48FB7582D023"
       },
@@ -1388,7 +1388,7 @@
     "description": "Weekly Flutter Resources",
     "knowledgePointURL": "https://medium.com/flutterforce",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD"
       }
@@ -1401,7 +1401,7 @@
     "description": "For getting you started in the exciting field of deep learning",
     "knowledgePointURL": "https://towardsdatascience.com/top-10-learning-resources-for-graph-neural-networks-f24d4eb2cc2b",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "BC6BB3D8-E8BD-4EAD-9668-05D0F3A32E9A"
       },
@@ -1426,7 +1426,7 @@
     "description": "With DeFi platforms bringing in profits for users, jumping onto this wagon seems to be highly attractive. But how easy is it to do?",
     "knowledgePointURL": "https://cointelegraph.com/news/defi-app-overview-how-to-navigate-cryptos-new-finance-wave",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1447,7 +1447,7 @@
     "description": "Crypto.com believes that having control over one's finances, data and identity is a basic human right",
     "knowledgePointURL": "https://cointelegraph.com/news/crypto-com-views-chainlink-integration-as-a-gateway-to-defi",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1468,7 +1468,7 @@
     "description": "Traditional user research is slow and analytics can’t tell you *why* users do what they do, or what to do about it. UserLeap is a micro-survey platform that rapidly uncovers insights you can take action on to grow even faster.",
     "knowledgePointURL": "https://userleap.com/",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "39BFC7A0-6F76-4B64-B0A9-0035E2D41A68"
       },
@@ -1484,7 +1484,7 @@
     "description": "Quite a few market analysts suggested that the RISC-V processor architecture could see increased adoption if Nvidia takes over ARM and restricts all related IPs for big players like Apple, Qualcomm or Samsung. ",
     "knowledgePointURL": "https://www.notebookcheck.net/SiFive-announces-new-RISC-V-processor-architecture-plus-its-first-ever-desktop-PC-processor-in-response-to-Nvidia-s-plans-to-dominate-the-server-market.494053.0.html",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "A1E4B7F9-4209-4A70-884D-92BCF380E999"
       },
@@ -1500,7 +1500,7 @@
     "description": "DeFi Heavy Weight Members - Curve Finance, Aave, Synthetix, Balancer, Loopring, Zapper, Zerion, bitpie, Mykey and CoinGecko",
     "knowledgePointURL": "https://cointelegraph.com/news/curve-aave-synthetix-and-7-others-join-global-defi-alliance/amp",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1516,7 +1516,7 @@
     "description": "Ethereum 2.0 is seemingly just around the corner, with the long-awaited network upgrade switching from proof of work to a proof-of-stake model while implementing various other enhancements. But there will be one more brief pit stop before it can go live.",
     "knowledgePointURL": "https://decrypt.co/41777/ethereum-2-0-last-dress-rehearsal-before-launch?amp=1",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1532,7 +1532,7 @@
     "description": "Airtable Apps, more sophisticated users can now build additional functionality in JavaScript — and if they choose to do so, they can then share those new capabilities with other users in the new Airtable Marketplace.vc",
     "knowledgePointURL": "https://techcrunch.com/2020/09/14/airtable-raises-185m-and-launches-new-low-code-and-automation-features/",
     "timeStamp": "2020-09-14T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -1548,7 +1548,7 @@
     "description": "Some industry experts argue that the time has come for business users to be able to steer their own destinies when it comes to application development.",
     "knowledgePointURL": "https://www.zdnet.com/article/is-software-now-everybodys-job-the-implications-of-low-code-and-no-code-for-developers/",
     "timeStamp": "2020-09-13T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -1564,7 +1564,7 @@
     "description": "$28  The kit includes two splitter cables: one for use with the Raspberry Pi 2/3 and display and one for the Raspberry Pi 4 and display. Compatible with the Raspberry Pi B+,2B,3B,3A+,3B+, and 4. Only Compatible with the Official Raspberry Pi Display.\\\\\"",
     "knowledgePointURL": "https://www.ebay.com/itm/SmartiPi-Touch-2-Official-Raspberry-Pi-Display-case-with-cooling-fan-/283924219644?_trksid=p2385738.m4383.l4275.c10",
     "timeStamp": "2020-09-15T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "E234F80D-099E-46BA-8B41-48FB7582D023"
       },
@@ -1589,7 +1589,7 @@
     "description": "To say that the LG Wing is an interesting smartphone would be an understatement of what LG is trying to achieve",
     "knowledgePointURL": "https://www.xda-developers.com/lg-wing-launched-swivel-display-gimbal-camera/",
     "timeStamp": "2020-09-14T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "DBD25B87-F4A7-42A7-B112-3243A75235AD"
       },
@@ -1613,7 +1613,7 @@
     "description": "6 Steps to Keep Your Online Privacy Intact",
     "knowledgePointURL": "https://www.news18.com/news/tech/big-data-is-watching-you-6-steps-to-keep-your-online-privacy-intact-2875609.html",
     "timeStamp": "2020-09-14T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "18040963-7A68-4D01-9CE6-83C2257ED520"
       },
@@ -1632,7 +1632,7 @@
     "description": "Predictive Analytics in 3 Clicks",
     "knowledgePointURL": "https://www.intersectlabs.io/",
     "timeStamp": "2020-09-14T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D"
       },
@@ -1648,7 +1648,7 @@
     "description": "You can build your custom Honeycode app for web browsers and mobile devices so your team can work from anywhere.",
     "knowledgePointURL": "https://www.honeycode.aws/",
     "timeStamp": "2020-09-14T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       }
@@ -1661,7 +1661,7 @@
     "description": "When people build a database to manage reading lists or feed their neighbors, that’s coding—and culture.",
     "knowledgePointURL": "https://www.wired.com/story/databases-coding-real-programming-myth/",
     "timeStamp": "2020-09-14T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -1677,7 +1677,7 @@
     "description": "Amid booming stock prices for publicly-traded software companies, cloud software startup, Airtable, has raised $185 million in a Series D round.",
     "knowledgePointURL": "https://www.forbes.com/sites/stevenbertoni/2020/09/14/cloud-start-up-airtable-raises-185-million-at-25-billion-valuation-and-launches-api-for-outside-coders/#67a0916641e5",
     "timeStamp": "2020-09-14T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       }
@@ -1695,7 +1695,7 @@
     "description": "Crawling API  Easy to use crawler API built from developers to developers.  Bypass blocks and captchas and scrape any website without maintaining infrastructure.  ",
     "knowledgePointURL": "https://proxycrawl.com/",
     "timeStamp": "2020-09-14T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "5D2AC704-5F71-4CF7-8B35-567657982A95"
       },
@@ -1711,7 +1711,7 @@
     "description": "Low-code programming is growing at an astounding rate, with Forrester predicting a compound annual growth rate of 40% through to 2022, where the total market will be valued at $21.2 billion.lo",
     "knowledgePointURL": "https://www.zdnet.com/google-amp/article/finding-success-with-low-code-programming/",
     "timeStamp": "2020-09-13T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -1730,7 +1730,7 @@
     "description": "Deepin Linux distribution is one of the most popular Linux flavors among the Windows and macOS users due to its aesthetics and stability.",
     "knowledgePointURL": "https://www.debugpoint.com/2020/09/deepin-20-review/",
     "timeStamp": "2020-09-13T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "3DF305C7-F09E-4D0E-B464-EFFF646A408E"
       }
@@ -1743,7 +1743,7 @@
     "description": "MWE Labs",
     "knowledgePointURL": "https://www.mwelab.com/en/emperor.html",
     "timeStamp": "2020-09-12T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "03143331-ECA8-4837-9470-3EA8FBFD9E2F"
       },
@@ -1764,7 +1764,7 @@
     "description": "Just as DeFi forks are copying long-standing protocols, smaller DeFi traders can copy whale traders.  ",
     "knowledgePointURL": "https://cryptobriefing.com/the-alpha-wars-how-defi-traders-can-copy-their-way-millions/",
     "timeStamp": "2020-09-12T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1797,7 +1797,7 @@
     "description": "Called DeFi Swap, it allows users to seamlessly exchange or \\\\\"swap\\\\\" tokens in hosted pools and offers yield farming incentives to liquidity providers: the same as Uniswap and, more recently, by the likes of SushiSwap and Binance.  ",
     "knowledgePointURL": "https://www.coindesk.com/crypto-com-binance-liquid-swap-defi",
     "timeStamp": "2020-09-12T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1822,7 +1822,7 @@
     "description": "The Pentagon’s clearinghouse on artificial intelligence is set to deliver a new tool to special operators to conduct psychological operations in near-real time in the information environment",
     "knowledgePointURL": "https://www.c4isrnet.com/artificial-intelligence/2020/09/11/pentagons-ai-center-to-field-new-psychological-operations-tool/",
     "timeStamp": "2020-09-12T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D"
       },
@@ -1846,7 +1846,7 @@
     "description": "we naturally asked Kopelman about some of the big changes afoot in the venture industry right now, including the special purpose acquisition vehicles (SPACs) that are being raised left and right, the rolling fund concept that is gaining traction and how First Round is thinking about diversity.v",
     "knowledgePointURL": "https://techcrunch.com/2020/09/10/vc-josh-kopelman-isnt-so-sure-about-spacs-but-he-thinks-so-called-rolling-funds-could-prove-powerful/",
     "timeStamp": "2020-09-12T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CEA659FB-7718-4E72-A248-11F07AACDB53"
       },
@@ -1865,7 +1865,7 @@
     "description": "Bitcoin mining could provide an environmentally sustainable way for Texas oil and gas companies to use gas they would otherwise be forced to burn",
     "knowledgePointURL": "https://decrypt.co/41618/there-will-be-bitcoin-oil-gas-cash-cow-our-feet",
     "timeStamp": "2020-09-12T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -1889,7 +1889,7 @@
     "description": "An artificial intelligence can adjust video footage in real time to make people appear to lip sync to any sound.",
     "knowledgePointURL": "https://www.newscientist.com/article/2254326-ai-can-edit-video-in-real-time-to-sync-new-audio-to-peoples-lips/",
     "timeStamp": "2020-09-12T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D"
       },
@@ -1913,7 +1913,7 @@
     "description": "We're quickly moving from the Internet of Things (IoT) to the Artificial Intelligence of Things (AIoT).  ",
     "knowledgePointURL": "https://opensource.com/article/20/9/open-source-ai-iot",
     "timeStamp": "2020-09-12T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D"
       },
@@ -1944,7 +1944,7 @@
     "description": "A Loup Guide",
     "knowledgePointURL": "https://medium.com/the-deep-listen/wrangling-assets-in-airtable-a-loup-guide-45fb2e2bb964",
     "timeStamp": "2020-09-12T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -1960,7 +1960,7 @@
     "description": "Farmers are the backbone of the nation, with over 70 percent of Indian households still dependent on farming. However, over the last few decades, farmers have become the forgotten workers of the nation. But thanks to the startup era, farmers appear to have come to the forefront, in large part, due to agritech companies. Adopting the farming-as-a-service (FaaS) model, numerous agritech startups are now endeavouring to bring forth farming-related advanced technological mechanisms to help farming become a sustainable and profit-yielding enterprise. These agritech startups provide a wide variety of services to farmers – from providing farming equipment at affordable prices, to ensuring crop protection.",
     "knowledgePointURL": "https://yourstory.com/2019/03/faas-agritech-startup-farmers-profitable-6zmc83lyci",
     "timeStamp": "2020-09-12T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "0D835922-C0D5-4C81-A1A1-1898578FCB61"
       },
@@ -1984,7 +1984,7 @@
     "description": "Forbids crypto transactions",
     "knowledgePointURL": "https://eng.ambcrypto.com/apple-will-not-feature-dapps-on-appstore-forbids-crypto-transactions-coinbase-ceo/",
     "timeStamp": "2020-09-11T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -2015,7 +2015,7 @@
     "description": "According to Pantera Capital CEO Dan Morehad, DeFi has more chances to grow 100X in the next five years than Bitcoin. ",
     "knowledgePointURL": "https://cointelegraph.com/news/defi-will-outperform-bitcoin-in-next-five-years-says-pantera-capital-ceo-dan-morehead",
     "timeStamp": "2020-09-11T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "E4E4AEC6-FAAF-42F5-AE3C-7FF59114E6D5"
       },
@@ -2034,7 +2034,7 @@
     "description": "The agri asset management company provides farm-as-a-service to people who want to invest in agriculture for long-term wealth gains. The Bengaluru-based startup helps them buy, grow, cultivate, and manage farmlands, and earn an income on their produce. In return, Hosachiguru charges its customers a land fee (Rs 60/per square foot) and an annual farm maintenance cost (depending on the services they avail).  Read more at: https://yourstory.com/2020/09/agritech-startup-hosachiguru-managed-farms-wealth-benefit",
     "knowledgePointURL": "https://yourstory.com/2020/09/agritech-startup-hosachiguru-managed-farms-wealth-benefit",
     "timeStamp": "2020-09-11T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "6EDB569C-D913-4981-8A92-6C8EF7CB8FA0"
       },
@@ -2053,7 +2053,7 @@
     "description": "Git Repository",
     "knowledgePointURL": "https://github.com/nymtech",
     "timeStamp": "2020-09-11T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "75D32FDD-E31D-4674-9596-1DEC6EF11581"
       },
@@ -2075,7 +2075,7 @@
     "description": "Home Space",
     "knowledgePointURL": "https://cloud.protopie.io/",
     "timeStamp": "2020-09-11T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "7DFA7028-D6E0-4FC0-B815-3EBD00348644"
       },
@@ -2094,7 +2094,7 @@
     "description": "Documentation",
     "knowledgePointURL": "https://www.protopie.io/learn/docs/getting-started",
     "timeStamp": "2020-09-11T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "7DFA7028-D6E0-4FC0-B815-3EBD00348644"
       },
@@ -2116,7 +2116,7 @@
     "description": "These days cheap mini PCs and development kits are plentiful. But I was still surprised to see the Iconikal Rockchip 3328 single-board computer selling for just $10.",
     "knowledgePointURL": "https://liliputing.com/2020/09/this-10-single-board-computer-is-faster-than-a-raspberry-pi-3.html",
     "timeStamp": "2020-09-11T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "B350ED13-1019-4285-9E60-13D43F507820"
       },
@@ -2149,7 +2149,7 @@
     "description": "The Airtable for Adobe XD plugin allows you to iterate on your designs using real content from your Airtable bases. If you've got an Airtable base containing UI copy, translations, product images, or other relevant text and images, you can connect Adobe XD with Airtable to download your information from Airtable directly into your wireframes and mockups.",
     "knowledgePointURL": "https://support.airtable.com/hc/en-us/articles/360009887334-Airtable-for-Adobe-XD",
     "timeStamp": "2020-09-11T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -2165,7 +2165,7 @@
     "description": "Building the next generation of privacy infrastructure",
     "knowledgePointURL": "https://nymtech.net/#videos",
     "timeStamp": "2020-09-11T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "BC6BB3D8-E8BD-4EAD-9668-05D0F3A32E9A"
       },
@@ -2193,7 +2193,7 @@
     "description": "Data Science as a Service",
     "knowledgePointURL": "https://www.explorium.ai/platform-dsaas/",
     "timeStamp": "2020-09-11T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D"
       },
@@ -2218,7 +2218,7 @@
     "description": "Nearly 80% of 203 firms responding to a Swiss Blockchain Federation survey have warned of imminent bankruptcy. That would carve a huge hole in the 800+ firms and 4,000 employees that reports say make up the Swiss blockchain sector.",
     "knowledgePointURL": "https://www.swissinfo.ch/eng/switzerland-s-crypto-valley-not-quite-on-its-deathbed/45719750",
     "timeStamp": "2020-09-11T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -2237,7 +2237,7 @@
     "description": "Flies Faster, Farther, Higher, Cheaper",
     "knowledgePointURL": "https://www.youtube.com/watch?v=DDnrBuiYmCI",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "83C5D4C6-0EA0-4BF4-921B-1046A5398716"
       },
@@ -2253,7 +2253,7 @@
     "description": " A better way to do VC, PE and M&A",
     "knowledgePointURL": "https://pitchbook.com/",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CEA659FB-7718-4E72-A248-11F07AACDB53"
       },
@@ -2269,7 +2269,7 @@
     "description": "By Reinventing the Spreadsheet",
     "knowledgePointURL": "https://usefyi.com/airtable-history/",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       }
@@ -2282,7 +2282,7 @@
     "description": "Icons for everything",
     "knowledgePointURL": "https://thenounproject.com",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "AD4FCAF3-BE00-4089-8239-71F3157BFA7D"
       }
@@ -2295,7 +2295,7 @@
     "description": "Mermaid is a Javascript based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams. The main purpose of Mermaid is to help documentation catch up with development.",
     "knowledgePointURL": "https://mermaid-js.github.io/mermaid/#/flowchart",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "73E51254-D14D-426D-A48E-080D6D2A329E"
       },
@@ -2314,7 +2314,7 @@
     "description": "Graph, Language & SEO Analytics",
     "knowledgePointURL": "https://infranodus.com/login?redirect=%2Fwilliam.lee2112%2Fwhitetruck0%2Fedit%3Fabstract%3Dno",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "563EB348-31ED-4D7C-8C53-1D43DDB84041"
       },
@@ -2336,7 +2336,7 @@
     "description": "We're the Social Proof Company",
     "knowledgePointURL": "https://provesrc.com",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D2074AC2-2D64-4AD3-AB13-455EC1C38E00"
       },
@@ -2352,7 +2352,7 @@
     "description": "Get Help with Supernova",
     "knowledgePointURL": "https://www.supernova.io/learn",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "34078A95-5CAF-42FE-83C9-C13094807112"
       },
@@ -2368,7 +2368,7 @@
     "description": "Create basic components like buttons and images in Studio",
     "knowledgePointURL": "https://medium.com/@supernova.io/supernova-101-creating-basic-components-2389b47e1153",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "34078A95-5CAF-42FE-83C9-C13094807112"
       },
@@ -2384,7 +2384,7 @@
     "description": "Create advanced components like tables and collections in Supernova Studio",
     "knowledgePointURL": "https://medium.com/@supernova.io/supernova-101-creating-advanced-components-a2106ca477bb",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "34078A95-5CAF-42FE-83C9-C13094807112"
       },
@@ -2400,7 +2400,7 @@
     "description": "Setup",
     "knowledgePointURL": "https://help.supernova.io/docs/setup-installation",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "34078A95-5CAF-42FE-83C9-C13094807112"
       },
@@ -2416,7 +2416,7 @@
     "description": "Snap those headers!",
     "knowledgePointURL": "https://medium.com/flutter-community/flutter-sliverappbar-snap-those-headers-544e097248c0",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD"
       }
@@ -2429,7 +2429,7 @@
     "description": "Login",
     "knowledgePointURL": "https://www.asuswebstorage.com/navigate/a/#/login?u=https:%2F%2Fservice.asuswebstorage.com",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "7AA0090B-3521-4190-AA16-3ABC05AB4577"
       },
@@ -2445,7 +2445,7 @@
     "description": "Widget Code Reference",
     "knowledgePointURL": "https://github.com/abuanwar072/E-commerce-App-UI-Flutter",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD"
       }
@@ -2463,7 +2463,7 @@
     "description": "Shrine - A fashionable retail app",
     "knowledgePointURL": "https://gallery.flutter.dev/#/demo",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD"
       }
@@ -2476,7 +2476,7 @@
     "description": "In this article, you’ll see the best Flutter app examples with key insights from 18 different app owners and developers who are actively working with the framework.",
     "knowledgePointURL": "https://www.thedroidsonroids.com/blog/apps-made-with-flutter",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD"
       }
@@ -2489,7 +2489,7 @@
     "description": "Diffbot is building the biggest-ever knowledge graph by applying image recognition and natural-language processing to billions of web pages.",
     "knowledgePointURL": "https://www.technologyreview.com/2020/09/04/1008156/knowledge-graph-ai-reads-web-machine-learning-natural-language-processing/",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D"
       },
@@ -2513,7 +2513,7 @@
     "description": "The most beautiful PC of 2020",
     "knowledgePointURL": "https://www.techradar.com/news/the-most-beautiful-pc-of-2020-is-a-tiny-metal-cube-powered-by-amd-ryzen",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "E234F80D-099E-46BA-8B41-48FB7582D023"
       },
@@ -2541,7 +2541,7 @@
     "description": "The network uses two units of exchange: HNT, a new cryptocurrency, and Data Credits",
     "knowledgePointURL": "https://www.helium.com/tokens",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -2566,7 +2566,7 @@
     "description": "The People's Network is powered by a range of technologies, such as the Helium Blockchain and LongFi Wireless Protocol.",
     "knowledgePointURL": "https://www.helium.com/technology",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -2594,7 +2594,7 @@
     "description": "Payments infrastructure for the internet",
     "knowledgePointURL": "https://stripe.com/",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "244A5BCA-4F64-43FA-83DD-86EB1C2E0C91"
       }
@@ -2607,7 +2607,7 @@
     "description": "Layout a Widget",
     "knowledgePointURL": "https://flutter.dev/docs/development/ui/layout",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD"
       }
@@ -2620,7 +2620,7 @@
     "description": "Analytics + Rankings of DeFi Protocols",
     "knowledgePointURL": "https://defipulse.com/blog/",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180"
       },
@@ -2638,7 +2638,7 @@
     "name": "Using the Flutter Inspector",
     "knowledgePointURL": "https://flutter.dev/docs/development/tools/devtools/inspector#using-the-layout-explorer",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "18A50837-734A-4362-8F11-2F354AFDC467"
       },
@@ -2654,7 +2654,7 @@
     "description": "Flutter — Speed upbuild the AlertDialogs, Single Choice Dialog, Multiple Choice Dialog, TextField",
     "knowledgePointURL": "https://medium.com/flutterpub",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD"
       }
@@ -2667,7 +2667,7 @@
     "description": "The database for freedom fighters",
     "knowledgePointURL": "https://gun.eco/",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "BC6BB3D8-E8BD-4EAD-9668-05D0F3A32E9A"
       },
@@ -2695,7 +2695,7 @@
     "description": "Mark Nadal Manifesto",
     "knowledgePointURL": "https://hackernoon.com/wealth-a-new-era-of-economics-ce8acd785441",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -2720,7 +2720,7 @@
     "description": "Crypto News",
     "knowledgePointURL": "https://cryptoslate.com/",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -2739,7 +2739,7 @@
     "description": "Automated Liquidity Protocol",
     "knowledgePointURL": "https://uniswap.org/",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -2755,7 +2755,7 @@
     "description": "What is a Decentralized Exchange (DEX)?",
     "knowledgePointURL": "https://academy.ivanontech.com/blog/defi-deep-dive-what-is-a-decentralized-exchange-dex",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -2771,7 +2771,7 @@
     "description": "In 54 years Bruce French has catalogued 31,170 edible plants",
     "knowledgePointURL": "https://www.abc.net.au/news/2020-08-22/food-plant-solutions-malnutrition-farming-edible-plants/12580732",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "C2021EDF-F653-454E-BAD4-1438AADF816C"
       },
@@ -2790,7 +2790,7 @@
     "description": "Quantstamp",
     "knowledgePointURL": "https://quantstamp.com/blog/btc-on-defi",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -2814,7 +2814,7 @@
     "description": "Tips & Tricks",
     "knowledgePointURL": "https://blog.airtable.com/a-searchable-database-of-the-best-digital-cinema-cameras-for-any-budget/",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -2830,7 +2830,7 @@
     "description": "Product Hunt LIVE: Master Quotes ",
     "knowledgePointURL": "https://airtable.com/universe/expBcMHgU7MzaWkbb/product-hunt-live-master-quotes-database?explore=true",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -2846,7 +2846,7 @@
     "description": "Airtable’s Approach to Distribution and Adoption",
     "knowledgePointURL": "https://openviewpartners.com/blog/airtable-distribution-adoption/#.X1qYV4tOmv5",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       }
@@ -2859,7 +2859,7 @@
     "description": "New Airtable integration for form data automation and management",
     "knowledgePointURL": "https://www.jotform.com/blog/airtable-integration/",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -2878,7 +2878,7 @@
     "description": "Turn your spreadsheets",
     "knowledgePointURL": "https://stacker.app/",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -2902,7 +2902,7 @@
     "description": "Build a powerful web application with your Airtable data.",
     "knowledgePointURL": "https://bubble.io/integration/airtable?ref=producthunt",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -2926,7 +2926,7 @@
     "description": "Using Fact-Based Modelling to Kickstart One-Shot Learning",
     "knowledgePointURL": "https://towardsdatascience.com/fact-based-ai-in-a-nutshell-62a184880e37",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D"
       },
@@ -2948,7 +2948,7 @@
     "description": "Who needs a case? The 3D Printed Mil-Plastic is here!",
     "knowledgePointURL": "https://back7.co/home/back7co-mil-plastic",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "E234F80D-099E-46BA-8B41-48FB7582D023"
       },
@@ -2973,7 +2973,7 @@
     "description": "Tools for Airtable",
     "knowledgePointURL": "https://miniextensions.com/categories/",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       }
@@ -2986,7 +2986,7 @@
     "description": "Open source video conferencing",
     "knowledgePointURL": "https://meet.jit.si",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CA9FE436-D080-4595-A851-718EF1626CA0"
       }
@@ -2999,7 +2999,7 @@
     "description": "Meet the Material blog",
     "knowledgePointURL": "https://material.io/",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "34078A95-5CAF-42FE-83C9-C13094807112"
       },
@@ -3015,7 +3015,7 @@
     "description": "Supernova builds real, production projects. Learn how to get the most out of it in our tutorial series",
     "knowledgePointURL": "https://supernova.io/learn",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "34078A95-5CAF-42FE-83C9-C13094807112"
       },
@@ -3031,7 +3031,7 @@
     "description": "Prepare designs for Supernova Studio the right way",
     "knowledgePointURL": "https://medium.com/@supernova.io/supernova-101-preparing-designs-a812cbbaccb5",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "34078A95-5CAF-42FE-83C9-C13094807112"
       },
@@ -3050,7 +3050,7 @@
     "publishedDate": "2022-09-08",
     "rating": 2,
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD"
       }
@@ -3063,7 +3063,7 @@
     "description": "Code as magic",
     "knowledgePointURL": "https://www.coindesk.com/bitcoin-lost-way-subversive-roots",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A"
       },
@@ -3079,7 +3079,7 @@
     "description": "Researchers introduce a test covering topics such as elementary mathematics, designed to measure language models' multitask accuracy.",
     "knowledgePointURL": "https://syncedreview.com/2020/09/09/new-multitask-benchmark-suggests-even-the-best-language-models-dont-have-a-clue-what-theyre-doing/",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "3EFA9464-997F-48F3-A9B3-6AD0E2D510B0"
       }
@@ -3092,7 +3092,7 @@
     "description": "Encyclopaedia Britannica distills the complexity of human knowledge into educational tidbits anyone can swallow",
     "knowledgePointURL": "https://creatorsandcreatives.com/making-infinite-information-accessible-c1a205efb64b",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD"
       },
@@ -3108,7 +3108,7 @@
     "description": "And why they’re not that different",
     "knowledgePointURL": "https://towardsdatascience.com/when-and-why-tree-based-models-often-outperform-neural-networks-ceba9ecd0fd8",
     "timeStamp": "2020-09-10T00:00:00",
-    "hasTagCollection": [
+    "hasKnowledgePointTagCollection": [
       {
         "@id": "3EFA9464-997F-48F3-A9B3-6AD0E2D510B0"
       }
