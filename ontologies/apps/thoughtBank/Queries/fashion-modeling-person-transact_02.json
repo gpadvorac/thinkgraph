@@ -1,0 +1,36 @@
+{
+  "ledger": "testdata4",
+  "txn": {
+    "@context": {
+      "person": "http://thinkgraph.org/ontologies/core/persons#",
+      "fashion": "http://thinkgraph.org/ontologies/apps/fashion-modeling#",
+      "xsd": "http://www.w3.org/2001/XMLSchema#"
+    },
+    "@id": "person:f10f221e-5950-418b-9320-72ced1d6ac38",
+    "@type": "person:Person",
+    "person:DID": "did:did:123456789abcdefghi",
+    "person:givenName": "Alessandra",
+    "person:familyName": "Fiorentini",
+    "person:birthDate": {
+      "@value": "1992-03-28",
+      "@type": "xsd:date"
+    },
+    "fashion:physicalAttributes": {
+      "fashion:height": {
+        "@value": "1.75",
+        "@type": "xsd:float"
+      },
+      "fashion:weight": {
+        "@value": "60.0",
+        "@type": "xsd:float"
+      },
+      "fashion:eyeColor": "Green",
+      "fashion:hairColor": "Brown"
+    },
+    "fashion:skills": {
+      "fashion:language": "French",
+      "fashion:actingExperience": "Intermediate",
+      "fashion:specializedSkills": "Dancing, Posing"
+    }
+  }
+}
