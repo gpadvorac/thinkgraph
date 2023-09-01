@@ -1,0 +1,9 @@
+version: '3'
+services:
+  fluree:
+    image: fluree/http-api-gateway
+    container_name: fluree3
+    networks:
+        - default
+    ports:
+     - "58090:8090"
