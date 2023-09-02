@@ -1,0 +1,20 @@
+{
+  "ledger": "testdata4",
+  "query": {
+    "@context": {
+      "p": "http://thinkgraph.org/ontologies/core/persons#"
+    },
+    "select": {
+      "?s": [
+        "*"
+      ]
+    },
+    "where": [
+      [
+        "?s",
+        "p:givenName",
+        "Alessandra"
+      ]
+    ]
+  }
+}

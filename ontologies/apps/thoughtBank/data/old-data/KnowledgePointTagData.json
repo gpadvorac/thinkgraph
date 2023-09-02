@@ -1,0 +1,577 @@
+[
+  {
+    "@id": "899D9607-4243-469A-B019-D40D97F6EA27",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "3d printing"
+  },
+  {
+    "@id": "781F7C75-48FC-4F89-A5FF-9B291C04AEBD",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "adobe_xd"
+  },
+  {
+    "@id": "6EDB569C-D913-4981-8A92-6C8EF7CB8FA0",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "agriculture"
+  },
+  {
+    "@id": "D719B889-C37F-4E40-BFC9-14C96A5E114D",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "ai"
+  },
+  {
+    "@id": "94DF0B2E-02A7-43C8-9AA6-A83D51EF1D3C",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "aim"
+  },
+  {
+    "@id": "83C5D4C6-0EA0-4BF4-921B-1046A5398716",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "air_travel"
+  },
+  {
+    "@id": "CE68CA59-30B0-4D6A-8BB6-412D9D0178AD",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "airtable"
+  },
+  {
+    "@id": "BC6BB3D8-E8BD-4EAD-9668-05D0F3A32E9A",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "algorithms"
+  },
+  {
+    "@id": "FB9C0197-B73A-4554-AEBF-C12E8C27209D",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "analytics"
+  },
+  {
+    "@id": "18A50837-734A-4362-8F11-2F354AFDC467",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "android"
+  },
+  {
+    "@id": "78E79B17-B4D0-4D52-BD64-91A03F311B0D",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "app_store"
+  },
+  {
+    "@id": "24F355B7-FB75-4821-8F23-3377F724D8B4",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "apple"
+  },
+  {
+    "@id": "BC331296-EC36-4FFD-8380-AD4073B5A8FF",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "apps"
+  },
+  {
+    "@id": "7AA0090B-3521-4190-AA16-3ABC05AB4577",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "asus"
+  },
+  {
+    "@id": "6E89906E-524D-4B7C-91BC-DEA209F41D4F",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "augmentation"
+  },
+  {
+    "@id": "E1E26757-2BB7-4F83-A4C8-3E55559EB0C7",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "authentication"
+  },
+  {
+    "@id": "B51C3705-E440-4E58-9ECD-6E32DAFDE9E1",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "banking"
+  },
+  {
+    "@id": "115B11CA-DCB2-4D74-85F8-B3BDB9003FAF",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "bitcoin"
+  },
+  {
+    "@id": "DB7DE068-09FA-422F-86C4-95C668F46E67",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "blockchain"
+  },
+  {
+    "@id": "7F1AE404-2584-4394-8AF6-26A915A50F77",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "brain"
+  },
+  {
+    "@id": "DBD25B87-F4A7-42A7-B112-3243A75235AD",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "cameras"
+  },
+  {
+    "@id": "346AAF62-C882-49C7-81FC-01936BB71313",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "campaign"
+  },
+  {
+    "@id": "F836881D-B83E-4BDC-BC3B-CFE135376639",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "cannabis"
+  },
+  {
+    "@id": "73E51254-D14D-426D-A48E-080D6D2A329E",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "charting"
+  },
+  {
+    "@id": "35B93EE5-C49D-4626-A7C1-699F870E3E83",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "cloud_storage"
+  },
+  {
+    "@id": "72051980-5D19-4590-A001-314645A49294",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "coding"
+  },
+  {
+    "@id": "CCFE169F-99B0-4FCC-8094-CF3EB9BCFBE8",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "cpu_gpu"
+  },
+  {
+    "@id": "1DF0083F-1703-41C4-879C-74B278D74A28",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "crawler"
+  },
+  {
+    "@id": "EE45FA96-2D28-4ABE-9243-1FA295307B7A",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "crypto"
+  },
+  {
+    "@id": "CD9D611C-8DA5-4DAA-B582-E0645ABFEA36",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "dapps"
+  },
+  {
+    "@id": "1FC43E85-CFC5-493B-9803-8A90A7D5F4A0",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "dark_tech"
+  },
+  {
+    "@id": "68645B53-6B79-4419-9955-C70A69A481C1",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "data_science"
+  },
+  {
+    "@id": "987BB1ED-504D-434F-8D2B-E262CC4AC4B0",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "database"
+  },
+  {
+    "@id": "9B00C3D0-6C8E-4D74-B900-8F8077890180",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "decentralize"
+  },
+  {
+    "@id": "3EFA9464-997F-48F3-A9B3-6AD0E2D510B0",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "deep_learning"
+  },
+  {
+    "@id": "DD399145-1991-48D9-A93A-AE92550D8502",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "defi"
+  },
+  {
+    "@id": "0D622A8D-EE59-442E-AB08-7EBE9F4EA17F",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "design_ideas"
+  },
+  {
+    "@id": "A942593F-B440-4670-B9E8-4B4BA754B678",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "dev_ops"
+  },
+  {
+    "@id": "19CFB939-44F3-4419-BC66-43FAD8C75EB3",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "diagramming"
+  },
+  {
+    "@id": "B672ACE5-1BB8-40CC-857E-209B3BA3F683",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "disruption"
+  },
+  {
+    "@id": "A822282F-ACD2-4804-A3FD-7EC3CDE5EF22",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "DSaaS"
+  },
+  {
+    "@id": "6296735A-5068-4413-9A55-E774F249BE0D",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "dual_screen"
+  },
+  {
+    "@id": "D2B02E65-FE4E-4321-8094-F072F975D31C",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "economics"
+  },
+  {
+    "@id": "8C168A98-C9A3-4CF6-9E31-C791B82F7417",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "encryption"
+  },
+  {
+    "@id": "21FEBD43-0DEC-4C66-9DB2-A298776F2AAE",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "energy_industry"
+  },
+  {
+    "@id": "E4E4AEC6-FAAF-42F5-AE3C-7FF59114E6D5",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "etherium"
+  },
+  {
+    "@id": "4404F432-8A25-4D58-96A6-BEBA6EF31A38",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "exchange"
+  },
+  {
+    "@id": "E1B8B6D8-1424-4F3C-A3D8-44A0081D17EA",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "farming"
+  },
+  {
+    "@id": "CEA659FB-7718-4E72-A248-11F07AACDB53",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "finance"
+  },
+  {
+    "@id": "53CDD3F9-80C0-41C8-98F5-D92B45765CBB",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "fintech"
+  },
+  {
+    "@id": "8EA3CDE1-D3E4-454B-8F38-CE396BA193AD",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "flutter"
+  },
+  {
+    "@id": "63ED6979-0883-4E4A-B009-65A89329FBBC",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "gaming"
+  },
+  {
+    "@id": "61E5A918-6693-40C4-A11F-809EFB3788D9",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "gaming_engine"
+  },
+  {
+    "@id": "75D32FDD-E31D-4674-9596-1DEC6EF11581",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "git_hub"
+  },
+  {
+    "@id": "74BF4B30-FF65-478D-A338-36685FCDC05B",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "google"
+  },
+  {
+    "@id": "83ABB6B8-9FE0-4591-A082-9654D830FC14",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "graph_db"
+  },
+  {
+    "@id": "42D6E723-B517-4C7B-94DC-5A66B5B73C0F",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "graphs"
+  },
+  {
+    "@id": "1F864871-4827-4306-A68A-BB3371FAE60F",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "helium_network"
+  },
+  {
+    "@id": "07D01153-1308-4721-977C-68DA135D0594",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "home_server"
+  },
+  {
+    "@id": "AD4FCAF3-BE00-4089-8239-71F3157BFA7D",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "icons"
+  },
+  {
+    "@id": "57100CB8-A37B-454C-B993-D124B416F7C7",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "info_warfare"
+  },
+  {
+    "@id": "65D3C2C7-7069-41A0-8F30-60B789D99BF7",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "iot"
+  },
+  {
+    "@id": "99178516-2B05-4FC5-99C5-A1E9F1435CA9",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "it_industry"
+  },
+  {
+    "@id": "8E6D36BB-FB90-4AB8-B3F3-5E1E74EE0890",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "knowledge_graph"
+  },
+  {
+    "@id": "844C100D-7A86-4CDB-AB7A-BC68D072CC91",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "kubernetes"
+  },
+  {
+    "@id": "BFB69657-A228-4AA6-A3CE-779F71D567A0",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "language"
+  },
+  {
+    "@id": "3DF305C7-F09E-4D0E-B464-EFFF646A408E",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "linux"
+  },
+  {
+    "@id": "D2074AC2-2D64-4AD3-AB13-455EC1C38E00",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "marketing_tech"
+  },
+  {
+    "@id": "4AAA523A-60BD-40D1-92B4-A1BCC72F15C1",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "media"
+  },
+  {
+    "@id": "A767E434-B10C-4A68-BC8C-58621A8B3516",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "media_production"
+  },
+  {
+    "@id": "2A899215-763F-4573-967C-5A911BFD873B",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "memory_tech"
+  },
+  {
+    "@id": "B350ED13-1019-4285-9E60-13D43F507820",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "microservices"
+  },
+  {
+    "@id": "62043128-DA12-4FBD-B081-8E9694801FA3",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "mini_pc"
+  },
+  {
+    "@id": "C040F26C-52FA-4709-8983-2981E534AC47",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "mixnet"
+  },
+  {
+    "@id": "7146F093-2439-4C55-B008-C24D9A766411",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "mobile_tech"
+  },
+  {
+    "@id": "563EB348-31ED-4D7C-8C53-1D43DDB84041",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "neo_4j"
+  },
+  {
+    "@id": "E2D7EF8E-CF14-4870-9293-E61E9B79A51E",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "neural_tech"
+  },
+  {
+    "@id": "DC6260CB-8E39-4892-8A40-B956537D45BA",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "no_low_code"
+  },
+  {
+    "@id": "6C7BD6CD-A211-4474-B79D-AE5CFD419A11",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "notebooks"
+  },
+  {
+    "@id": "C0610DB1-3C07-4AB3-8CEA-A7B2DD3CBD73",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "nutrition"
+  },
+  {
+    "@id": "34F68A96-FBFA-407B-8BD2-267C56F28E14",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "nym"
+  },
+  {
+    "@id": "E0C5A5FF-F67C-4D48-B925-ED5E5B6006BF",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "open_source"
+  },
+  {
+    "@id": "244A5BCA-4F64-43FA-83DD-86EB1C2E0C91",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "payments"
+  },
+  {
+    "@id": "18040963-7A68-4D01-9CE6-83C2257ED520",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "privacy"
+  },
+  {
+    "@id": "7DFA7028-D6E0-4FC0-B815-3EBD00348644",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "proto_pie"
+  },
+  {
+    "@id": "5D2AC704-5F71-4CF7-8B35-567657982A95",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "proxy"
+  },
+  {
+    "@id": "A1E4B7F9-4209-4A70-884D-92BCF380E999",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "risc_v"
+  },
+  {
+    "@id": "E234F80D-099E-46BA-8B41-48FB7582D023",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "sbc"
+  },
+  {
+    "@id": "4B97DE31-2213-4513-929D-F1D23E7ACB44",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "security"
+  },
+  {
+    "@id": "DCF772FB-49DF-4FD5-886D-58AC27BB2D27",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "semantic_web"
+  },
+  {
+    "@id": "0728F9D0-6CA7-4C0F-BA7F-A75B8DB5C239",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "seo_tech"
+  },
+  {
+    "@id": "22A3CC53-BBBF-4756-8A2B-70053B04B28E",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "servers"
+  },
+  {
+    "@id": "12E90D71-0F39-4C04-B6A2-5D67715A8D30",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "shroom_dev"
+  },
+  {
+    "@id": "226EDA44-62B8-4C36-8F86-BF99C28B97EE",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "shrooms"
+  },
+  {
+    "@id": "DA152426-448D-4EF3-971F-CD06ECE042B5",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "smart_contracts"
+  },
+  {
+    "@id": "AF2766C4-1862-41D3-8BE4-70EE1C4D6B9F",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "social_impact"
+  },
+  {
+    "@id": "0D835922-C0D5-4C81-A1A1-1898578FCB61",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "startups"
+  },
+  {
+    "@id": "B535CE2E-E065-4298-9F9B-E1900F89439B",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "surveilance"
+  },
+  {
+    "@id": "D0C7B720-6B6C-4CC9-8D25-17AE1998EAD1",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "surveys"
+  },
+  {
+    "@id": "8135AFB8-89ED-480A-BB65-6E881448B587",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "switzerland"
+  },
+  {
+    "@id": "8C34A36B-FA34-4327-AD48-A37787277D68",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "tokens"
+  },
+  {
+    "@id": "E1A2278E-27BF-486F-9394-CB0C75C5E49C",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "trends"
+  },
+  {
+    "@id": "34078A95-5CAF-42FE-83C9-C13094807112",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "ui_ux"
+  },
+  {
+    "@id": "AA6F3CA3-BEB0-4704-9429-38065FE1BFD4",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "uni_swap"
+  },
+  {
+    "@id": "9B14B7B1-BDC8-467C-A9FE-480983A968E9",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "vc"
+  },
+  {
+    "@id": "C2021EDF-F653-454E-BAD4-1438AADF816C",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "vegan"
+  },
+  {
+    "@id": "48076797-F4CC-4B38-8AEB-4EB6708CCBFC",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "venture_capital"
+  },
+  {
+    "@id": "CA9FE436-D080-4595-A851-718EF1626CA0",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "video_confer"
+  },
+  {
+    "@id": "1F2F444F-3DC3-4C23-AA0F-271CAB5B16CA",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "visualizations"
+  },
+  {
+    "@id": "9D41B9B4-9F09-42F6-880D-DA51ACD0CCF9",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "wasm"
+  },
+  {
+    "@id": "D5853090-A02B-4DD4-9DBD-8CEAD9C7E69D",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "web_apps"
+  },
+  {
+    "@id": "39BFC7A0-6F76-4B64-B0A9-0035E2D41A68",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "white_truck"
+  },
+  {
+    "@id": "03143331-ECA8-4837-9470-3EA8FBFD9E2F",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "workstation"
+  },
+  {
+    "@id": "C4F5D9C0-E881-4BBB-A0C8-7CF295644DE2",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "workstation_pc"
+  },
+  {
+    "@id": "F52B6675-9057-4D01-9E53-7D59ED8D7D63",
+    "@type": "KnowledgePointTag",
+    "knowledgePointTag": "zug"
+  }
+]
