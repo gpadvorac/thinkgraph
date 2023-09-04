@@ -1,0 +1,27 @@
+{
+  "ledger": "TB-Test1",
+  "query": {
+    "@context": {
+      "kp": "http://thinkgraph.org/ontologies/apps/thoughtbank/knowledgepoint#"
+    },
+    "select": {
+      "?s": [
+        "*", 
+        {
+          "kp:hasKnowledgePointTagCollection": ["*"]
+        },
+        {
+          "kp:hasKnowledgePointRemarkCollection": ["*"]
+        }
+        
+      ]
+    },
+    "where": [
+      [
+        "?s",
+        "kp:timeStamp",
+        "9/1/2023"
+      ]
+    ]
+  }
+}
