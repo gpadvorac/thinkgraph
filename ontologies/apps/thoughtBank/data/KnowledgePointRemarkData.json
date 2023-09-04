@@ -1,20 +1,25 @@
-[
-  {
-    "@id": "F0C33EF1-BD3D-4C3C-A87A-441D7E8CF8CB",
-    "@type": "KnowledgePointRemark",
-    "knowledgePointId": "3C118DF1-4EBE-458F-8F4C-D8C0DC38249E",
-    "personId": "07B8C031-1AB6-465A-B6DD-E34C1121D92B",
-    "knowledgePointRemark": "These are some test notes!",
-    "timeStamp": "2023-09-02T14:57:40.577",
-    "sortOrder": 1
-  },
-  {
-    "@id": "7D6D037C-96AE-463D-86E9-3BF3F26D82EF",
-    "@type": "KnowledgePointRemark",
-    "knowledgePointId": "686294CF-7EA0-416D-BDF3-4B03649CAA7B",
-    "personId": "07B8C031-1AB6-465A-B6DD-E34C1121D92B",
-    "knowledgePointRemark": "Great Spinning Logo",
-    "timeStamp": "2023-09-02T14:57:40.577",
-    "sortOrder": 1
+{
+  "ledger": "TB-Test1",
+  "txn": {
+    "@graph": [
+      {
+        "@id": "kp:F0C33EF1-BD3D-4C3C-A87A-441D7E8CF8CB",
+        "@type": "kp:KnowledgePointRemark",
+        "kp:knowledgePointId": "3C118DF1-4EBE-458F-8F4C-D8C0DC38249E",
+        "kp:personId": "07B8C031-1AB6-465A-B6DD-E34C1121D92B",
+        "kp:knowledgePointRemark": "These are some test notes!",
+        "kp:timeStamp": "2023-09-02T14:57:40.577",
+        "kp:sortOrder": 1
+      },
+      {
+        "@id": "kp:7D6D037C-96AE-463D-86E9-3BF3F26D82EF",
+        "@type": "kp:KnowledgePointRemark",
+        "kp:knowledgePointId": "686294CF-7EA0-416D-BDF3-4B03649CAA7B",
+        "kp:personId": "07B8C031-1AB6-465A-B6DD-E34C1121D92B",
+        "kp:knowledgePointRemark": "Great Spinning Logo",
+        "kp:timeStamp": "2023-09-02T14:57:40.577",
+        "kp:sortOrder": 1
+      }
+    ]
   }
-]
+}
