@@ -1,0 +1,118 @@
+{
+  "ledger": "TB-Test1",
+  "txn": {
+    "@graph": [
+      {
+        "@id": "kp:3C118DF1-4EBE-458F-8F4C-D8C0DC38249E",
+        "@type": "kp:KnowledgePoint",
+        "schema:name": "Ivy raises $20M to take open-banking payments international | TechCrunch",
+        "schema:description": "Open banking — where traditional banks open up their data with APIs to build new financial services for their customers — has the potential to be one of the payment world’s big disruptors: get it to work right, and it could supplant giant networks (and network fees) like Visa’s when it comes to taking and making payments wherever you might be. Today, a startup out of Berlin called Ivy, which has built an API to create a \"network of networks\" for open banking payments globally, is announcing some funding in its bid to make that a reality.",
+        "kp:knowledgePointURL": "https://techcrunch.com/2023/08/31/ivy-raises-20m-to-take-open-banking-payments-international/amp/",
+        "kp:sourceName": "techcrunch.com",
+        "kp:publishedDate": "2023-08-31",
+        "kp:rating": 3,
+        "kp:recordedById": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+        "kp:timeStamp": "9/1/2023",
+        "kp:hasKnowledgePointTagCollection": [
+          {
+            "@id": "05C26D5C-2EE9-447F-ADFB-4E94497DF6C5",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "87068D6C-CB5F-4D9A-A7EB-DEAAB85F80B5",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "3C20FDE1-C4F8-4D0E-9797-26EAF1B954DE",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "056316AA-4584-4D5E-B39C-A7D1EA49278F",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "FFEA3C2B-4416-472C-8AD8-1AC9C6BDF32E",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "65CD700C-09EF-4A37-A539-50936B71CA0C",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "EE43DCDC-9BB5-4EF4-8BB0-A4D91882298A",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "C9FDD350-754A-48AB-9FAB-A0A12FDE2046",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "77BCFB45-6A73-472F-893D-99C618BB064E",
+            "@type": "kp:KnowledgePointTag"
+          }
+        ],
+        "kp:hasKnowledgePointRemarkCollection": [
+          {
+            "@id": "F0C33EF1-BD3D-4C3C-A87A-441D7E8CF8CB",
+            "@type": "kp:KnowledgePointRemark"
+          }
+        ]
+      },
+      {
+        "@id": "kp:F173957B-2067-4C6C-AF52-72F36DE73FEC",
+        "@type": "kp:KnowledgePoint",
+        "schema:name": "Boost Your Views And Subscribers On YouTube - vidIQ",
+        "schema:description": "Designed to boost your YouTube views Get free insights and guidance to keep your YouTube channel growing.",
+        "kp:knowledgePointURL": "https://vidiq.com/?a=1103&aff_sub=google&aff_sub2=cpc&aff_sub3=660000913430&aff_sub4=&afmc=1yc&source=20202020389_149186879643__",
+        "kp:recordedById": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+        "kp:timeStamp": "9/1/2023",
+        "kp:hasKnowledgePointTagCollection": [
+          {
+            "@id": "89BCF168-CAB4-4EC4-869A-33300F4436CD",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "90B87DEC-7649-48AB-97B9-B3047B29FB7C",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "38096B21-1C2F-4A4C-BDCD-1AB89D1CC96B",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "415377BB-1C01-4A16-943B-26E745A9D4FC",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "6159B065-1E1E-4552-B129-B020ED9C130A",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "382B6452-5E3E-4098-B6ED-9875FB2C9C10",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "57D1AAEE-451C-4BDB-925C-1046DBF95549",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "C33BD9AC-D519-4A32-8FE1-76ACFD167BF5",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "5B35FAEC-BB16-424D-B83A-BB22C333DA66",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "066567FE-1BB2-45EE-A988-EA75A6C5B0E5",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "23CF851D-967E-4164-BECB-D63BBE4D270B",
+            "@type": "kp:KnowledgePointTag"
+          }
+        ]
+      }
+    ]
+  }
+}

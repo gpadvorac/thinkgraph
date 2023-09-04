@@ -1,0 +1,36 @@
+{
+  "ledger": "TB-Test1",
+  "txn": {
+    "@context": {
+      "kp": "http://thinkgraph.org/ontologies/apps/thoughtbank/knowledgepoint#",
+      "schema": "http://schema.org/"
+    },
+    "@id": "kp:f10f221e-5950-418b-9320-72ced1d6ac38",
+    "@type": "kp:KnowledgePoint",
+    "schema:name": "Ivy raises $20M to take open-banking payments international | TechCrunch",
+    "schema:description": "Open banking — where traditional banks open up their data with APIs to build new financial services for their customers — has the potential to be one of the payment world’s big disruptors: get it to work right, and it could supplant giant networks (and network fees) like Visa’s when it comes to taking and making payments wherever you might be. Today, a startup out of Berlin called Ivy, which has built an API to create a \"network of networks\" for open banking payments globally, is announcing some funding in its bid to make that a reality.",
+    "kp:knowledgePointURL": "https://techcrunch.com/2023/08/31/ivy-raises-20m-to-take-open-banking-payments-international/amp/",
+    "kp:sourceName": "techcrunch.com",
+    "kp:publishedDate": "2023-08-31",
+    "kp:rating": 3,
+    "kp:recordedById": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+    "kp:timeStamp": "9/1/2023",
+    "kp:hasKnowledgePointTagCollection": [
+      {
+        "@id": "kp:05C26D5C-2EE9-447F-ADFB-4E94497DF6C5",
+        "@type": "kp:KnowledgePointTag"
+      },
+      {
+        "@id": "kp:77BCFB45-6A73-472F-893D-99C618BB064E",
+        "@type": "kp:KnowledgePointTag"
+      }
+    ],
+    "kp:hasKnowledgePointRemarkCollection": [
+      {
+        "@id": "kp:F0C33EF1-BD3D-4C3C-A87A-441D7E8CF8CB",
+        "@type": "kp:nowledgePointRemark"
+      }
+    ]
+  }
+}
+

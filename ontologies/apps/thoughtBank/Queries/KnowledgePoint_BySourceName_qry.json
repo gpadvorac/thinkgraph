@@ -1,0 +1,28 @@
+{
+    "ledger": "TB1",
+    "query": {
+      "@context": {
+        "p": "http://thinkgraph.org/ontologies/core/persons#",
+        "f": "http://thinkgraph.org/ontologies/apps/fashion-modeling#"
+      },
+      "select": {
+        "?s": [
+          "*", 
+          {
+            "p:birthDate": ["*"]
+          },
+          {
+            "f:physicalAttributes": ["*"]
+          }
+          
+        ]
+      },
+      "where": [
+        [
+          "?s",
+          "p:givenName",
+          "Alessandra"
+        ]
+      ]
+    }
+  }
