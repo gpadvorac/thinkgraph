@@ -1,0 +1,50 @@
+{
+  "ledger": "TB2-Test",
+  "txn": {
+    "@graph": [
+      {
+        "@id": "kp:3C118DF1-4EBE-458F-8F4C-D8C0DC38249E",
+        "@type": "kp:KnowledgePoint",
+        "schema:name": "Ivy raises $20M to take open-banking payments international | TechCrunch",
+        "schema:description": "Open banking — where traditional banks open up their data with APIs to build new financial services for their customers — has the potential to be one of the payment world’s big disruptors: get it to work right, and it could supplant giant networks (and network fees) like Visa’s when it comes to taking and making payments wherever you might be. Today, a startup out of Berlin called Ivy, which has built an API to create a \"network of networks\" for open banking payments globally, is announcing some funding in its bid to make that a reality.",
+        "kp:knowledgePointURL": "https://techcrunch.com/2023/08/31/ivy-raises-20m-to-take-open-banking-payments-international/amp/",
+        "kp:sourceName": "techcrunch.com",
+        "kp:publishedDate": "2023-08-31",
+        "kp:rating": 3,
+        "kp:recordedById": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+        "kp:timeStamp": "9/1/2023",
+        "kp:hasKnowledgePointTagCollection": [
+          {
+            "@id": "05C26D5C-2EE9-447F-ADFB-4E94497DF6C5",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "87068D6C-CB5F-4D9A-A7EB-DEAAB85F80B5",
+            "@type": "kp:KnowledgePointTag"
+          }
+        ]
+      },
+      {
+        "@id": "kp:F173957B-2067-4C6C-AF52-72F36DE73FEC",
+        "@type": "kp:KnowledgePoint",
+        "schema:name": "Boost Your Views And Subscribers On YouTube - vidIQ",
+        "schema:description": "Designed to boost your YouTube views Get free insights and guidance to keep your YouTube channel growing.",
+        "kp:knowledgePointURL": "https://vidiq.com/?a=1103&aff_sub=google&aff_sub2=cpc&aff_sub3=660000913430&aff_sub4=&afmc=1yc&source=20202020389_149186879643__",
+        "kp:recordedById": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+        "kp:timeStamp": "9/1/2023",
+        "kp:hasKnowledgePointTagCollection": [
+          {
+            "@id": "05C26D5C-2EE9-447F-ADFB-4E94497DF6C5",
+            "@type": "kp:KnowledgePointTag"
+          },
+          {
+            "@id": "87068D6C-CB5F-4D9A-A7EB-DEAAB85F80B5",
+            "@type": "kp:KnowledgePointTag"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+
