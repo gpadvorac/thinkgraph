@@ -9,19 +9,15 @@ async function createLedger() {
         message: "New ledger created"
       },
       defaultContext: {
-        id: "@id",
-        type: "@type",
-        xsd: "http://www.w3.org/2001/XMLSchema#",
         rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
         rdfs: "http://www.w3.org/2000/01/rdf-schema#",
-        sh: "http://www.w3.org/ns/shacl#",
+        xsd: "http://www.w3.org/2001/XMLSchema#",
         schema: "http://schema.org/",
-        skos: "http://www.w3.org/2008/05/skos#",
-        wiki: "https://www.wikidata.org/wiki/",
-        f: "https://ns.flur.ee/ledger#"
+        kp: "http://thinkgraph.org/ontologies/apps/thoughtbank/knowledgepoint#",
+        person: "http://thinkgraph.org/ontologies/core/persons#"
       }
     })
-    if (result.status === 200) {
+    if (result.status === 201) {
       console.log(`🚀 --- Ledger ${ledger} was created successfully --- 🚀`);
     }
   } catch (error) {
