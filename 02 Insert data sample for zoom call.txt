@@ -1,0 +1,96 @@
+{
+  "ledger": "Fluree-Questions-01",
+  "txn": {
+    "@graph": [
+        {
+        "@id": "kp:3C118DF1-4EBE-458F-8F4C-D8C0DC38249E",
+        "@type": "kp:KnowledgePoint",
+        "schema:name": "Ivy raises $20M to take open-banking payments international | TechCrunch",
+        "schema:description": "Open banking — where traditional banks open up their data with APIs to build new financial services for their customers — has the potential to be one of the payment world’s big disruptors: get it to work right, and it could supplant giant networks (and network fees) like Visa’s when it comes to taking and making payments wherever you might be. Today, a startup out of Berlin called Ivy, which has built an API to create a \"network of networks\" for open banking payments globally, is announcing some funding in its bid to make that a reality.",
+        "kp:knowledgePointURL": "https://techcrunch.com/2023/08/31/ivy-raises-20m-to-take-open-banking-payments-international/amp/",
+        "kp:sourceName": "techcrunch.com",
+        "kp:publishedDate": "2023-08-31",
+        "kp:rating": 3,
+        "kp:recordedById": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+        "kp:timeStamp": "9/1/2023",
+        "kp:hasKnowledgePointTagCollection": [
+            {
+            "@id": "05C26D5C-2EE9-447F-ADFB-4E94497DF6C5"
+            },
+            {
+            "@id": "87068D6C-CB5F-4D9A-A7EB-DEAAB85F80B5"
+            },
+            {
+            "@id": "3C20FDE1-C4F8-4D0E-9797-26EAF1B954DE"
+            }
+
+        ],
+        "kp:hasKnowledgePointRemarkCollection": [
+            {
+            "@id": "F0C33EF1-BD3D-4C3C-A87A-441D7E8CF8CB"
+            }
+        ]
+        },
+      {
+        "@id": "kp:F173957B-2067-4C6C-AF52-72F36DE73FEC",
+        "@type": "kp:KnowledgePoint",
+        "schema:name": "Boost Your Views And Subscribers On YouTube - vidIQ",
+        "schema:description": "Designed to boost your YouTube views Get free insights and guidance to keep your YouTube channel growing.",
+        "kp:knowledgePointURL": "https://vidiq.com/?a=1103&aff_sub=google&aff_sub2=cpc&aff_sub3=660000913430&aff_sub4=&afmc=1yc&source=20202020389_149186879643__",
+        "kp:recordedById": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+        "kp:timeStamp": "9/1/2023",
+        "kp:hasKnowledgePointTagCollection": [
+          {
+            "@id": "05C26D5C-2EE9-447F-ADFB-4E94497DF6C5"
+          },
+          {
+            "@id": "90B87DEC-7649-48AB-97B9-B3047B29FB7C"
+          },        
+          {
+            "@id": "23CF851D-967E-4164-BECB-D63BBE4D270B"
+          }
+        ]
+      },
+      {
+        "@id": "kp:1D4815ED-E2F0-4ABA-89B1-2C66E0B62150",
+        "@type": "kp:KnowledgePoint",
+        "schema:name": "Hands-on: Lenovo Legion Go",
+        "schema:description": "16GB Ram 8\"screen",
+        "kp:knowledgePointURL": "https://gizmodo.com/hands-on-lenovo-legion-go-1850794888",
+        "kp:recordedById": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+        "kp:timeStamp": "9/1/2023",
+        "kp:hasKnowledgePointTagCollection": [
+          {
+            "@id": "05C26D5C-2EE9-447F-ADFB-4E94497DF6C5"
+          },
+          {
+            "@id": "EB38CFEE-0F3A-4015-A5F7-5BEABD11D480"
+          },       
+          {
+            "@id": "77BCFB45-6A73-472F-893D-99C618BB064E"
+          }
+        ]
+      },
+      {
+        "@id": "kp:03117238-7D07-4B4E-8120-12E5E0C3FE09",
+        "@type": "kp:KnowledgePoint",
+        "schema:name": "State Management | FlutterFlow University - YouTube",
+        "schema:description": "In this video, we delve deep into state management in FlutterFlow. We start with understanding why state management is essential, from tracking user login status to managing filters for lists. The tutorial elucidates how widgets and variables play a vital role in FlutterFlow's state management. Viewers will gain insights into how certain widgets inherently manage their state, and how to utilize widget state for dynamic data binding. The tutorial progresses to expound on the three types of variables in FlutterFlow: component state variables, page state variables, and app state variables. Each has its own scope and utility, ensuring cleaner and more efficient app development. The video showcases how to define, modify, and integrate these variables seamlessly, emphasizing potential pitfalls like null values and their implications. The tutorial wraps up with a practical example of a coffee checkout page, illustrating the real-world application of state management principles in FlutterFlow. Whether you're a beginner or a seasoned FlutterFlow developer, this video serves as a comprehensive guide to mastering state management.",
+        "kp:knowledgePointURL": "https://www.youtube.com/watch?v=jD6L4xjYjJA",
+        "kp:recordedById": "07b8c031-1ab6-465a-b6dd-e34c1121d92b",
+        "kp:timeStamp": "9/1/2023",
+        "kp:hasKnowledgePointTagCollection": [
+          {
+            "@id": "883F44D2-3702-4964-B978-E351014215C9"
+          },
+          {
+            "@id": "EB38CFEE-0F3A-4015-A5F7-5BEABD11D480"
+          },
+          {
+            "@id": "87068D6C-CB5F-4D9A-A7EB-DEAAB85F80B5"
+          }
+        ]
+      }
+    ]
+  }
+}
