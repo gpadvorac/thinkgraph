@@ -1,5 +1,18 @@
-And and OR
+1)  Review Ontology.  Best Practices?
 
+2)  Show "Create Ledger" and defaults
+
+3)  Show Insert
+
+4)  Show Insert with "@type": "kp:KnowledgePointTag"
+
+5)  What things use the ontology to enforce rules and shapes?
+
+6)  Ask about Flakes in Fluree3 and Json-LD.  Haven't seen any mention of it.
+
+7)  Query questions, may move to emial.
+
+And and OR 
 1
    A	"@id": "05C26D5C-2EE9-447F-ADFB-4E94497DF6C5"
    B	"@id": "87068D6C-CB5F-4D9A-A7EB-DEAAB85F80B5"
@@ -20,6 +33,35 @@ And and OR
 	"@id": "883F44D2-3702-4964-B978-E351014215C9"
   C	"@id": "EB38CFEE-0F3A-4015-A5F7-5BEABD11D480"
   B	"@id": "87068D6C-CB5F-4D9A-A7EB-DEAAB85F80B5"
+
+
+
+
+http://thinkgraph.org/ontologies/apps/thoughtbank/knowledgepoint#
+http://thinkgraph.org/ontologies/apps/thoughtbank/knowledgepoint#KnowledgePoint"
+
+
+I have an email to support with subject:
+"Need help linking data correctly."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
