@@ -46,18 +46,72 @@ I have an email to support with subject:
 
 
 
+loom.com
+
+
+
+
+
+https://us06web.zoom.us/rec/share/q3qb-ZWW4cqoISgLbXfqd-GsJfVSzz0yFou9W8vpXbSe9ghOzKbuZRkyT_2W1psa.7eXROiKNt_RuMbDi 
+Passcode: h#018hGb
+
+
+
+xmlns:kp="http://thinkgraph.org/ontologies/apps/thoughtbank/knowledgepoint#"
+
+
+
+
+if this is my IRI:
+"http://thinkgraph.org/ontologies/apps/thoughtbank/knowledgepointtag#"
+
+all lower case makes it hard to read, especially with the doubel t (tt). it is OK to use a hyphen like this?
+"http://thinkgraph.org/ontologies/apps/thoughtbank/knowledgepoint-tag#"
+
+
+you replaced:
+"@type": "kp:KnowledgePoint",
+
+with:
+"rdfs:Class": "kp:KnowledgePoint",
+
+
+
+
+FYI, this is what the data looks like:
+
+
+
+Another way to ask this is:
+
+We want to filter on and array of values using variations of 'AND' and 'OR' logic.
 
 
 
 
 
 
+When I click on a green node, it loads the tags.  good.  
+When I click on it again, it loads the same tags again.  
+We need a property on the node or somewhere so we know it has loaded tags already - so we can prevent loading them again.
+
+
+
+Load a graph and left click to rotate.
+Right click on the screen to pan.  
+Now left click to rotate.  The rotate behavior is changing and is acting a little like the right click behavior.
+Now right click to pan
+Now left click to rotate again.
+
+The more we right click, left click, etc. the more the behaviors merge to be the same.
+
+maybe we need to clear some cache or something.
 
 
 
 
-
-
+Once we get things working good, it might be nice to implement this feature:
+https://vasturiano.github.io/react-force-graph/example/click-to-focus/
 
 
 
