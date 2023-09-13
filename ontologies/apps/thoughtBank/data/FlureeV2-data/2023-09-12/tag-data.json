@@ -1,0 +1,3593 @@
+[
+  {
+    "_id": "tag",
+    "tag/id": "3E8FB97C-5EB4-431F-89EF-011CEFFBF031",
+    "tag/name": "Nationalism",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "91EE120E-A71A-421E-87AB-01A40A1075DA",
+    "tag/name": "DaVinci Resolve",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "77E63FE7-E12B-492D-B028-0202F2ACD4B1",
+    "tag/name": "LinkedIn",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9F048ADC-C8A5-4CD1-A501-0231EE35B0FD",
+    "tag/name": "Bitcoin",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "7AFDB642-953F-4C67-9796-038BFF7AF607",
+    "tag/name": "Republic of China",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "48D7371B-86F7-479A-90F8-03977EBC5ADE",
+    "tag/name": "Nietzsche",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "CE8CC5B3-5548-460E-AFDB-044BEC3F1408",
+    "tag/name": "Progressive Rock",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "18A90383-4784-4E40-8B4A-05644C0CCE92",
+    "tag/name": "FilmMaking",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5A462A21-ECDB-49BF-9370-05CB57070E2C",
+    "tag/name": "Peer to Peer",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4AC6A2BF-14F6-4A40-BDE9-06E221843B2E",
+    "tag/name": "Reputation",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "6369A264-87EB-4284-B73F-080F1660636D",
+    "tag/name": "Privacy Protocol",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "ABB37148-F818-484F-97BB-08776470AA25",
+    "tag/name": "Community Money",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2E861AB0-0090-4D5B-90CE-08FF54367D09",
+    "tag/name": "Scrollytelling",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "49AEC22F-8069-45EB-81B3-0A1520F32FE6",
+    "tag/name": "Gottfried Feder",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "55ACA0B2-DF4E-4CB4-BED5-0A76EBD16286",
+    "tag/name": "AI Infrastructure",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B55F7B10-C94B-4086-9DAC-0B6169530242",
+    "tag/name": "The Fed",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2B432D90-43DA-4A70-9223-0C962C52B0DB",
+    "tag/name": "Churchill",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "DF13D61B-89EC-42A8-BFB3-0D5DB7358BF6",
+    "tag/name": "Intel",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "F006D310-FB60-46D6-8841-0DF2FFA5EE7C",
+    "tag/name": "Web3",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E962CE8B-F42B-47FC-BFBE-0E2181C2346F",
+    "tag/name": "Cardano",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "15B4992E-93F7-48CC-8CEC-0E9DC99BC3A8",
+    "tag/name": "VC",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D77744B4-8377-4519-8990-0EF56EBFD30C",
+    "tag/name": "Cinema Camera",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FAB955B7-E0FD-438C-9152-0EF91E6CCBE7",
+    "tag/name": "Cold War",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "295F01E2-8A00-4C26-A2F8-0EFFDD05868C",
+    "tag/name": "Crypto",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "8E210948-3E75-4D3E-9F0B-0F359A84AB8B",
+    "tag/name": "MiniBook",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "31350183-F734-4E91-8AF9-0FB0E4A77E3D",
+    "tag/name": "Orthodox Jews",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "982334B2-A6DE-4C49-B35F-0FD985DBD30D",
+    "tag/name": "Slack",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B1002676-7FDE-4609-AF8E-10132393F193",
+    "tag/name": "AI Voice Generation",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "21CD49DF-549E-4F7E-AC52-102CF4CED02B",
+    "tag/name": "React Query",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "57D1AAEE-451C-4BDB-925C-1046DBF95549",
+    "tag/name": "Video Editing",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "622A1487-03A8-493F-BA1D-1337421AC24B",
+    "tag/name": "LK-99",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1FA9883F-4417-42C0-AAAB-1372C1CA341B",
+    "tag/name": "Twitter",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E88EC410-E51C-4D31-9F55-138018C76EC6",
+    "tag/name": "Data Brokers",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "687FFB8A-B886-45BC-A909-13A6D5E823E0",
+    "tag/name": "Sony",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0E1E78DA-0826-4B71-A33E-13B0B924E2A4",
+    "tag/name": "Black on Asian Crimes",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B692B0C6-6A6E-425A-86F2-13BEA735B8B5",
+    "tag/name": "Security",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D1EC177B-83DB-4301-811C-13E1C879E53E",
+    "tag/name": "Image Upscaler",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "60926C94-4EF7-4547-B68D-14AAB1EA7BAE",
+    "tag/name": "Personal Finance",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "AE9999A2-11D6-4E6F-BA4F-18009038C996",
+    "tag/name": "Horoscope",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3F2725DA-0EAA-479B-97DA-187E7B8B0A29",
+    "tag/name": "Public Banking",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2586089C-CE33-4FF5-AE15-1887A73800D2",
+    "tag/name": "Educational",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "61C49FCB-C1B9-42B4-BA7C-1945462B9F77",
+    "tag/name": "IndieGoGo",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C366A4F6-C0D3-4DDE-9C73-1956592FD4C4",
+    "tag/name": "LocalHost Tunnel",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "623BCBFE-9127-49B7-BA28-19EDF43A7649",
+    "tag/name": "Hacker Noon",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9851D7C6-80A6-4FA9-B41A-1A0BCB98C7D1",
+    "tag/name": "Power Dynaics",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A0027AED-14BA-4655-865C-1A444272D0CC",
+    "tag/name": "Dynalist",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "16CE9598-A67A-41A0-BBC9-1A5017B7FE57",
+    "tag/name": "Expose",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9D5D0761-F73A-42AA-89D1-1A671BC742EA",
+    "tag/name": "Credit Score",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "38096B21-1C2F-4A4C-BDCD-1AB89D1CC96B",
+    "tag/name": "Media",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FFEA3C2B-4416-472C-8AD8-1AC9C6BDF32E",
+    "tag/name": "Crypto Payments",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "7CD26125-532E-46E3-9376-1AEB1694E287",
+    "tag/name": "Censorship",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "47FD504A-F48D-4B12-B71C-1B0558359809",
+    "tag/name": "Liberty Activist",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2154FDF0-6F9D-49A1-84F2-1BDFDA0E91DD",
+    "tag/name": "Prussia",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2DAD3E87-004C-4AEE-BE33-1C49732E4F6E",
+    "tag/name": "Blog",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "F0BB3231-D4CE-4D4D-87B0-1D2793D54CD8",
+    "tag/name": "Node Workflow",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B031DC94-E6AC-4B6E-94A1-1D55F1DCF9E6",
+    "tag/name": "Alt Coins",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "CF954AD0-A78A-48FF-A7B7-1DA1A7AD5C1F",
+    "tag/name": "Business Credit",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "964CB42D-0F0F-42BB-BD60-1DA2EFF54686",
+    "tag/name": "Finance",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C1966878-84A7-4702-ACCA-1DC2D5EEF885",
+    "tag/name": "Kickstarter",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "F1656F71-221C-4824-A6FE-1DFBCC9FB220",
+    "tag/name": "Politicis",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "7A03084A-7F4E-490B-A308-1E4F31BC88A9",
+    "tag/name": "Prezi",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E1AD2166-BFA4-4129-974B-1F050D386628",
+    "tag/name": "Jeff Rense",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A7981C61-E4C6-4479-9591-1F4336F3828F",
+    "tag/name": "Icons",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5BEC0FEE-743C-455A-86B8-203069D0ACB9",
+    "tag/name": "GitHub",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "BC73EE76-57C4-4BEB-944D-20D964FC3670",
+    "tag/name": "Testosterone",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "29090FE8-869E-4D9B-B758-2108617CE8BC",
+    "tag/name": "Credit Card",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D4E55341-9971-4B76-9EC0-2115BDC930F7",
+    "tag/name": "Virtual Production",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0EADCCEB-DC78-4D45-AAAA-2166FCCB9E48",
+    "tag/name": "Futurist",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "748BF570-3860-4D73-8A54-231618738413",
+    "tag/name": "Ukraine",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "F28D1E33-ED32-458C-AB0D-2341C724370E",
+    "tag/name": "Blockchain Management",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3C9D702C-113C-4145-827A-265B781AC9F2",
+    "tag/name": "OneDrive",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "18F230BC-6523-4519-B7F5-26BC9606D7E3",
+    "tag/name": "Flutter",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "415377BB-1C01-4A16-943B-26E745A9D4FC",
+    "tag/name": "Media Productoin",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3C20FDE1-C4F8-4D0E-9797-26EAF1B954DE",
+    "tag/name": "Banking App",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "31B958DE-A8EF-4039-A9B8-275A44C9DA07",
+    "tag/name": "Kia",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9BD2B867-3261-4F8F-BF63-27A36D82F15B",
+    "tag/name": "Airdrops",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "8AE66ABF-3FB3-46C6-81CA-28C1A91FE200",
+    "tag/name": "Eyes",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0F4C14F9-A753-478D-BE6B-2A9789081EC0",
+    "tag/name": "Web_Design",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D2972486-F0B7-4F3D-8C40-2AF1289D4A4D",
+    "tag/name": "Digital identity",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "F5016093-F953-41A6-80BB-2B92223A4EB6",
+    "tag/name": "Web Scrapping",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9D3314FF-E2D1-4679-B116-2D771625A858",
+    "tag/name": "Tonkat Ali",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "67B6E094-E027-426F-B2BA-2DC94B2C62B7",
+    "tag/name": "Tokens",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "60258F4E-EA1C-4CAB-9793-2E8471A5B793",
+    "tag/name": "Satanism",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FD067818-0D62-44D8-BD73-2EBB0F8BCA26",
+    "tag/name": "Design Tools",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "8195612C-DF86-434F-A643-2EEBA0072B38",
+    "tag/name": "CyberDeck",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "AE26D4AF-8096-44BD-8EBC-2F8F92B5FEED",
+    "tag/name": "SVG",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C787EC9D-E998-4075-BE0A-300D50B3267F",
+    "tag/name": "Mapping",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5ED2A4DF-36E6-4755-A560-30C7EDC9087F",
+    "tag/name": "Europe",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A4C3B738-D67F-4A38-BA33-30FEE37AE9B4",
+    "tag/name": "Storytelling",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B74258B5-A99D-4C82-8ECE-31B3223928F5",
+    "tag/name": "WW2",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E7F09383-DF7E-4F52-B5C6-32332E741381",
+    "tag/name": "Redis",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FA5FF721-7242-472F-815D-324302164681",
+    "tag/name": "InfraNodus",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3479B13D-7D84-46CD-B8C5-32AB53895EF7",
+    "tag/name": "Economics",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "89BCF168-CAB4-4EC4-869A-33300F4436CD",
+    "tag/name": "Branding",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FBC86428-9D41-400D-85ED-334809C4E17B",
+    "tag/name": "NOSTR",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E19F8824-95B1-4247-A1A3-33567C9519AF",
+    "tag/name": "Variables",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "50D8CE75-5DDB-4F16-857D-33CEE27C207F",
+    "tag/name": "Financial Instruments",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "27052FD8-E2EC-4C18-ABF1-35037F485711",
+    "tag/name": "Vegas",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "36022B46-4E02-434F-98FA-35DD916A16FD",
+    "tag/name": "Evolution",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E3B213BA-B56C-49E4-B26D-36617F25BC28",
+    "tag/name": "Messaging",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "97F473FE-EA87-44B5-96A7-37365B8EA8FB",
+    "tag/name": "ID Authentication",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1FC7B52E-F731-4A2E-969C-37E0FD2B1912",
+    "tag/name": "Influencer",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "797D5D55-A88E-4A55-A82A-3A9154E7B294",
+    "tag/name": "App Development",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3575E13E-3640-45C4-8C52-3B5CD9731C7C",
+    "tag/name": "Oswald Mosley",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E0E15A3F-DFDC-4B5D-9B6C-3BA83819E147",
+    "tag/name": "Doc Ingestion & AI Processing",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5E2796DC-2C82-41FD-818D-3D0ADF211DE4",
+    "tag/name": "Coding",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C999B5EE-B807-4556-A8FC-3DB2F29DBC2C",
+    "tag/name": "Enslavement",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "56E16B72-E5B6-4A68-9E7C-3DBEF19BF0B0",
+    "tag/name": "Culture",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5F129C7A-6A8D-45A2-92E2-3DF1D66E9964",
+    "tag/name": "Data Paradigm",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FA6ACF17-2880-4791-9165-3E0F89AFC4CA",
+    "tag/name": "Poison",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "18B57C25-CB9F-45B7-BDB9-3E9EBA467925",
+    "tag/name": "Facial Scan",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "8426A152-7AE1-440A-8325-4012728FAB4C",
+    "tag/name": "Visualizations",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A04120E5-9999-4AC0-90D5-4076EA350552",
+    "tag/name": "Agro",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "585E0662-BD07-409C-800D-40792BA7E7A5",
+    "tag/name": "Liberty News",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E3F1C599-E6D7-42D7-B759-40A57835E822",
+    "tag/name": "Omnivore Reader",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A8A33C68-CE4B-4BA2-940F-40B4F88579F9",
+    "tag/name": "HyperLedger",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2C853158-D784-4306-87B9-4131A5B64E4A",
+    "tag/name": "Fluree",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "961A4489-A93F-4633-A76D-41882F3548AA",
+    "tag/name": "Marxism",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9B8BB02F-EA9C-4F09-BD3C-4214894EF94A",
+    "tag/name": "Usury",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "741E32F7-4625-4B84-8FCA-4255CD88A6D3",
+    "tag/name": "Rive",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "AE988AAC-0948-4DDA-A5A7-42A06009F762",
+    "tag/name": "Music",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FB0AE09E-B0FA-4051-AD0D-43D9C10C1923",
+    "tag/name": "Visual Depth",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "CEABB6E4-34E8-461B-B745-448C195563F7",
+    "tag/name": "Private Messaging",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "584A9624-0F6D-49DD-AF5E-449B86E44280",
+    "tag/name": "Economic Warfare",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1C885210-2355-4CA1-A257-454224114502",
+    "tag/name": "Money Card",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "863A30B5-3196-4C91-B043-4569B0EF52AE",
+    "tag/name": "Card Trading",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A9761D0D-FEE0-4C30-BED6-467F03F15A12",
+    "tag/name": "Crypto Regulation",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "49BFA084-0600-4135-8790-46A7685A7870",
+    "tag/name": "Jared Taylor",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "7F586946-F9F8-4C70-A5E3-478C1354F7C5",
+    "tag/name": "Dystopian",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "53AF6DAC-2BC6-4D74-9F3A-480589861A21",
+    "tag/name": "X-App",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E634B61E-1EA7-4877-89B8-4834514E9B9E",
+    "tag/name": "US",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "815A00B5-2D5E-4868-A7F7-4880D59FEBA5",
+    "tag/name": "Rewards and Points",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "EED6AFD5-7319-4187-A96E-48B24AA50D5F",
+    "tag/name": "Universal Basic Income",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "8C80D115-0EA0-46AE-8715-48ECAD43F7CA",
+    "tag/name": "Singing",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D9C2DD50-2B79-46F7-B524-499593DF1B03",
+    "tag/name": "Debit Card",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "17583B4A-B51A-4AD6-B81F-4A0AC9060CCB",
+    "tag/name": "Fluz",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A6CF7739-41E8-44D7-A2A8-4A9D18B78DBA",
+    "tag/name": "Promise to Deliver",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5A532669-D39D-40F0-88C6-4B7CE8205259",
+    "tag/name": "App Components",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D3D8E457-2931-4EA2-815A-4BA4D844CF76",
+    "tag/name": "Startup",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1F382D4E-8B74-4071-B00E-4BD0322C9908",
+    "tag/name": "Mike Adams",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E7669AD5-DF2B-43A7-AA04-4BE091B6BEC8",
+    "tag/name": "England",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "EACA00AA-7183-4EC1-8D4C-4C6E071332DF",
+    "tag/name": "Businesses to Avoid",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5167E67F-E25A-4B27-98F5-4CD5731B493F",
+    "tag/name": "CSV",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2606AD58-5E27-44C3-9272-4CE12FE4D917",
+    "tag/name": "Knowledge Management",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "16B54CA8-DA96-4109-AA52-4D1947866AF0",
+    "tag/name": "Bible",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "759EC1D2-8443-431B-ABB5-4D47B7D5C25E",
+    "tag/name": "Centralization",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B8395338-B92C-4A59-8E4B-4D7F28481942",
+    "tag/name": "Charisma",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3369F653-C31A-4753-8822-4E2E39A6FA63",
+    "tag/name": "Notebook PC",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "05C26D5C-2EE9-447F-ADFB-4E94497DF6C5",
+    "tag/name": "Alt Bank",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "487ACA4C-9449-4A46-BB9C-4F02B8E8FB86",
+    "tag/name": "War Against Christians",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C1B1D06B-F8A1-468A-9D3B-507B5D14A8A7",
+    "tag/name": "Presentation Design",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "6CF078C0-4887-40E7-8250-507F9D95D75D",
+    "tag/name": "Talmud",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "65CD700C-09EF-4A37-A539-50936B71CA0C",
+    "tag/name": "DeFi",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B615EDA8-687E-41BE-A62F-5166EEBC8B8B",
+    "tag/name": "MasterClass",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "F23F00BB-B008-40DE-A5F2-518118E9A762",
+    "tag/name": "JSON Viewer",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E656D7E1-E8B4-4375-9118-51D5EDA0665D",
+    "tag/name": "AI Generation",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9CC7BDD0-98D7-4CE0-9A2E-521EAAB3E0B7",
+    "tag/name": "BlackRock",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B53AE6CC-590B-4002-A867-52584346587E",
+    "tag/name": "OWL",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "609ADAAC-7465-4C98-8E2D-52B45D237BF0",
+    "tag/name": "IOTA",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "98AA656D-9606-45C6-86F9-53508A87EB51",
+    "tag/name": "SurrealDB",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "14DBFDEB-0771-4DC5-8B5C-535D8E236B72",
+    "tag/name": "AI Code Builder",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9A616B96-1AF1-489F-ABA4-536AF52B6D45",
+    "tag/name": "Slack Clone",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "7C44C644-AC41-4D6C-A58D-53A97179B9D5",
+    "tag/name": "Design Patterns",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A89CF411-2AE8-40BD-AE90-545D28237F6D",
+    "tag/name": "React Flow",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "CAB57DDA-B73B-4391-B377-554718F79227",
+    "tag/name": "China",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "133C1ECE-0C9D-4340-A346-55AA88FD23E1",
+    "tag/name": "PowerPoint",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "073B0347-4F2B-48FD-8AE8-560D3C0D71BF",
+    "tag/name": "MMOG",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "18205078-AE00-4555-9080-56283499A97D",
+    "tag/name": "NatSoc",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "975AD17E-AD70-4802-879A-567A86E57F83",
+    "tag/name": "Relume",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "CD5829DA-98FF-406C-9EB0-56A73FD2FAD7",
+    "tag/name": "Analyst",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "7F722F1B-D394-48A2-BD25-5781C97A38E6",
+    "tag/name": "Tourism",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D6915974-D679-4BC3-A3D6-578FC32E7590",
+    "tag/name": "Crypto Bill Pay",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "50B2257C-B95A-4FD1-850E-5794AB0B0A24",
+    "tag/name": "Code Dependencies",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "AB38E34C-92E0-4B51-80BC-57EF9EF36390",
+    "tag/name": "Financial Management",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1D5D11BE-6815-42D0-AB92-57EFC22C9F5F",
+    "tag/name": "Quantum Mechanics",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5A5114FF-5AE8-4919-9E52-57F71C47021C",
+    "tag/name": "IPFS",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "6F00A9A0-6D0C-4177-9054-57F919C72FEF",
+    "tag/name": "Crypto Returns",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5F679972-BA69-4E64-8E62-5836E39D390B",
+    "tag/name": "Crypto Club",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "6B08AFEB-0797-4009-B375-586E28E826DB",
+    "tag/name": "Historical Trends",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3C5559E3-CC9E-46E8-9961-5A580E05A558",
+    "tag/name": "Art",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "30069D3B-A81A-485D-B210-5A67479E0180",
+    "tag/name": "Key Value Database",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "DA6F2106-9040-494B-97FE-5AA8810B7B28",
+    "tag/name": "Global Address Book",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "533B6BBF-150C-4C93-82B9-5BCA55C731D3",
+    "tag/name": "USSR",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "EB38CFEE-0F3A-4015-A5F7-5BEABD11D480",
+    "tag/name": "Lenovo",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2BD29034-D7F5-43EF-BA0A-5BEDD44F65C6",
+    "tag/name": "UI Library",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "7AF3258B-46B8-42A3-990C-5C4B68D56A93",
+    "tag/name": "News",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "AB997C8D-CCEC-49AA-AA4C-5CADC7B98F87",
+    "tag/name": "JavaScript",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "038FF9CE-71AB-4903-A597-5CCE800B48B4",
+    "tag/name": "Covid",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "99A89D8E-0657-493A-8DB1-5D52D692C711",
+    "tag/name": "Cosmic Simulation",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A5213EE5-AFCD-4041-8DC5-5DEFB5F3E6E7",
+    "tag/name": "CSV Cleaner",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "939EC156-CE45-4330-BB34-5E65E2DFA9C9",
+    "tag/name": "Monitor",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4F15719E-8812-4146-8F9A-5F7E7958EA2E",
+    "tag/name": "Pro-Crypto",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "18AB9721-DA84-470D-BA10-607B1DC59CA4",
+    "tag/name": "Amazon",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "8BE6A401-6E5D-4459-8505-613F9703EF2C",
+    "tag/name": "Deep Fake",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E7D9B8F1-B689-4E01-8663-6153D75AD281",
+    "tag/name": "IRA",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "752A59D3-7153-4E40-B7AA-62227EE6BA93",
+    "tag/name": "Pro-Human AI",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FDBD9FD1-BD08-45DA-BEC5-65180A0C2266",
+    "tag/name": "Red Pill",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0A0AD980-A016-403D-A832-66157ADCD5A3",
+    "tag/name": "Stoicism",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FE2AB3F9-4B38-489F-B569-66CEA8AF2EA4",
+    "tag/name": "Transportation",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3E424AE7-CA44-4E84-8B58-66FBA0D6029E",
+    "tag/name": "Superconductivity",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "812FDCE0-317A-4513-8B87-6708A9ED9B42",
+    "tag/name": "Ron Unz",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9C7A4A9F-D127-413D-A7AF-6795080F7970",
+    "tag/name": "Grafana",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0833191B-1ECB-4D28-8F2F-6801FCAFF9A5",
+    "tag/name": "Ontologies",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "AD1327D6-67ED-46E2-875A-684DE3F45AFC",
+    "tag/name": "Open Source",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "17137CA0-7107-4AC7-A1D1-68E27EC05C07",
+    "tag/name": "Government",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5A8EF28D-6AA6-4E90-9D67-68FC76D8064B",
+    "tag/name": "Bio-Hacking",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "6C4BFEEC-E8BD-4245-B0B2-693A0AE62916",
+    "tag/name": "RV",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C51EA78B-27E4-4F8E-8351-6BDDDD88035B",
+    "tag/name": "Patriarchy",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "CAC8CFB9-91D7-4E0C-8178-6C15F9AC09D4",
+    "tag/name": "AI Reader",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "371731D4-C638-4547-9D2A-6C40B26A9469",
+    "tag/name": "Dostoevsky",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9C05B6B2-7DE8-4D01-9225-6C653200E232",
+    "tag/name": "Bolsheviks",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "90FC5CDD-63B7-42C2-B0B5-6CEF39FA3D57",
+    "tag/name": "Time Machine Playback",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "175F7415-B8E2-48B0-9D71-6CF1BC28E672",
+    "tag/name": "Red Terror",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "03B26E0E-A582-46E5-8132-6DCE0675F428",
+    "tag/name": "CPUs",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "F045706E-D01A-49AB-9A7B-6DE54EE7AE5B",
+    "tag/name": "Web3_Infrastructure",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3D9124BE-84EB-45C0-A4F3-6E62E5D8F35F",
+    "tag/name": "Image Generation",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B0DF8617-241C-40F9-BD05-6EA25EC3BC09",
+    "tag/name": "Utopian",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "324D01F7-870B-4DE6-B68B-6F0A0BE66D0A",
+    "tag/name": "Zionism",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "239B7024-64B1-481B-9C3B-6F55AFB4E676",
+    "tag/name": "Cornering the Market",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "F6107852-DF6D-40B6-BEFA-6FEACA61E46A",
+    "tag/name": "Sanctions",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "89D31FE3-A9BC-48C6-A508-7006DFFA7DC7",
+    "tag/name": "Studio",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "066C8CBA-8C83-40B2-9426-70FC7063892D",
+    "tag/name": "Goat",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C477960C-A9BF-4FAC-BB79-71217636C306",
+    "tag/name": "Decentralized ID",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4A9D3E5C-FBBC-48FE-8875-7186E8B0691E",
+    "tag/name": "Discount Cards",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C07D26AD-89B7-4733-8840-72BFD8AE444F",
+    "tag/name": "Stablecoins",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "249A3E22-E3C6-4282-AE4C-72D83041F480",
+    "tag/name": "Metaphysics",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "EE779EBE-79CC-4F30-A73B-72F98DA28335",
+    "tag/name": "Hollywood",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "8D611F33-4622-44A1-8B2C-73C097B98D2C",
+    "tag/name": "AstraKode",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B958E92B-7215-40B7-9041-74F69939363C",
+    "tag/name": "Aries DID",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0EAAC1DB-DB49-4CCF-81D3-7555BB8EB66F",
+    "tag/name": "Email",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1E26401F-4491-4978-BAB7-75EA8E8E7D51",
+    "tag/name": "Locofy",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D6C3964A-B21F-49C5-A056-760E98B384E4",
+    "tag/name": "SoC PC",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C33BD9AC-D519-4A32-8FE1-76ACFD167BF5",
+    "tag/name": "Video Production",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0AF1CC7C-EB24-43C3-84AF-779A15C10B8B",
+    "tag/name": "FX30",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9BA01F9F-E028-435C-8736-77C1C12AE00F",
+    "tag/name": "AI",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FD8F2F15-CD16-42CB-882A-784D9C2BBE98",
+    "tag/name": "Biometrics",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C81B9DDB-087A-4C2C-9947-79239E590DFA",
+    "tag/name": "No Code",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "BD501D7B-C3D4-415D-AD29-797DE8628FC0",
+    "tag/name": "Mobile App",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "ED752922-BB8B-4313-896E-799634449133",
+    "tag/name": "Crypto-Off-Ramp",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "422C0E16-CFA9-46F6-9206-79EFDA648ED4",
+    "tag/name": "Spices",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "BB49EE52-4F97-40FD-9F9F-79F421547799",
+    "tag/name": "Red Pills",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A43D3DD5-47E4-40BB-AA48-7BDFBF3EA436",
+    "tag/name": "Natural News",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "EA16E818-B58B-432E-90FC-7CB732ADE77F",
+    "tag/name": "DIDs",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "45293D72-400A-4C5D-B3E7-7D1D80365B8F",
+    "tag/name": "Coinbase",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "AA04BA65-DACD-423E-97F2-7DB4BA4152B2",
+    "tag/name": "BRICS",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "698EF516-26D4-44E9-B088-7DEAB8B923AF",
+    "tag/name": "Mini PC",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A4FFDFF2-9C15-402D-8CC0-7EE8EC61E5AD",
+    "tag/name": "PNG to SVG",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "BAE75507-9339-4771-9004-7EEB1995F9C5",
+    "tag/name": "Elon Musk",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "26A34222-FAF1-437D-B4E4-7EFC785ADFF8",
+    "tag/name": "Business",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "DCBE4FCD-588F-4960-BFE2-7FA3900BF9DA",
+    "tag/name": "Power",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FC06556B-3FC2-4861-8A6E-81A3C4475942",
+    "tag/name": "Christianity",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "09C72593-6374-4168-9EE7-81B9ECC0E472",
+    "tag/name": "Semantic Web",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E1032DC7-2136-4045-A671-81C111163667",
+    "tag/name": "Ellen Brown",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E6F02677-3712-41EA-BDEA-833B78AB3C5D",
+    "tag/name": "Outsourcing",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "74B6207C-2AE2-40E4-9371-83E5AFBB18E7",
+    "tag/name": "Directing",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5B30E533-3DD4-4965-8FF2-85B85822A3BF",
+    "tag/name": "Crypto Infrastructure",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5F260B04-659B-41A6-819B-85E6ECF6E53B",
+    "tag/name": "Start a Fund",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "DA4F0D98-E81F-435F-8BAA-85ECFA237486",
+    "tag/name": "IP Protection",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "93F85517-8E33-44D6-AE50-860F32815CA2",
+    "tag/name": "Okta",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B0D46AB1-E7B4-482A-81C8-86C6C7E88892",
+    "tag/name": "History",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "91644B83-C0C7-4DA3-94B5-878F40458B73",
+    "tag/name": "Fenugreek Powder",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "81905B88-301D-4460-A75B-87F6B33792AA",
+    "tag/name": "Framer",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5EA4177C-474C-486B-B50D-882F495B79B6",
+    "tag/name": "MicroStrategy",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "216EDAF6-9D8E-4677-845A-88CB71F46C77",
+    "tag/name": "Orthodox Christianity",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A988836D-6519-44B8-B432-8900B3D74361",
+    "tag/name": "Decentralized Computing",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E9DA3B3D-1470-49C4-BA9B-89DCDC321B00",
+    "tag/name": "Communications",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "43FA2F22-5FF6-4340-957A-8A6DCF1B0636",
+    "tag/name": "Ethereum",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E2A66B79-4975-4352-BFAD-8B405BD6FC8F",
+    "tag/name": "Mindmap",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2A2B8B8F-D54B-46F4-807E-8B6DE178D949",
+    "tag/name": "Solidity",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "42C3348C-B2BA-44AB-B967-8BAAF92F2DD6",
+    "tag/name": "Community Building",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "92EB8113-7F14-43B7-A852-8BFAF877E42B",
+    "tag/name": "Red Pill Warrior",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "BC53AD3E-3F13-48E5-88E4-8CD8562C4469",
+    "tag/name": "Chlorine Dioxide",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "086B1125-3D7D-4AD7-A3E6-8CFF6150F817",
+    "tag/name": "Onboarding",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "7DAAF35A-D34D-4CC6-A552-8ED8509C15EC",
+    "tag/name": "Mindy Robinson",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "CB9E726C-7735-4C3B-9B99-90A0B7973513",
+    "tag/name": "Russia",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A9DA28B8-7C47-4DC7-9B87-91102F1F3CC7",
+    "tag/name": "LeadSemantics",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1E420089-7D89-4545-B825-917EF4770F6C",
+    "tag/name": "IDE",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "724C10D2-EF3C-485F-BC70-91FAF44810BF",
+    "tag/name": "Airtable Clone",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "108B85E1-CA07-41F7-827F-920143C2D1A4",
+    "tag/name": "Stalin",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1DC9F912-46AE-4ECC-894A-92B0ED28D125",
+    "tag/name": "Beelink",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0CE3FD10-DB3B-4D07-BF5E-92CAF47DE00C",
+    "tag/name": "Kristen Ragusin",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "AB5BD07B-A1AE-4CF4-8814-92E653D8D864",
+    "tag/name": "False Flag",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "7FE20E2B-41A2-4E94-A54D-936ED997ABB3",
+    "tag/name": "War",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "CB773623-E2B7-4415-82BD-938F32B7B806",
+    "tag/name": "Relational",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5563C241-09B2-48E7-8CC9-93E17ABB228E",
+    "tag/name": "Analytics",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C9EB5179-EC04-4BC7-A32B-951074337DCB",
+    "tag/name": "Longevity",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "37F0AEE0-00F0-4CE4-809A-956B6288FD1B",
+    "tag/name": "World Energy",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "723B946D-1516-4523-98FD-95F39DB118AD",
+    "tag/name": "Image Editing",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0818928C-71B0-4172-8B51-95F664F3EE4B",
+    "tag/name": "Mobbin",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4079F963-BA58-45A7-A9B2-96941CC155B4",
+    "tag/name": "PC_Hardware",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "380EB4F9-B29C-44EC-B737-96B02EFEDCA1",
+    "tag/name": "Spike Protein",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "047E26FC-8B27-46B8-9E50-97111634928F",
+    "tag/name": "Cloud",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "48EC8DC8-D6A6-4B43-BD87-976584EB9D5E",
+    "tag/name": "Credit Builder",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "21CCF85E-F082-4379-936C-980436CD3506",
+    "tag/name": "JSON-LD",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A37769D4-7B88-47D8-A3B9-983A1F6B0CEB",
+    "tag/name": "Spirituality",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4D68F30C-5AC2-4936-8A04-986D8211831B",
+    "tag/name": "Dora",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "382B6452-5E3E-4098-B6ED-9875FB2C9C10",
+    "tag/name": "User Engagement",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "6FE1C930-009A-4A5B-B604-995D4505C0E7",
+    "tag/name": "Central Bank",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "77BCFB45-6A73-472F-893D-99C618BB064E",
+    "tag/name": "Tech",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "180DC433-207F-4720-869C-99D122F68973",
+    "tag/name": "3D Modeling",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "F81EA1E8-2D02-41D6-9B1F-9A2885D8A7A1",
+    "tag/name": "CBDC",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "74B9AB55-7B55-4C3B-9601-9A7D36C2B1C3",
+    "tag/name": "Abortion",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0F3197E8-32E1-44E6-A8C3-9A856699DB09",
+    "tag/name": "Cash Back",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A9339D32-259C-4A9F-B411-9A918DF1947A",
+    "tag/name": "Robotics",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "21F812CF-4C63-48B4-9BE6-9B520B2600FA",
+    "tag/name": "Brighteon",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "13C16CEA-4D4A-48C3-A412-9C8985E8D0AE",
+    "tag/name": "NodeBox",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5B90CAD1-FAB2-43D2-A61A-9E4D51128185",
+    "tag/name": "Sensors",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "95FB6AF0-8B8F-4D77-B275-9E7876F754DE",
+    "tag/name": "Currency History",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "AAD42328-3BAB-49B0-ACB3-9F3C6490F363",
+    "tag/name": "War Agasint Whites",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C0356F8D-76FA-4487-9323-9F3D82BBFFD7",
+    "tag/name": "Cultural Marxism",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3F5732FD-F312-4E89-9CAF-9F6C2FAED63F",
+    "tag/name": "Fashion Filmmaking",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "8A80C755-A55A-427E-8ADD-9FB81E206F21",
+    "tag/name": "Advanced Tech",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4B0F19F8-74A7-4D4A-A0DE-9FBC283846C6",
+    "tag/name": "Public Benefits Corporation",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1037DEFC-48F9-43CA-BA23-9FDD97DA9BEA",
+    "tag/name": "Mission",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C9FDD350-754A-48AB-9FAB-A0A12FDE2046",
+    "tag/name": "Strategy",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E8E37DEC-4D19-4729-B692-A1332CE68A72",
+    "tag/name": "Science",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D8126D7A-D429-4288-B9F3-A1481D3B6A67",
+    "tag/name": "Taiwan",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "22103661-8995-4ECB-919C-A16B1BA28C1A",
+    "tag/name": "Eugenics",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9DCF6CE1-EF37-41F7-A9FB-A2A7172816C3",
+    "tag/name": "Marriage",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "435088BC-D20A-49AC-A1F5-A2DB00EE12BA",
+    "tag/name": "Radeon",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1C3878AC-23D3-42B3-A75E-A48A7E6AB118",
+    "tag/name": "Feminism",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "CED92D76-A84D-4B3C-AD58-A4BD63AFC36B",
+    "tag/name": "Agro DID",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "EE43DCDC-9BB5-4EF4-8BB0-A4D91882298A",
+    "tag/name": "Payment Processors",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "494BDE04-EC77-4DEB-9CF6-A5740BAA7E45",
+    "tag/name": "Emasculation",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B6F69625-1970-496E-8CDF-A5A9F65B1D39",
+    "tag/name": "Crypto Mining",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D72EA013-3108-4C33-8535-A66A579B9656",
+    "tag/name": "Socialists",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "F4E4F746-0CF7-4CAE-B449-A6D6308D0F5E",
+    "tag/name": "Business Intelligence",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D7ADB3EB-CD8A-48BD-9B7E-A6DC72CD203A",
+    "tag/name": "Graph Visualization",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "6D25AF25-3414-4CE7-933D-A6FB54CDD9AE",
+    "tag/name": "Crypto Wallet",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "056316AA-4584-4D5E-B39C-A7D1EA49278F",
+    "tag/name": "Banking Stack",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B22841CD-B8FA-4F05-9CAD-A8FB5C8ACB00",
+    "tag/name": "Crypto On-Ramp",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "53EC3263-621C-4F42-8860-A9DD241D4AAE",
+    "tag/name": "Smart Contracts",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B1A75F8D-898B-4698-BDA2-AA90AC5AFFA3",
+    "tag/name": "Drip Network",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4428E824-EE01-4330-99B9-AAD3DFF70933",
+    "tag/name": "Marxists",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A6B27286-B533-44A9-BF94-AAEA9A22E9CB",
+    "tag/name": "Logistics",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0FDA1ED9-65DB-4968-8DEE-AB79C78F48C0",
+    "tag/name": "Population Control",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "92061919-3F3B-4E49-B7D1-ABA3978FB9E8",
+    "tag/name": "Intercoin",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C573B7FB-8562-4FFD-8A6B-ABE918F194CD",
+    "tag/name": "Communism",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "57BEB7CF-DAE1-4202-B8D8-AC1570C87117",
+    "tag/name": "Israel",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E0C5DF78-73E0-4A15-95BC-ACC357302065",
+    "tag/name": "Roosh V",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1D9D6B2B-DEB6-4059-8DD4-ACD55FE84031",
+    "tag/name": "Religion",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "494FB962-C2B7-4947-8648-ACF6605CBC3B",
+    "tag/name": "Marcus Aurelius",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "074DFB7D-4885-4A39-A3E1-AD4891C0F8B6",
+    "tag/name": "New World Order",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3E8D58D3-9DC7-47A6-BF50-AE490818689A",
+    "tag/name": "Credit Union Network",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3B23F283-63ED-4BD0-9A6C-AE87FA9935B5",
+    "tag/name": "Global Vision",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "7D137F88-4B02-4167-A8DD-AE8833B3F6D2",
+    "tag/name": "Web Recording Tools",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9C380868-2B39-4CAE-B185-AEE7E8BB5AA2",
+    "tag/name": "Franco",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "11770D0A-B43A-4449-AE43-AF18444CF944",
+    "tag/name": "Orwellian Tech",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "8B229CEF-AFF4-46B9-BE6B-AF42BC934B77",
+    "tag/name": "Natural Law",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A0652B8A-D29D-4D00-AA3D-AF715AC58020",
+    "tag/name": "Banks",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B72EC518-2831-499E-BA17-AFD2A88AC1A0",
+    "tag/name": "Russia Insider",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "6159B065-1E1E-4552-B129-B020ED9C130A",
+    "tag/name": "Social Media",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "19DA4C5E-9B33-4873-88F6-B0BD318625E1",
+    "tag/name": "Infastructure",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D9EDBD75-9179-4C2C-A1A0-B164C6A3BA21",
+    "tag/name": "Decentralized Banking",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "90B87DEC-7649-48AB-97B9-B3047B29FB7C",
+    "tag/name": "Marketing",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FDEC554A-9061-4EF7-915C-B36297897AEB",
+    "tag/name": "MySQL",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "F83EA0DC-1B65-4C19-A77C-B4B92CC45487",
+    "tag/name": "AMD",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D09214BE-A9C8-4741-9B60-B4B9F2D0CE67",
+    "tag/name": "AI Tools",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "BB633439-F038-4F12-ADF3-B5230B4F57A2",
+    "tag/name": "Jews",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B152BCB2-C6E3-4296-AC84-B5F76E670805",
+    "tag/name": "API",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3F3C1E01-A0F6-4BAF-8E8F-B5FA9ED8F9BE",
+    "tag/name": "Personal AI",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E2EB69BB-AE43-428F-B9CC-B782C3042003",
+    "tag/name": "Dating",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "8BEA4508-7FBA-4EFE-87F8-B785DB99D588",
+    "tag/name": "Mao",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A9E64827-F75B-4B1C-BFA2-B8C0BE15A4B3",
+    "tag/name": "Open Data Sets",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C671DB6B-24C3-4DB9-A0E4-B93D5A5D3E88",
+    "tag/name": "NPBF",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "AE314809-6472-4A6E-BD76-B9765B22A8C9",
+    "tag/name": "Viagra",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "DD5AC6FF-3D60-419F-AAD1-BA3AB3D5DDED",
+    "tag/name": "LLMs",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5B35FAEC-BB16-424D-B83A-BB22C333DA66",
+    "tag/name": "Videography",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4247BF3C-FB97-4B12-9292-BB827057AC5C",
+    "tag/name": "Blockchain",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3A6674C2-C254-412A-92A3-BC92C9B85FE5",
+    "tag/name": "Bonds",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0AC249ED-FBAB-43BC-B924-BDA25887E661",
+    "tag/name": "Force Graph",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FCF131D7-5E12-4973-96F5-BEAC3C288A51",
+    "tag/name": "Ted Kazinski",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "268A1F06-A271-4C74-8355-BECDC9E0E64E",
+    "tag/name": "chatGPT",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "EF4063C9-4700-4F69-A718-BED648C3A757",
+    "tag/name": "ChatBot",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "7832737C-D5E7-4DEE-8B13-C056DE344CD3",
+    "tag/name": "Congress Woman",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "91949E62-09C7-4D63-AB13-C15563D2F5DA",
+    "tag/name": "Benchmarks",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4F06DA02-66EB-444C-933D-C1ECD6E3D93C",
+    "tag/name": "Values",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4C7BD7F2-8DA4-45EF-B906-C273CA47FCE2",
+    "tag/name": "Community Portal",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0298A1AA-98BF-478B-BE5D-C2C2F8D68F11",
+    "tag/name": "ML Libraries",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "01833D8C-B3EA-46C9-83B2-C375A35E2E95",
+    "tag/name": "API Data Library",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "44DBAF8D-319E-459B-9E3C-C3886F50285D",
+    "tag/name": "Hive",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FB633A37-1481-4337-BDAF-C39315A15E1D",
+    "tag/name": "PDFs",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A0FAA07D-887D-45F0-BA18-C3E35FD1E8D7",
+    "tag/name": "Figma",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0A92184B-10F7-4179-8F54-C4BFCC10A460",
+    "tag/name": "Vectary",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "34F62C04-3B7E-459D-A839-C559CB7CB19C",
+    "tag/name": "Crypto Security",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A2B40207-9FD2-41AE-B7D9-C5E0653A5DCD",
+    "tag/name": "Compliance",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "ABEFBFC9-2280-4895-BEF9-C6587A42578B",
+    "tag/name": "Housing",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9D68860E-557D-4A1D-9833-C67E5836288C",
+    "tag/name": "Investment",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E9EBDF3A-80E5-45D7-B96E-C74F936468E2",
+    "tag/name": "City Living",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2D67C177-9360-4A02-9E84-C7C555769F5F",
+    "tag/name": "Raspberry Pi",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "6A465A30-DD53-4F28-A51C-C7E596BF3739",
+    "tag/name": "Marlowe",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "91A14B49-8055-4E0A-8BA2-C7F4B3F2E0BB",
+    "tag/name": "Technologist",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "095BAF9D-EF7C-4795-8064-C88333EDDED5",
+    "tag/name": "Fintech",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "F16D60C7-5AD6-400F-A058-C89A997E41AD",
+    "tag/name": "Knowledge Graphs",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "BF55991E-8812-485D-8BCD-C9120146C307",
+    "tag/name": "LMQL",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "7024FEB6-EE21-4C0E-B4C8-C9D2DF9AF865",
+    "tag/name": "Code Visualization",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3D2F98EE-7DD7-4181-BEC1-CA311E9FE03D",
+    "tag/name": "Subcontractors",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A51058D2-D852-4DD2-B832-CA3F9ABD8D01",
+    "tag/name": "GraphQL",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "200BBEAD-1EE0-497B-AE4C-CA90229DE252",
+    "tag/name": "Movies",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9B6EC5B8-7CD0-40A9-9FDB-CB40FB917BF4",
+    "tag/name": "Subversion",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "82CD1674-2367-48A3-94FB-CBF63DA3E08C",
+    "tag/name": "Nvidia",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "8B64BA7D-F3B0-4735-BFAA-CC04645E960D",
+    "tag/name": "Web Draw",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "6332BBEB-283E-47FB-A1C5-CCB1B3C7B82B",
+    "tag/name": "Dusty Faces",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "20A4999E-09F9-4D92-A846-CCB831478947",
+    "tag/name": "C2PA",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E32B9021-25CC-4ED9-887C-CCF6AEF603FB",
+    "tag/name": "App Builder",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "742EB16D-174D-468A-9F90-CDADC4685E24",
+    "tag/name": "Store Credit",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0FDEAE1D-3A68-4AE6-8441-CDD186816C4A",
+    "tag/name": "Holohoax",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "CCA86A43-DC4B-47EA-BF12-CDE905A66B87",
+    "tag/name": "Spritz Finance",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C80687E7-79F6-487F-8AB2-CE107F1E6EA3",
+    "tag/name": "Society",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4D9EF731-FF96-40C3-8C55-CE9016A64D23",
+    "tag/name": "Design",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C441B6DF-23C5-444F-A859-CEC89D3E6DBE",
+    "tag/name": "ML Training",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E467A5EF-177A-46CF-95F7-CED345F175CE",
+    "tag/name": "Stable Diffusion",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A4995535-898C-40A7-B928-CFDB4020813B",
+    "tag/name": "Backendless",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "636B2364-7B00-4F12-BF50-CFE199B58B58",
+    "tag/name": "Fundraising",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "28674983-C618-4F49-964D-D01EB2EC74CA",
+    "tag/name": "Obsidian",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E808FF16-5A7B-4F5B-8881-D0479A274443",
+    "tag/name": "Llama",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "AAF2C569-28C3-4373-8DB3-D12385E76DDF",
+    "tag/name": "Hitler",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "BC00BCC0-BF58-494E-9E78-D17C84C98408",
+    "tag/name": "GPU",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "41F86D81-8D2D-41A7-9CD0-D19ABAA8B25D",
+    "tag/name": "Tel Aviv",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2DD7C29B-9F8B-4891-AE28-D223DECBB8F0",
+    "tag/name": "Chang Kai Shek",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "DD5C27D5-75B5-428B-91B2-D35ECB7863B6",
+    "tag/name": "ELP",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "372DD551-88DC-4DBB-9596-D3DDEB22DC4B",
+    "tag/name": "CSS",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "285614C9-3910-4D1D-8D87-D56AD2B98D31",
+    "tag/name": "Drawing",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3572BA54-B472-4F5C-8D5C-D60FEFC350C5",
+    "tag/name": "FaceTec",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "23CF851D-967E-4164-BECB-D63BBE4D270B",
+    "tag/name": "YouTube",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "F47A25BB-CE3D-4189-AB41-D686EF85AF73",
+    "tag/name": "TechCrunch",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "EEB8E66E-973C-4E37-A849-D687ED83F667",
+    "tag/name": "Cosmotheism",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B9BBAB57-A3AC-4293-B17B-D74ABE9D6A1A",
+    "tag/name": "RDF",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1F7754F6-B02C-4169-9815-D799DDB451B8",
+    "tag/name": "Germany",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "6E4EF810-B735-449A-B549-D8156F55E190",
+    "tag/name": "JSON",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FCE7ED3C-E916-46A2-9CC4-D868095F3F19",
+    "tag/name": "Handsome Truth",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2008517A-6522-4337-9F07-D91B02CDD5E1",
+    "tag/name": "Morals",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "60DCA6AC-2FA7-444C-A0CD-D923B8E2979B",
+    "tag/name": "Tech Industry",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0109D575-76DE-4D63-A274-DA3622A2EB42",
+    "tag/name": "Animation",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E62A84A6-957F-4A16-900C-DA71787114CB",
+    "tag/name": "Monetary System",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "8B34AAFD-8342-48B7-9D3D-DA9E3EBD007A",
+    "tag/name": "New Testament",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "060ABAAB-F0BC-4897-B5CA-DCA724F9C1DF",
+    "tag/name": "NPBF Strategy",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FD511AD6-2190-4EC7-8B5F-DCAF851CE5C5",
+    "tag/name": "Christians for Truth",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E1455E57-4AD7-4445-BC93-DCCCAEAB2CB7",
+    "tag/name": "Anti-Semitism",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "47A3B952-84E7-49C7-8988-DCDE39CBDD5F",
+    "tag/name": "Trivia",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B3D644D9-5730-4EE3-A97D-DCFBC7DC8C24",
+    "tag/name": "Image Converter",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A8EAC97E-8646-44F8-B943-DE6F69BB5929",
+    "tag/name": "Multi-Modal DB",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "56D8C7A1-4405-41D7-A2F7-DE73BC3E5E3F",
+    "tag/name": "Integration",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "87068D6C-CB5F-4D9A-A7EB-DEAAB85F80B5",
+    "tag/name": "Banking",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4F60E742-4529-4488-8546-DF2B3326623F",
+    "tag/name": "Software Engineering",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "989A1505-0D14-4672-82F3-DF651D1B71ED",
+    "tag/name": "Jitter",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2D67763A-4208-474E-8140-DFFE50065FB6",
+    "tag/name": "Exchanges",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "E590393B-2777-45C8-B7BB-E070E86982BC",
+    "tag/name": "Civilization",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1855C35F-AABA-4F07-94D5-E0C5A1D78324",
+    "tag/name": "Worldview",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5C06D243-15C4-4514-8009-E0CF199D1953",
+    "tag/name": "San Francisco",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "CA2E967A-9D08-46D2-81A9-E1047C757107",
+    "tag/name": "George Lincoln Rockwell",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "EB7F3B56-C0C1-497F-8656-E14D63975469",
+    "tag/name": "Masculinity",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D77F5B8B-2020-4300-9616-E195DEA56044",
+    "tag/name": "Ted Pike",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "EFF0F629-9E35-438F-8CF7-E1FE225CF44A",
+    "tag/name": "Codux",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9DF3BFF8-4462-430D-A10F-E2A839560E18",
+    "tag/name": "Shipping",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "912AC0D7-B25C-44CF-8B4F-E2B6D7B8B9D8",
+    "tag/name": "Button Creator",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2136428E-8051-4FE4-8957-E3488ECB50B0",
+    "tag/name": "Freemasons",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "883F44D2-3702-4964-B978-E351014215C9",
+    "tag/name": "AI App Builder",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "5622110D-4C14-4A7F-90EB-E39F7332DEC0",
+    "tag/name": "Health",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D2125873-7D92-44EA-B6B9-E4475E41E1F8",
+    "tag/name": "Go Grain",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1D2EF240-6A79-48D9-A627-E4A219511250",
+    "tag/name": "Video Games",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "ED2CCA44-CB42-4366-B316-E540750ABCCA",
+    "tag/name": "Data Visualizations",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4DAB2462-C682-458C-9173-E574BA6CD04F",
+    "tag/name": "Airtable",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A30A385C-C2C6-4568-B1E9-E5CCF82B39AE",
+    "tag/name": "W3C",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0DE0712B-9B0C-4472-B466-E7F0D518822B",
+    "tag/name": "Ngrok",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A1841689-8879-4893-9232-E859220F41C2",
+    "tag/name": "Wyoming",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0F365559-3DD6-4E4F-9280-E8C657696FE3",
+    "tag/name": "Privacy",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "992D6CF8-5AAC-4D87-BA5C-E90954D93285",
+    "tag/name": "Meta",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "FDE6CAAF-4C7F-42C2-8B06-E92567A62B26",
+    "tag/name": "Genocide",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "2B163A43-D77E-4568-A1D6-E93C4141ED86",
+    "tag/name": "Database",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4D46C96B-4B06-410E-8F70-EA1C473C09D5",
+    "tag/name": "American",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "84530FD8-4375-472C-8133-EA2800FDCC67",
+    "tag/name": "Text to Diagram",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "066567FE-1BB2-45EE-A988-EA75A6C5B0E5",
+    "tag/name": "Videos",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "7519768C-E846-4274-9B68-EAB817AAB0F8",
+    "tag/name": "Postgres",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C0D3F90F-45BA-47D6-92F4-EAC8CD13B23B",
+    "tag/name": "CSS Scan",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "6C891FC4-1623-40CE-B534-EB9CA8235D38",
+    "tag/name": "Desktop PC",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "015F6982-56D2-4A00-83A8-EBF0E9E6627D",
+    "tag/name": "Image Effects",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "30957358-420C-4A69-93FE-EC1241E587B1",
+    "tag/name": "Search Engine",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B4CF6C3A-59AE-46A6-B233-EC5F4F2B81BD",
+    "tag/name": "Philosophy",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "533C1B8D-9976-4F63-8102-EC7C6842725A",
+    "tag/name": "IoT Devices",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "9802FBB0-E38E-46C1-B2C6-ECC85285380F",
+    "tag/name": "DIY chatGPT",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "006B1571-CA1B-46A2-818A-EE8D14420559",
+    "tag/name": "Python",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "77AB3B0D-410E-4417-9E3D-EEAACD2F2DA5",
+    "tag/name": "Chuwi",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "1E65182A-794A-47A9-8399-EEBE5D952175",
+    "tag/name": "Fascism",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3A8EF404-671A-4193-BCEA-EECF481CA000",
+    "tag/name": "Color Palette",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0C289A43-371B-4AA1-AF54-EEEF1BA9C53C",
+    "tag/name": "NDE",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "54E2A4BB-167B-4D2E-9F7E-F0500EF7316F",
+    "tag/name": "Global Trade",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D541C864-5E77-461E-811E-F09C64278CB7",
+    "tag/name": "ID",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A8FBE0A0-5F52-4D50-94FF-F0C5634B3D4B",
+    "tag/name": "LGBTQP",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "07C48E26-C2DC-4F6C-94E1-F15EF1BC130F",
+    "tag/name": "Schema",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C0E97F88-78F8-4141-8FE0-F15F8C56EC09",
+    "tag/name": "Sputnik News",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C114CD5F-7D60-4B9E-9821-F31AD48C61EA",
+    "tag/name": "Rust",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C6371143-D62B-450E-9B0D-F3B1DE8F7734",
+    "tag/name": "Castle Wolfenstein",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "A377FAA1-EDA4-4BF8-9BAE-F46A6449CD92",
+    "tag/name": "Kaggle",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3F0FF782-2E6D-4E3C-8109-F48B38DF1A42",
+    "tag/name": "Business Chat",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "145809C0-E23D-40A4-85CC-F48F9ADC4840",
+    "tag/name": "Multi-Polar World",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B12AC882-451C-4629-887D-F549703FAB1F",
+    "tag/name": "Unz Report",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0BC8615F-9AC2-47F5-A9FF-F6628A434BE0",
+    "tag/name": "Vax",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "3BF68E3C-7EC4-4DB5-B3DC-F737C5702B39",
+    "tag/name": "Wireframing",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "89EEF6B8-D811-49E7-84E6-F8F3E8910C68",
+    "tag/name": "PC Case",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "318FCBB8-EDF2-4FA0-99A9-F93585F3402F",
+    "tag/name": "Genetic Engineering",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "4409FE3F-02F4-49A2-A200-FA3D94677996",
+    "tag/name": "Queensryche",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "0BE7D25B-474A-4B70-95DF-FA96CD8203D2",
+    "tag/name": "UI UX",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "7B5B7044-C7EF-4115-A67B-FAEC978FBC0F",
+    "tag/name": "ThinkGraph",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "F1A3A92F-FBA6-4061-891A-FB1CFA1289CA",
+    "tag/name": "Decentralization",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C4EF061E-9456-4E81-A277-FBAF23C950FD",
+    "tag/name": "Spain",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "8C56D600-2C53-4471-AA6F-FC3EA60FF3CA",
+    "tag/name": "User Management",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "22CB74B5-DC6E-4820-9B57-FC8E5BCA5D91",
+    "tag/name": "React",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "C417A1EB-8BED-40EE-BDBB-FCB596C53ACE",
+    "tag/name": "Crypto Strategy",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "99B9BF23-48A1-4F59-A929-FCEBC95041A6",
+    "tag/name": "Black Screen",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "B3BA4E45-28B0-4ABD-B2A7-FE6227F1854C",
+    "tag/name": "Education",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "729EEDA3-407B-4F37-B321-FEE8D4E99957",
+    "tag/name": "Gift Cards",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  },
+  {
+    "_id": "tag",
+    "tag/id": "D85C71DB-82BA-4103-A5FC-FFECB1E34AA2",
+    "tag/name": "Chinese",
+    "tag/isActive": true,
+    "tag/remarks": ""
+  }
+]
