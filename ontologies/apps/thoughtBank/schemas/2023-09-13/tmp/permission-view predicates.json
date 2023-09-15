@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "_predicate",
+    "name": "permission-view/id",
+    "doc": "GUID for this permission-view.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "permission-view/name",
+    "doc": "Name of the permission-view.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "permission-view/isActive",
+    "doc": "Is this tag acitve.  If not then it should not show up in lists and not be used for security.",
+    "type": "boolean",
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "permission-view/remarks",
+    "doc": "Any comments about this permission-view",
+    "type": "string",
+    "unique": false,
+    "index": false
+  }
+]

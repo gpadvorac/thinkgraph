@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "_predicate",
+    "name": "resource-rating/id",
+    "doc": "GUID for this resource-rating.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource-rating/rating",
+    "doc": "Value of the rating: 1 to 5.",
+    "type": "int",
+    "unique": false,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource-rating/userId",
+    "doc": "ID of the user making this rating",
+    "type": "string",
+    "unique": false,
+    "index": false
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource-rating/remarks",
+    "doc": "Any remarks about this rating",
+    "type": "string",
+    "unique": false,
+    "index": false
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource-rating/isActive",
+    "doc": "Is this rating acitve.  If not then it should not show up in lists.",
+    "type": "boolean",
+    "index": true
+  }
+]

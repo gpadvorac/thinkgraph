@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "_predicate",
+    "name": "tag/id",
+    "doc": "GUID for this tag.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "tag/name",
+    "doc": "Name of the tag.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "tag/isActive",
+    "doc": "Is this tag acitve.  If not then it should not show up in lists.",
+    "type": "boolean",
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "tag/remarks",
+    "doc": "Any comments about this tag",
+    "type": "string",
+    "unique": false,
+    "index": false
+  }
+]

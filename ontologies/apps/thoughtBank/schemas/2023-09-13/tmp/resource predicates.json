@@ -1,0 +1,95 @@
+[
+  {
+    "_id": "_predicate",
+    "name": "resource/id",
+    "doc": "GUID for this resource.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/name",
+    "doc": "Name of the resource such as a title of a web page, file name of a pdf, etc.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/description",
+    "doc": "Descripiton of the resource.",
+    "type": "string",
+    "unique": false,
+    "index": false
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/url",
+    "doc": "URL where this resource can be found.",
+    "type": "uri",
+    "unique": false,
+    "index": false
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/source",
+    "doc": "Where did this come from?  Website, company, person, etc.",
+    "type": "string",
+    "unique": false,
+    "index": false
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/date",
+    "doc": "Published date, date file was created, etc.",
+    "type": "string",
+    "unique": false,
+    "index": false
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/remark",
+    "doc": "Any comments about this tag",
+    "type": "string",
+    "unique": false,
+    "index": false
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/recordedById",
+    "doc": "The Person ID of the user who added this resource to the system",
+    "type": "string",
+    "unique": false,
+    "index": false
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/isActive",
+    "doc": "Is this resource acitve.  If not then it should not show up in lists.",
+    "type": "boolean",
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/hasTags",
+    "type": "ref",
+    "restrictCollection": "tag",
+    "multi": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/hasPermissionViews",
+    "type": "ref",
+    "restrictCollection": "permission-view",
+    "multi": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/hasRatings",
+    "type": "ref",
+    "restrictCollection": "resource-rating",
+    "multi": true
+  }
+
+]

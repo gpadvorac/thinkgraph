@@ -1,0 +1,528 @@
+
+
+in sql server 2019 I have 2 tables, zPage and zPage2Tag where zPage2Tag is a Many-To-Many mapping table between pages and tags:
+
+CREATE TABLE [dbo].[zPage](
+	[PageId] [uniqueidentifier] NOT NULL,
+	[PageName] [nvarchar](max) NULL
+) 
+
+and
+
+CREATE TABLE [dbo].[zPage2Tag](
+	[PageId] [uniqueidentifier] NULL,
+	[TagId] [uniqueidentifier] NULL
+) 
+
+
+
+all pages are linked to many tag.  write a query that lists only pages linked to BOTH tag IDs:
+9BA01F9F-E028-435C-8736-77C1C12AE00F
+and
+89BCF168-CAB4-4EC4-869A-33300F4436CD
+
+
+
+
+
+SELECT DISTINCT dbo.zPage.PageId, dbo.zPage.PageName
+FROM            dbo.zPage INNER JOIN
+                         dbo.zPage2Tag AS zPage2Tag1 ON dbo.zPage.PageId = zPage2Tag1.PageId   INNER JOIN
+                         dbo.zPage2Tag AS zPage2Tag2 ON dbo.zPage.PageId = zPage2Tag2.PageId 
+
+where zPage2Tag1.TagId = '9BA01F9F-E028-435C-8736-77C1C12AE00F' AND zPage2Tag2.TagId = '89BCF168-CAB4-4EC4-869A-33300F4436CD'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Possible bug?
+Sorry for the long post, I will have to add a reply below to include all the info:
+
+In Nexus I have a dataset with 2 collections, resource and tag, where a resource can be linked to many tags using hasTag predicate.
+
+* Example 1: Using the 1st WHERE clause below returns 13 items where it should return only 2.
+
+* Example 2: Adding an orderBy fixes the results and it returns only 2 items as expectd.
+  Why is this?
+
+* Example 3: Remove the orderBy and revise the WHERE clause fixes the problem.
+  I don't understand why Example 1 did not work.
+
+
+These are the predicates for the resource collections:
+```
+  {
+    "_id": "_predicate",
+    "name": "resource/id",
+    "doc": "GUID for this resource.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/name",
+    "doc": "Name of the resource such as a title of a web page, file name of a pdf, etc.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/hasTags",
+    "type": "ref",
+    "restrictCollection": "tag",
+    "multi": true
+  }
+```
+
+and these are the predicates for the tag collection:
+```
+  {
+    "_id": "_predicate",
+    "name": "tag/id",
+    "doc": "GUID for this tag.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "tag/name",
+    "doc": "Name of the tag.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  }
+```
+
+NOTE:  We want to return only resources linked to 'BOTH' tags (not one or the other).
+Example 1)  Returns 13 resources where it should return only 2.
+```
+{
+  "select": {
+    "?resource": [
+      "resource/id",
+      "resource/name"
+    ]
+  },
+  "where": [
+    ["?resource", "resource/hasTags", ["tag/id", "38096B21-1C2F-4A4C-BDCD-1AB89D1CC96B"]],
+    ["?resource", "resource/hasTags", ["tag/id", "D4E55341-9971-4B76-9EC0-2115BDC930F7"]]
+  ]
+}
+```
+
+Example 2) I add an orderBy clause as shown below, it returns the 2 resources as it should.  Why does the first query give incorrect results?
+```
+{
+  "select": {
+    "?resource": [
+      "resource/id",
+      "resource/name"
+    ]
+  },
+  "where": [
+    ["?resource", "resource/hasTags", ["tag/id", "9BA01F9F-E028-435C-8736-77C1C12AE00F"]],
+    ["?resource", "resource/hasTags", ["tag/id", "89BCF168-CAB4-4EC4-869A-33300F4436CD"]],
+    [
+      "?resource",
+      "resource/name",
+      "?resourceName"
+    ]
+  ],
+  "opts": {
+    "orderBy": "?resourceName"
+  }
+}
+```
+Note:  If the WHERE clause logic was to -OR- logic:
+```
+["tag/id", "38096B21-1C2F-4A4C-BDCD-1AB89D1CC96B"]
+OR
+["tag/id", "D4E55341-9971-4B76-9EC0-2115BDC930F7"]
+```
+then it should return 37 items, so either way, 13 is not correct.
+
+Any idea what is happening in 1st query above?
+
+
+Example 3)
+
+I removed the orderBy and revised the WHERE clause, and this provides the correct results (2 resources).
+
+```
+{
+  "select": {
+    "?resource": [
+      "resource/id",
+      "resource/name"
+    ]
+  },
+  "where": [
+    ["?resource", "resource/hasTags", "?tag"],
+    ["?tag", "tag/id", "9BA01F9F-E028-435C-8736-77C1C12AE00F"],
+    ["?resource", "resource/hasTags", "?otherTag"],
+    ["?otherTag", "tag/id", "89BCF168-CAB4-4EC4-869A-33300F4436CD"]
+  ]
+}
+```
+
+
+
+
+
+list-tags-active-active.json
+
+
+
+
+
+====================================================================
+
+
+
+I'm using Fluree2 and have a dataset with 2 collections, resource and tag, where a resource can be linked to many tags using hasTag predicate.
+
+
+These are the predicates for the resource collections (notice the hasTags predicate is a collection of 'tag/id's):
+```
+  {
+    "_id": "_predicate",
+    "name": "resource/id",
+    "doc": "GUID for this resource.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/name",
+    "doc": "Name of the resource such as a title of a web page, file name of a pdf, etc.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/hasTags",
+    "type": "ref",
+    "restrictCollection": "tag",
+    "multi": true
+  }
+```
+
+and these are the predicates for the tag collection:
+```
+  {
+    "_id": "_predicate",
+    "name": "tag/id",
+    "doc": "GUID for this tag.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "tag/name",
+    "doc": "Name of the tag.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  }
+```
+
+
+I need to write a query that lists all tags linked to all resources that are linked to a spefic tag id.  
+
+in otherwords:
+
+using tag/id:
+"tag/id", "9BA01F9F-E028-435C-8736-77C1C12AE00F"
+
+
+Get all resources linked to that tag id.
+
+from those resources, list a Distinct list of all tags linked to those resourses.
+
+write this query.
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "selectDistinct": {
+    "?otherTags": [
+      "tag/id",
+      "tag/name"
+    ]
+  },
+  "where": [
+    // Find all resources that are linked to the given tag/id
+    ["?specifiedTag", "tag/id", "9BA01F9F-E028-435C-8736-77C1C12AE00F"],
+    ["?resource", "resource/hasTags", "?specifiedTag"],
+    
+    // From those resources, find all tags linked to them
+    ["?resource", "resource/hasTags", "?otherTags"]
+  ],
+  // To ensure that the specified tag itself doesn't come up in the results
+  "filterNot": {
+    "?otherTags": "?specifiedTag"
+  }
+}
+
+
+
+
+{
+    "selectDistinct": {
+        "?allTags": [
+            "id",
+            "name"
+        ]
+    },
+    "where": [
+        [
+            "?tag",
+            "tag/id",
+            "9BD2B867-3261-4F8F-BF63-27A36D82F15B"
+        ],
+        [
+            "?rel",
+            "tag_resource_rel/tag_id",
+            "?tag"
+        ],
+        [
+            "?rel",
+            "tag_resource_rel/resource_id",
+            "?allTaggedResources"
+        ],
+        [
+            "?allRels",
+            "tag_resource_rel/resource_id",
+            "?allTaggedResources"
+        ],
+        [
+            "?allRels",
+            "tag_resource_rel/tag_id",
+            "?allTags"
+        ]
+    ],
+    "opts": {
+        "orderBy": "name"
+    }
+}
+
+
+{
+    "selectDistinct": {
+        "?allTags": [
+            "id",
+            "name"
+        ]
+    },
+    "where": [
+        [
+            "?tag",
+            "tag/id",
+            "9BD2B867-3261-4F8F-BF63-27A36D82F15B"
+        ],
+        [
+            "?rel",
+            "tag_resource_rel/tag_id",
+            "?tag"
+        ],
+        [
+            "?rel",
+            "tag_resource_rel/resource_id",
+            "?allTaggedResources"
+        ],
+        [
+            "?allRels",
+            "tag_resource_rel/resource_id",
+            "?allTaggedResources"
+        ],
+        [
+            "?allRels",
+            "tag_resource_rel/tag_id",
+            "?allTags"
+        ]
+    ],
+    "opts": {
+        "orderBy": "name"
+    }
+}
+
+
+
+write a query that returns just this one tag:
+ "tag/id", "77BCFB45-6A73-472F-893D-99C618BB064E"
+
+
+
+Possible bug in back-to-back updates.
+
+I have a query that sets the "isActive" predicate to true or false.  
+
+In this case it was value true and I set it to false, which worked as expected:
+```
+[
+  {
+    "_id": [
+      "tag/id",
+      "77BCFB45-6A73-472F-893D-99C618BB064E"
+    ],
+    "tag/isActive": false
+  }
+]
+```
+
+and this query:
+```
+{
+  "select": {
+    "?tag": [
+      "tag/id",
+      "tag/name",
+      "tag/isActive"
+    ]
+  },
+  "where": [
+    ["?tag", "tag/id", "77BCFB45-6A73-472F-893D-99C618BB064E"]
+  ]
+}
+```
+gave me this result:
+```
+[
+  {
+    "tag/id": "77BCFB45-6A73-472F-893D-99C618BB064E",
+    "_id": 369435906933034,
+    "tag/name": "Tech",
+    "tag/isActive": false
+  }
+]
+```
+All Good!
+
+However, when I run the update again setting it back to true
+```
+[
+  {
+    "_id": [
+      "tag/id",
+      "77BCFB45-6A73-472F-893D-99C618BB064E"
+    ],
+    "tag/isActive": true
+  }
+]
+```
+
+the value remains false.
+
+I also ran the same update query setting "isActive" to true from postman.  the status was 200 OK, but the falue in Fluree for that tag is still false.
+
+Any idea why its 'stuck' on false?
+
+
+
+New queries are working good and they are not a complex as before.
+
+You can fine the files for the queires here:
+
+
+You can use these in the app:
+List all tags - list-tags-active.json
+
+
+
+
+
+{
+    "select": {
+        "?tag": [
+            "id",
+            "name",
+            "remark",
+            "url"
+        ]
+    },
+    "where": [
+        [
+            "?tag",
+            "tag/name",
+            "?name"
+        ],
+        {
+            "filter": [
+                "(re-find (re-pattern \"(?i)ana\") ?name)"
+            ]
+        }
+    ],
+    "opts": {
+        "orderBy": "name"
+    }
+}
+
+
+====================================================================
+
+
+
+I'm using Fluree2 and have a dataset with 2 collections, resource and tag, where a resource can be linked to many tags using hasTag predicate.
+
+
+These are the predicates for the resource collections (notice the hasTags predicate is a collection of 'tag/id's):
+```
+  {
+    "_id": "_predicate",
+    "name": "resource/id",
+    "doc": "GUID for this resource.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/name",
+    "doc": "Name of the resource such as a title of a web page, file name of a pdf, etc.",
+    "type": "string",
+    "unique": true,
+    "index": true
+  },
+  {
+    "_id": "_predicate",
+    "name": "resource/hasTags",
+    "type": "ref",
+    "restrictCollection": "tag",
+    "multi": true
+  }
+```
+
